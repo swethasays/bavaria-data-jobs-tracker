@@ -1,0 +1,91 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "AI Engineer",
+  "city": "Regensburg",
+  "radius_km": 50,
+  "count": 2,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Security Specialist (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-25"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "93049",
+            "ort": "Regensburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.017318331,
+          "laenge": 12.060743281
+        }
+      ],
+      "chiffrenummer": "89541",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-25"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-25",
+      "aenderungsdatum": "2026-10-24T07:01:19.134",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Uniper SE",
+      "arbeitgeberKundennummerHash": "3CffSQMdUZRGZl6ZJ3gbPH2EYfBRXq9CYnTnKAnOjWA=",
+      "referenznummer": "13064-44528927-1024-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Principal Engineer Package Concept Engineering (f/m/div) - HRC1870725",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-02-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "93049",
+            "ort": "Regensburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.0173183,
+          "laenge": 12.0607433
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "HRC1870725",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T19:45:15.927",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Infineon Technologies AG",
+      "arbeitgeberKundennummerHash": "X6Sb94BmLvtJEp_8p6XoEX_WqHnL7jtdOJ1TYFcHzFk=",
+      "referenznummer": "12874-1652069-1-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    }
+  ]
+}

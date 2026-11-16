@@ -1,0 +1,101 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Scientist",
+  "city": "Würzburg",
+  "radius_km": 50,
+  "count": 2,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analysten / Data Analystinnen (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97421",
+            "ort": "Schweinfurt",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.0469114,
+          "laenge": 10.2218516
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-04T11:14:16.789",
+      "externeURL": "https://www.stellenanzeigen.de/job/detail/SDE-131802/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Data Scientist",
+      "alternativBeruf2": "Data-Analyst/in",
+      "firma": "Bayerisches Landesamt für Statistik",
+      "referenznummer": "11858-SDE-131802-STA-S",
+      "entfernung": 36,
+      "alleBerufe": [
+        "Data Scientist",
+        "Data-Analyst/in",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & AI Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97980",
+            "ort": "Bad Mergentheim",
+            "region": "BADEN_WUERTTEMBERG",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4494304,
+          "laenge": 9.7731837
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "4578",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-12T08:21:30.987",
+      "hauptberuf": "Data Engineer",
+      "firma": "Würth Industrie Service GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "UaXr2RxO6i954R8MniBruNrWe1Pj0S39oU443wte8Lk=",
+      "referenznummer": "18325-44564130-119-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    }
+  ]
+}

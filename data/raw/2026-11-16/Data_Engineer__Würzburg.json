@@ -1,0 +1,172 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Engineer",
+  "city": "Würzburg",
+  "radius_km": 50,
+  "count": 4,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & AI Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97980",
+            "ort": "Bad Mergentheim",
+            "region": "BADEN_WUERTTEMBERG",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4494304,
+          "laenge": 9.7731837
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "4578",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-12T08:21:30.987",
+      "hauptberuf": "Data Engineer",
+      "firma": "Würth Industrie Service GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "UaXr2RxO6i954R8MniBruNrWe1Pj0S39oU443wte8Lk=",
+      "referenznummer": "18325-44564130-119-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Linux Infrastructure Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97080",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.813252600001,
+          "laenge": 9.913860099
+        }
+      ],
+      "chiffrenummer": "JN -092026-81862",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T10:08:54.281",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-647033-7878-8348-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT System Engineer - Modern Datacenter/Hybrid Cloud Plattform (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-05-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97074",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.7822835,
+          "laenge": 9.9610939
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "81763",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-02-14",
+      "aenderungsdatum": "2026-11-11T12:51:01.034",
+      "hauptberuf": "IT-Berater/in",
+      "firma": "Bechtle AG",
+      "arbeitgeberKundennummerHash": "EJiA5e5WtbxLv88mkzJRHL_DgiNrKSJ6r1oaRKtlSIU=",
+      "referenznummer": "15086-43971689-213-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Security Specialist (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-25"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97080",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.813252600001,
+          "laenge": 9.913860099
+        }
+      ],
+      "chiffrenummer": "89541",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-25"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-25",
+      "aenderungsdatum": "2026-10-24T07:01:19.134",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Uniper SE",
+      "arbeitgeberKundennummerHash": "3CffSQMdUZRGZl6ZJ3gbPH2EYfBRXq9CYnTnKAnOjWA=",
+      "referenznummer": "13064-44528927-1024-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    }
+  ]
+}

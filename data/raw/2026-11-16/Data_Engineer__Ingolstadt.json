@@ -1,0 +1,1438 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Engineer",
+  "city": "Ingolstadt",
+  "radius_km": 50,
+  "count": 34,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Technical Data Engineer (m/w/d) AIRBUS",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 56000.0,
+      "gehaltsspanneBis": 58000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T13:31:56.425",
+      "externeURL": "https://bewerbung.jobs/599ec634-b272-47a6-b728-927bfd42c333?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "alternativBeruf1": "Ingenieur/in - Systems Engineering",
+      "firma": "Orizon GmbH, Unit Aviation",
+      "referenznummer": "14751-417A25601-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering",
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "airbus - A400M Maintenance Data Manager (d/m/w)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-17"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 70000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35115074",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-11-16T07:15:24.708",
+      "externeURL": "https://jobboard.compleet.com/?externalId=4983451420",
+      "hauptberuf": "Data Engineer",
+      "firma": "Randstad Professional",
+      "referenznummer": "11119-4983451420-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "New Connectivity Design Hub Engineer (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10449636",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-11-12T09:59:53.888",
+      "hauptberuf": "Data Engineer",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-978484882-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Technical Data Engineer - Maintenance Manual (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 73000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-03-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-16",
+      "aenderungsdatum": "2026-10-21T12:24:56.854",
+      "hauptberuf": "Techniker/in - Luftfahrttechnik/Bachelor Professional in Technik",
+      "alternativBeruf1": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "fabplus GmbH",
+      "arbeitgeberKundennummerHash": "CGQS0jt5WJx7XROEOaWZYAV89g8WyCPk-9k7iaKdfOs=",
+      "referenznummer": "15339-1578-1760211-0-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Techniker/in - Luftfahrttechnik/Bachelor Professional in Technik",
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer Optronic Testing and Data Acquisition (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 55000.0,
+      "gehaltsspanneBis": 70000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "VA55-61712-A",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T07:45:44.260",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Physiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "FERCHAU GmbH Niederlassung Augsburg",
+      "arbeitgeberKundennummerHash": "L4oXxRWTUuz2EXhZk7NVVtRVcsWmeve2BFUqJjk6waU=",
+      "referenznummer": "12265-523804_JB5293548-S",
+      "entfernung": 24,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Physiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Engineer  - New Connectivity Design Hub (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10449629",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-26",
+      "aenderungsdatum": "2026-11-12T09:59:55.138",
+      "hauptberuf": "Data Engineer",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-979218029-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer Optronic Testing & Data Acquisition (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-31"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-30T12:32:45.911",
+      "hauptberuf": "Ingenieur/in - Physik",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-507183-1799976-0-S",
+      "entfernung": 24,
+      "alleBerufe": [
+        "Ingenieur/in - Physik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Systems Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 70000.0,
+      "gehaltsspanneBis": 78000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-11-13T12:09:43.994",
+      "hauptberuf": "Ingenieur/in - Systems Engineering",
+      "alternativBeruf1": "Ingenieur/in - Fahrzeugelektronik",
+      "alternativBeruf2": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "fabplus GmbH",
+      "arbeitgeberKundennummerHash": "CGQS0jt5WJx7XROEOaWZYAV89g8WyCPk-9k7iaKdfOs=",
+      "referenznummer": "15339-1812-1800560-0-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering",
+        "Ingenieur/in - Fahrzeugelektronik",
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "HUMS Technical Support Specialist (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10439712",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-25",
+      "aenderungsdatum": "2026-11-12T09:59:29.073",
+      "hauptberuf": "Data Engineer",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-973079992-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Electronics Design Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85049",
+            "ort": "Ingolstadt, Donau",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.766046597,
+          "laenge": 11.353235341
+        }
+      ],
+      "chiffrenummer": "JN -102026-83846",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-02T09:14:48.841",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-646721-7878-2677-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Flight Aerodynamic Engineer (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 48000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.712430303,
+          "laenge": 11.503282748
+        }
+      ],
+      "chiffrenummer": "VA88-59921-AVMUC",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T07:46:24.646",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "alternativBeruf1": "Ingenieur/in - Maschinenbau",
+      "firma": "FERCHAU GmbH GB Aviation München",
+      "arbeitgeberKundennummerHash": "8EF-l1J43SdmFti7YhpyzsRuLrKOgEUA5WQkL9Y7Ad4=",
+      "referenznummer": "12265-242762_JB5297667-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Ingenieur/in - Luft- und Raumfahrttechnik",
+        "Ingenieur/in - Maschinenbau"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Electronics Design Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85049",
+            "ort": "Ingolstadt, Donau",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.766046597,
+          "laenge": 11.353235341
+        }
+      ],
+      "chiffrenummer": "JN -102026-83846",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T14:02:32.118",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-646646-7878-4955-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Konfigurationsmanager (m/w/d) im Bereich NH90",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-30",
+      "aenderungsdatum": "2026-11-12T13:04:05.285",
+      "hauptberuf": "Konfigurationsmanager/in",
+      "alternativBeruf1": "Data Engineer",
+      "firma": "fabplus GmbH",
+      "arbeitgeberKundennummerHash": "CGQS0jt5WJx7XROEOaWZYAV89g8WyCPk-9k7iaKdfOs=",
+      "referenznummer": "15339-1715-1787604-0-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Data Engineer",
+        "Konfigurationsmanager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer (m/f/d) Flight Test",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 52000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.712430303,
+          "laenge": 11.503282748
+        }
+      ],
+      "chiffrenummer": "VA69-63145-AVMUC",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T07:46:24.552",
+      "hauptberuf": "Ingenieur/in - Systems Engineering",
+      "alternativBeruf1": "Ingenieurinformatiker/in",
+      "firma": "FERCHAU GmbH GB Aviation München",
+      "arbeitgeberKundennummerHash": "8EF-l1J43SdmFti7YhpyzsRuLrKOgEUA5WQkL9Y7Ad4=",
+      "referenznummer": "12265-242748_JB5297666-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering",
+        "Ingenieurinformatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Testability Engineer Eurodrone (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10437660",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-12T10:00:15.522",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-982104550-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Flight Operations Engineer (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10442231",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-11-12T09:59:45.369",
+      "hauptberuf": "REFA-Ingenieur/in (Industrial Engineering)",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-976639133-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "REFA-Ingenieur/in (Industrial Engineering)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Safety Engineer (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10410675",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-05-20",
+      "aenderungsdatum": "2026-11-12T09:58:27.479",
+      "hauptberuf": "Ingenieur/in - Elektromobilität",
+      "alternativBeruf1": "Bachelor Professional - IT (Informationssicherheit)",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-947045201-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Ingenieur/in - Elektromobilität",
+        "Bachelor Professional - IT (Informationssicherheit)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Testability Engineer Eurodrone (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10437660",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-11",
+      "aenderungsdatum": "2026-11-12T09:59:22.372",
+      "hauptberuf": "Testingenieur/in",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-970200030-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Testingenieur/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Safety Engineer (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10385930",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-04-10",
+      "aenderungsdatum": "2026-11-12T09:58:23.631",
+      "hauptberuf": "Ingenieur/in - Automatisierungstechnik",
+      "alternativBeruf1": "Ingenieur/in - Elektromobilität",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-938678357-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Ingenieur/in - Automatisierungstechnik",
+        "Ingenieur/in - Elektromobilität"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Simulation Engineer Helicopter Systems (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -022026-73964",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-02T09:14:48.414",
+      "hauptberuf": "Ingenieur/in - Systems Engineering",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644867-7878-9697-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Logistic Support Analysis Engineer Eurodrone (d/w/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10453933",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-03",
+      "aenderungsdatum": "2026-11-12T10:00:03.601",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-981033939-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "EWIS Design Engineer (m/w/d) Luftfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -082026-81119",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-26",
+      "aenderungsdatum": "2026-10-26T09:17:14.102",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644586-7878-5785-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Safety & Reliability Engineer (m/w/d) Luftfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -092026-81958",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:14.450",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-645229-7878-8283-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "EWIS Design Engineer (m/w/d) Luftfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -082026-81119",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-10-22T10:07:05.637",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644586-7878-2214-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Systems Engineer (m/w/d) Architekturen militärischer Kommunikationssysteme",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "JN -102026-83044",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T09:07:46.600",
+      "hauptberuf": "Ingenieur/in - Systems Engineering",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-646033-7878-4950-S",
+      "entfernung": 24,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Integration Test Engineer (m/w/d) - Luftfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -052026-77495",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-02T09:14:47.748",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644859-7878-1789-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer (m/w/d) Software Military Communication Systems",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "JN -052026-77081",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T09:07:42.604",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-640902-7878-4143-S",
+      "entfernung": 24,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Logistics Systems Engineer (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10406772",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-16",
+      "aenderungsdatum": "2026-11-12T09:59:24.223",
+      "hauptberuf": "Betriebswirt/in (Fachschule) - Logistik/Bachelor Professional in Wirtschaft",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-971234925-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Betriebswirt/in (Fachschule) - Logistik/Bachelor Professional in Wirtschaft"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer (m/w/d) - Mission Management Systeme",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -062026-78886",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:14.032",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644421-7878-8580-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Electrical Integration Engineer (m/w/d) - Luft- und Raumfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -082026-81114",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-10-22T10:07:05.551",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644581-7878-9251-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Embedded Software Engineer (m/w/d) - militärische NAS Systeme & Linux",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "JN -052026-77095",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T09:06:07.286",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644672-7878-1928-S",
+      "entfernung": 24,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Integration Test Engineer (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-23"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 64.0,
+      "gehaltsspanneBis": 68.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-28",
+      "aenderungsdatum": "2026-10-13T12:33:12.323",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-507062-1798047-0-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "#ET23A Mechanical System Installation Design Engineer (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10453651",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-12T10:00:06.702",
+      "hauptberuf": "Konstruktionsingenieur/in",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-981220735-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "Konstruktionsingenieur/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "ME Process Engineer MCA H175 (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86663",
+            "ort": "Asbach-Bäumenheim",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.684618492,
+          "laenge": 10.81828033
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-11-05T12:34:32.254",
+      "hauptberuf": "Betriebsingenieur/in",
+      "alternativBeruf1": "Ingenieur/in - Maschinenbau",
+      "firma": "fabplus GmbH",
+      "arbeitgeberKundennummerHash": "CGQS0jt5WJx7XROEOaWZYAV89g8WyCPk-9k7iaKdfOs=",
+      "referenznummer": "15339-1555-1794016-0-S",
+      "entfernung": 44,
+      "alleBerufe": [
+        "Betriebsingenieur/in",
+        "Ingenieur/in - Maschinenbau"
+      ]
+    }
+  ]
+}

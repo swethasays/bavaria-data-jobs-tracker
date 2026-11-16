@@ -1,0 +1,91 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Machine Learning Engineer",
+  "city": "Würzburg",
+  "radius_km": 50,
+  "count": 2,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & AI Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97980",
+            "ort": "Bad Mergentheim",
+            "region": "BADEN_WUERTTEMBERG",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4494304,
+          "laenge": 9.7731837
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "4578",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-12T08:21:30.987",
+      "hauptberuf": "Data Engineer",
+      "firma": "Würth Industrie Service GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "UaXr2RxO6i954R8MniBruNrWe1Pj0S39oU443wte8Lk=",
+      "referenznummer": "18325-44564130-119-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Security Specialist (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-25"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97080",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.813252600001,
+          "laenge": 9.913860099
+        }
+      ],
+      "chiffrenummer": "89541",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-25"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-25",
+      "aenderungsdatum": "2026-10-24T07:01:19.134",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Uniper SE",
+      "arbeitgeberKundennummerHash": "3CffSQMdUZRGZl6ZJ3gbPH2EYfBRXq9CYnTnKAnOjWA=",
+      "referenznummer": "13064-44528927-1024-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    }
+  ]
+}

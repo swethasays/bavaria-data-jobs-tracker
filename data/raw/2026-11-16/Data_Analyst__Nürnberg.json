@@ -1,0 +1,388 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Analyst",
+  "city": "Nürnberg",
+  "radius_km": 50,
+  "count": 9,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "HR Data Analyst (gn) - remote",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90409",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4665446,
+          "laenge": 11.0894622
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "34810290",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:12:44.112",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jlvqm-b",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "aquitas GmbH",
+      "referenznummer": "12288-4996072451-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analysten / Data Analystinnen (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Nürnberger Str.",
+            "hausnummer": "95",
+            "plz": "90762",
+            "ort": "Fürth, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.468275,
+          "laenge": 11.004786
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "SW-55-02-2026",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-03",
+      "aenderungsdatum": "2026-11-12T19:40:17.706",
+      "hauptberuf": "Statistiker/in",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Mathematiker/in",
+      "firma": "Bayer. Landesamt für Statistik Dienststelle Fürth",
+      "arbeitgeberKundennummerHash": "O1INLli0ylmuNqJqVRc5bgZE45yUtQ48gJMKWZgaXHE=",
+      "referenznummer": "10001-1003954027-S",
+      "entfernung": 8,
+      "alleBerufe": [
+        "Statistiker/in",
+        "Informatiker/in",
+        "Mathematiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst (m/w/d), BellandVision GmbH",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-07"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Bahnhofstraße 9",
+            "plz": "91257",
+            "ort": "Pegnitz",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.757238,
+          "laenge": 11.5478145
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-14",
+      "aenderungsdatum": "2026-11-07T07:01:46.369",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Data-Analyst-D-1313617?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "BellandVision GmbH",
+      "referenznummer": "12811-2333733-S",
+      "entfernung": 48,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Datenanalyst / Field Experience Manager / Data Analyst (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.434845143,
+          "laenge": 11.100904183
+        }
+      ],
+      "chiffrenummer": "CR-308899",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T12:42:54.571",
+      "hauptberuf": "Ingenieur/in - Fahrzeugtechnik",
+      "firma": "Brunel GmbH NL Nürnberg",
+      "arbeitgeberKundennummerHash": "aQPJjaP-P4re5vMyyxEiQ8yppfSDH4CkXtu0I6t4bOI=",
+      "referenznummer": "12362-CR308899_6822CS-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Ingenieur/in - Fahrzeugtechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist für People Analytics (m/w/d) Ref:.Nr. S0260706",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 18,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.434845143,
+          "laenge": 11.100904183
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "S0260706",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-21",
+      "aenderungsdatum": "2026-11-13T08:21:32.744",
+      "hauptberuf": "Data-Analyst/in",
+      "alternativBeruf1": "Data Scientist",
+      "firma": "set - software engineering gmbh",
+      "arbeitgeberKundennummerHash": "Df--YqNbpaRp893aja-YqPufqoMzyELt_A_s4Vq6Z-Q=",
+      "referenznummer": "10001-1003416191-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data-Analyst/in",
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst (m/w/d) - Erneuerbare Energien Windkraft, DE - Sengenthal (Lkr. Neumarkt i.d.OPf.)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Max-Bögl-Str.1",
+            "plz": "92369",
+            "ort": "Sengenthal",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.21218,
+          "laenge": 11.4527565
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-25"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-25",
+      "aenderungsdatum": "2026-10-21T17:39:00.334",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Data-Analyst-D-Erneuerbare-Energien-Windkraft-1287101?cp=BA",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Max Bögl Bauservice GmbH und Co. KG",
+      "referenznummer": "12811-2321436-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Analyst (f/m/d) Sales Intelligence & AI",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.560916966,
+          "laenge": 11.007647684
+        }
+      ],
+      "chiffrenummer": "305302",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-10-22T17:01:34.963",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "Siemens Energy Global GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "HmhVIE5IrRBnk8cbtySzmaFEZpUH0t-x_DBDeMHrPi8=",
+      "referenznummer": "15170-492070992-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "25261: Technischer Datenanalyst (m/w/d) / Field Experience Manager (m/w/d)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.582388591,
+          "laenge": 10.984861843
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T11:28:10.871",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Cs2 ITEC GmbH   Co. KG",
+      "arbeitgeberKundennummerHash": "l419fcO8mKyRHjpBerVIIT5GiiIDArp_yuKPES3jiKo=",
+      "referenznummer": "10001-1004011754-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer - Data Warehouse & Lakehouse (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90449",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4262273,
+          "laenge": 11.0148448
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T13:05:32.161",
+      "externeURL": "https://www.job.fish/heyrecruit/146450_19826_6adf6b9be08cf?utm_campaign=heyrecruit-multiposting&utm_source=bundesagentur&utm_medium=kostenloses-multiposting",
+      "hauptberuf": "IT-Lösungsentwickler/in",
+      "alternativBeruf1": "Business-Analyst/in",
+      "alternativBeruf2": "Business-Intelligence-Consultant",
+      "firma": "ORDIX AG",
+      "referenznummer": "14922-146450-S",
+      "entfernung": 7,
+      "alleBerufe": [
+        "Business-Analyst/in",
+        "IT-Lösungsentwickler/in",
+        "Business-Intelligence-Consultant"
+      ]
+    }
+  ]
+}

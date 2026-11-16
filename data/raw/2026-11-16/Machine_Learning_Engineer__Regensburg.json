@@ -1,0 +1,92 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Machine Learning Engineer",
+  "city": "Regensburg",
+  "radius_km": 50,
+  "count": 2,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Security Specialist (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-25"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "93049",
+            "ort": "Regensburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.017318331,
+          "laenge": 12.060743281
+        }
+      ],
+      "chiffrenummer": "89541",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-25"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-25",
+      "aenderungsdatum": "2026-10-24T07:01:19.134",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Uniper SE",
+      "arbeitgeberKundennummerHash": "3CffSQMdUZRGZl6ZJ3gbPH2EYfBRXq9CYnTnKAnOjWA=",
+      "referenznummer": "13064-44528927-1024-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Informatiker / KI-Entwickler (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Kleemannstr.",
+            "hausnummer": "14",
+            "plz": "93413",
+            "ort": "Cham, Oberpfalz",
+            "ortsteil": "Cham",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.223331,
+          "laenge": 12.6664515
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-12",
+      "aenderungsdatum": "2026-10-11T17:29:34.594",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "KI-Engineer",
+      "firma": "Consultor Unternehmens- beratungsgesellschaft mbH",
+      "arbeitgeberKundennummerHash": "QfE3q59z5i-4VWgOUUUBCCb4SqVJQvdnbdX8GCpJT1s=",
+      "referenznummer": "10001-1003218078-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Informatiker/in"
+      ]
+    }
+  ]
+}

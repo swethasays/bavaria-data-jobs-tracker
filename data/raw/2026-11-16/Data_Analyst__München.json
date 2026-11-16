@@ -1,0 +1,1537 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Analyst",
+  "city": "München",
+  "radius_km": 50,
+  "count": 35,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst (m/w/d) - Controlling",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Ismaninger Str.",
+            "hausnummer": "22",
+            "plz": "81675",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.137004,
+          "laenge": 11.5988355
+        }
+      ],
+      "chiffrenummer": "26_11_010",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-16T13:54:18.234",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Klinikum der Technischen Universität München (TUM Klinikum) AöR",
+      "arbeitgeberKundennummerHash": "tTuKeMcQP9G301kiFqP-43ulbscap9HhsZsZ3Q0SPG0=",
+      "referenznummer": "10001-1003989781-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "CRM Data Analyst (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Schleibinger Straße 12-16",
+            "plz": "81669",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1285145,
+          "laenge": 11.590852
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-11-15T07:11:48.690",
+      "externeURL": "https://jobboard-ba.sopea.com/ats/JobAd?Job=2837906514",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Volkswagen Retail Dienstleistungsgesellschaft mbH",
+      "referenznummer": "11973-c-350491-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst (m/w/d) - Controlling",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Ismaninger Straße 22",
+            "plz": "81675",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.137004,
+          "laenge": 11.5988355
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T07:01:50.305",
+      "externeURL": "https://www.heyjobs.co/de-de/jobs/af933486-7b9c-4239-a791-82fb125fb671?utm_content=ad_link&utm_medium=sjm-pr&utm_source=jobboerse",
+      "hauptberuf": "Organisator/in",
+      "firma": "TUM Klinikum Rechts der Isar",
+      "referenznummer": "12951-af933486-7b9c-4239--S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Organisator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst Sales Controlling",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2025-09-24"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Titurelstr.",
+            "hausnummer": "6",
+            "plz": "81925",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.159513,
+          "laenge": 11.6189623
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2025-09-24"
+      },
+      "datumErsteVeroeffentlichung": "2024-02-16",
+      "aenderungsdatum": "2025-09-24T14:21:03.764",
+      "hauptberuf": "Data-Analyst/in",
+      "alternativBeruf1": "Controller/in",
+      "alternativBeruf2": "Business-Analyst/in",
+      "firma": "Lantenhammer Consulting Silvia Lantenhammer",
+      "arbeitgeberKundennummerHash": "UnHZL9dTc4K1OkcAoXIa-9ufSpeCodNoCYwIKZNmYAI=",
+      "referenznummer": "10000-1197966120-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data-Analyst/in",
+        "Business-Analyst/in",
+        "Controller/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst (m/w/d) für Process & Data Mining in Celonis",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Arabellastraße",
+            "hausnummer": "4",
+            "plz": "81925",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.15315,
+          "laenge": 11.617272
+        }
+      ],
+      "chiffrenummer": "REF10507U",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T11:25:39.753",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "BayWa AG HR Services",
+      "arbeitgeberKundennummerHash": "dHB1FcgaPlhtcXc1X59_2SwZIcAc0-NSI_B-6aannl0=",
+      "referenznummer": "10001-1003939497-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst Logistik & Materialflussmanagement (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82377",
+            "ort": "Penzberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 47.761341415,
+          "laenge": 11.381376145
+        }
+      ],
+      "chiffrenummer": "TR-307946",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T12:41:51.918",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Brunel GmbH NL Mannheim",
+      "arbeitgeberKundennummerHash": "eGsNVtG5K6jYPNNHqe0gcRwCqbWQeABFI_FbJ_VsZ8g=",
+      "referenznummer": "12362-TR307946_6291CS-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Junior) Data Analyst mit Schwerpunkt militärische Luftfahrzeuge (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 55000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Einsteinstr.",
+            "hausnummer": "20",
+            "plz": "85521",
+            "ort": "Ottobrunn",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.054645,
+          "laenge": 11.6603415
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-11-16T00:11:24.733",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "IABG Industrieanlagen Betriebs-GmbH",
+      "arbeitgeberKundennummerHash": "mFkJLqXxW270T-HdUGxVTFZFHHJH0VlO2AvcgEkQIpc=",
+      "referenznummer": "10001-1003925631-S",
+      "entfernung": 12,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst / Datenanalyst (m/w/d) Kraftstoffmarktdaten für tankstellenpreise.de",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "STUNDENLOHN",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 20,
+      "gehaltsspanneBis": 25,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.152104426,
+          "laenge": 11.55020237
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-01"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-01",
+      "aenderungsdatum": "2026-11-01T20:49:53.829",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Ideenkraftwerk GmbH",
+      "arbeitgeberKundennummerHash": "CMd9DRudLCkm8B0PD6zozsZ114q13sQFOUzVKapaR9M=",
+      "referenznummer": "10001-1003944353-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Controller / Financial (Data) Analyst (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 60000.0,
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Leopoldstr.",
+            "hausnummer": "248",
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.181536,
+          "laenge": 11.585421
+        }
+      ],
+      "chiffrenummer": "1525452",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-11",
+      "aenderungsdatum": "2026-10-29T17:03:39.083",
+      "hauptberuf": "Controller/in",
+      "alternativBeruf1": "Data-Analyst/in",
+      "alternativBeruf2": "Wirtschaftsingenieur/in",
+      "firma": "Pates Aktiengesellschaft",
+      "arbeitgeberKundennummerHash": "9ZER_7oyXXCNppyJfDXfRfa5iaK5T1YM7dl6oL5TSOk=",
+      "referenznummer": "10001-1003522181-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data-Analyst/in",
+        "Controller/in",
+        "Wirtschaftsingenieur/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analyst (m/w/d) Logistikmanagement ",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 70000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82377",
+            "ort": "Penzberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 47.761341415,
+          "laenge": 11.381376145
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T17:06:31.531",
+      "hauptberuf": "Ingenieur/in - Chemietechnik",
+      "alternativBeruf1": "Wirtschaftsingenieur/in",
+      "alternativBeruf2": "Ingenieur/in - Pharmatechnik",
+      "firma": "TEMPTON Next Level Experts GmbH",
+      "arbeitgeberKundennummerHash": "mACriamrR9_l6A4mLI3gzyPaMJVG1qZDmyKrQ7uO5pI=",
+      "referenznummer": "12098-13922232-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "Ingenieur/in - Chemietechnik",
+        "Wirtschaftsingenieur/in",
+        "Ingenieur/in - Pharmatechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) Data Analyst/in (m/w/d) SAS",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-17"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 60000.0,
+      "gehaltsspanneBis": 89961.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Bahnhofstraße",
+            "plz": "80539",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.144750491,
+          "laenge": 11.582369814
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-02-26",
+      "aenderungsdatum": "2026-11-16T10:31:30.762",
+      "hauptberuf": "IT-Berater/in",
+      "firma": "empiricus GmbH",
+      "arbeitgeberKundennummerHash": "sJn3cypbBY10uCgfBMgFqm7BbUIaayVtheDis0fTuwc=",
+      "referenznummer": "13012-k11145.3882-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Expert Customer Data Analyst (m/w/d), Ismaning",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-31"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Münchner Str. 101h",
+            "plz": "85737",
+            "ort": "Ismaning",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.2397827,
+          "laenge": 11.6971732
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-03",
+      "aenderungsdatum": "2026-10-31T12:32:46.526",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Expert-Customer-Data-Analyst-D-1322345?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "HSE",
+      "referenznummer": "12811-2349538-S",
+      "entfernung": 14,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Finance Analyst & Data Performance (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-08"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Claudius-Keller-Str.",
+            "hausnummer": "3C",
+            "plz": "81669",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.116664,
+          "laenge": 11.602998
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-12",
+      "aenderungsdatum": "2026-10-08T15:33:02.307",
+      "hauptberuf": "Fachwirt/in - Versicherungen und Finanzen",
+      "firma": "Edenred Deutschland GmbH",
+      "arbeitgeberKundennummerHash": "s8aXm9IVTwceawErvqzbKDCzMa1mz_PfimMlyeaQIgo=",
+      "referenznummer": "10001-1003216172-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Fachwirt/in - Versicherungen und Finanzen"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & Process Specialist Homologation (w/m/d) München",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80995",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.216813167,
+          "laenge": 11.51471651
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T17:05:11.353",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "experts I.K. Hofmann GmbH",
+      "arbeitgeberKundennummerHash": "-gMqRyXE94DoKrnfhqQn3rccR1PAHZ2tfviT6RDBE8c=",
+      "referenznummer": "11868-13902460-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DC Data Manager (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85716",
+            "ort": "Unterschleißheim",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.275163336001,
+          "laenge": 11.564156664
+        }
+      ],
+      "chiffrenummer": "900217/1",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T13:37:42.356",
+      "hauptberuf": "Data-Analyst/in",
+      "alternativBeruf1": "Data Engineer",
+      "alternativBeruf2": "Fachinformatiker/in - Daten- und Prozessanalyse",
+      "firma": "Hays Professional Solutions GmbH Standort Dortmund",
+      "arbeitgeberKundennummerHash": "KZDDngOGhfNkt7rUUuwG-n1h4N-0k81d2YH3v3bQVV8=",
+      "referenznummer": "13319-900217/1_5841CS2-S",
+      "entfernung": 14,
+      "alleBerufe": [
+        "Data-Analyst/in",
+        "Data Engineer",
+        "Fachinformatiker/in - Daten- und Prozessanalyse"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DC Data Manager (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85716",
+            "ort": "Unterschleißheim",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.275163336001,
+          "laenge": 11.564156664
+        }
+      ],
+      "chiffrenummer": "900217/1",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-06T10:36:08.035",
+      "hauptberuf": "Data-Analyst/in",
+      "alternativBeruf1": "Data Engineer",
+      "alternativBeruf2": "Fachinformatiker/in - Daten- und Prozessanalyse",
+      "firma": "Hays Professional Solutions GmbH Standort Dortmund",
+      "arbeitgeberKundennummerHash": "KZDDngOGhfNkt7rUUuwG-n1h4N-0k81d2YH3v3bQVV8=",
+      "referenznummer": "13319-900217/1_5841CS-S",
+      "entfernung": 14,
+      "alleBerufe": [
+        "Data-Analyst/in",
+        "Data Engineer",
+        "Fachinformatiker/in - Daten- und Prozessanalyse"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Pricing Analyst (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Bodenseestraße 343",
+            "plz": "81249",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1410636,
+          "laenge": 11.4133225
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T07:38:55.851",
+      "hauptberuf": "Wertpapieranalyst/in",
+      "firma": "Hoffmann SE",
+      "arbeitgeberKundennummerHash": "t9rA2x_GnlKALQj9RcKItJndOIlKC8OJHHkG_6ne7Ls=",
+      "referenznummer": "20471-2361373-S",
+      "entfernung": 12,
+      "alleBerufe": [
+        "Wertpapieranalyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Datenmanager (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Uhlandstr.",
+            "hausnummer": "7",
+            "plz": "80336",
+            "ort": "München",
+            "ortsteil": "Ludwigsvorstadt-Isarvorstadt",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1338,
+          "laenge": 11.554164
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-26",
+      "aenderungsdatum": "2026-11-10T13:27:23.290",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Data-Analyst/in",
+      "alternativBeruf2": "Data Engineer",
+      "firma": "Kraftfahrer-Schutz e.V.",
+      "arbeitgeberKundennummerHash": "RLe62nT7cWxJs97tHK65SyVGAUB91ecJrINLuOUHxfk=",
+      "referenznummer": "10001-1003602665-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data-Analyst/in",
+        "Data Scientist",
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Service Management Analyst (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85609",
+            "ort": "Aschheim",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.176869229,
+          "laenge": 11.710825704
+        }
+      ],
+      "chiffrenummer": "898222/1",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-11-16T16:37:06.032",
+      "hauptberuf": "Leiter/in - Finanz- und Rechnungswesen",
+      "firma": "Hays Professional Solutions GmbH",
+      "arbeitgeberKundennummerHash": "B0iuxFNLqKs2tDe23qYg8gBjiOersSkkIBVUUC1xZdQ=",
+      "referenznummer": "13319-898222/1_5054CS-S",
+      "entfernung": 11,
+      "alleBerufe": [
+        "Leiter/in - Finanz- und Rechnungswesen"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Portfolio Analyst (f/m/d) Limited 24 months",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1450237,
+          "laenge": 11.5540846
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "109220",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-03",
+      "aenderungsdatum": "2026-11-13T09:49:19.019",
+      "hauptberuf": "Betriebswirt/in (Fachschule) - Finanzen und Investment/Bachelor Professional in Wirtschaft",
+      "firma": "Allianz Global Investors GmbH",
+      "arbeitgeberKundennummerHash": "y2BB_Y09zFJ6dHfngZP3SYPic4kqC39Is2AjURSQBWQ=",
+      "referenznummer": "15719-44546198-112-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Betriebswirt/in (Fachschule) - Finanzen und Investment/Bachelor Professional in Wirtschaft"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Reporting Analyst (m/w/d) bei M-net",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Frankfurter Ring",
+            "hausnummer": "158",
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.187485,
+          "laenge": 11.587905
+        }
+      ],
+      "chiffrenummer": "req348",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-05",
+      "aenderungsdatum": "2026-11-06T09:08:56.186",
+      "hauptberuf": "Business-Analyst/in",
+      "firma": "M-net Telekommunikations GmbH",
+      "arbeitgeberKundennummerHash": "ioxxTruoKoVWpqH_mxaZH_ehvfXCzTD-h_IDPegedwc=",
+      "referenznummer": "10001-1003180845-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Business-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) Digital Strategist (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Blumenstr.",
+            "hausnummer": "28",
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.132864,
+          "laenge": 11.572146
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-11-10T14:38:53.403",
+      "hauptberuf": "Digital-Analyst/in",
+      "firma": "Interone GmbH",
+      "arbeitgeberKundennummerHash": "fRjSneoDunEq_SiQnHdDr0Z8pHx1cxfOkE7zMLXyv7g=",
+      "referenznummer": "10001-1003935224-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Digital-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Engineer (m/w/d) - Big Data Platform,Hirschau,München",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-02-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Leopoldstrasse 12",
+            "plz": "80802",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.153231,
+          "laenge": 11.584017
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-15"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-15",
+      "aenderungsdatum": "2026-11-13T07:01:56.670",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Data-Engineer-D-Big-Data-Platform-1327161?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "Conrad Electronic SE",
+      "referenznummer": "12811-2358270-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer (m/w/d) - Snowflake, München",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81667",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1311337,
+          "laenge": 11.5996045
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-14",
+      "aenderungsdatum": "2026-11-09T17:35:15.693",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Senior-Data-Engineer-D-Snowflake-1300539?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "JobRad® Loop",
+      "referenznummer": "12811-2334778-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Snowflake Data Engineer (m/w/d), München",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81667",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1311337,
+          "laenge": 11.5996045
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-29",
+      "aenderungsdatum": "2026-10-21T17:38:30.059",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Senior-Snowflake-Data-Engineer-D-1294559?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "JobRad® Loop",
+      "referenznummer": "12811-2304214-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Platform Engineer (m/w/d) | Snowflake, München",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-03"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81667",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1311337,
+          "laenge": 11.5996045
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-06",
+      "aenderungsdatum": "2026-11-03T12:33:16.351",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Senior-Data-Platform-Engineer-D-Snowflake-1323095?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "JobRad® Loop",
+      "referenznummer": "12811-2351528-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Commercial Analyst (m/w/d), Ismaning",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Münchner Str. 101h",
+            "plz": "85737",
+            "ort": "Ismaning",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.2397827,
+          "laenge": 11.6971732
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-06T12:33:50.179",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Commercial-Analyst-D-1335215?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "HSE",
+      "referenznummer": "12811-2372624-S",
+      "entfernung": 14,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Client Partner Banking DACH (m/w/x) - Sparkassen & Landesbanken",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-15T07:50:03.451",
+      "hauptberuf": "Sparkassenkaufmann/-frau",
+      "alternativBeruf1": "Bankkaufmann/-frau",
+      "alternativBeruf2": "Fachwirt/in - Bank",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3080291793833201-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Sparkassenkaufmann/-frau",
+        "Bankkaufmann/-frau",
+        "Fachwirt/in - Bank"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: AI Go-to-Market Insurance DACH Lead/Managing Consultant (w/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-15T07:50:06.683",
+      "hauptberuf": "KI-Manager/in",
+      "alternativBeruf1": "Business-Unit Leiter/in",
+      "alternativBeruf2": "Beteiligungsmanager/in",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3079631793833201-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Manager/in",
+        "Business-Unit Leiter/in",
+        "Beteiligungsmanager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Expert Data Science (m/w/d), Ismaning",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Münchner Str. 101h",
+            "plz": "85737",
+            "ort": "Ismaning",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.2397827,
+          "laenge": 11.6971732
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-14",
+      "aenderungsdatum": "2026-11-09T17:33:20.942",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Expert-Data-Science-D-1278022?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "HSE",
+      "referenznummer": "12811-2335280-S",
+      "entfernung": 14,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Manager Data Products (m/w/d), Ismaning",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-23"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Münchner Str. 101h",
+            "plz": "85737",
+            "ort": "Ismaning",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.2397827,
+          "laenge": 11.6971732
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-10-23T12:34:23.735",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Senior-Manager-Data-Products-D-1327652?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "HSE",
+      "referenznummer": "12811-2359040-S",
+      "entfernung": 14,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Senior Business Analyst - Core Insurance (m/w/x) Guidewire & Business Proce",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-16T07:47:53.394",
+      "hauptberuf": "IT-Lösungsentwickler/in",
+      "alternativBeruf1": "IT-Berater/in",
+      "alternativBeruf2": "Softwareentwickler/in",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-2957111793919601-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "IT-Lösungsentwickler/in",
+        "IT-Berater/in",
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Teamleiter (m/w/d) für Mitgliederwesen/Bedarfsplanung",
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fallstr.",
+            "hausnummer": "34",
+            "plz": "81369",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.108096,
+          "laenge": 11.538702
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-01"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-01",
+      "aenderungsdatum": "2026-10-23T08:00:07.965",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "alternativBeruf1": "Gruppen-, Teamleiter/in",
+      "alternativBeruf2": "Kaufmann/-frau - Büromanagement",
+      "firma": "Kassenzahnärztliche Vereinigung Bayerns KdÖR",
+      "arbeitgeberKundennummerHash": "5F53IvgGE4YfGOB16rUU1Zl2ZsOmvDxcsOWZv0hHA6o=",
+      "referenznummer": "10001-1003637032-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in",
+        "Gruppen-, Teamleiter/in",
+        "Kaufmann/-frau - Büromanagement"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Expert (m/w/d) Warehouse Operations",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 40000.0,
+      "gehaltsspanneBis": 50000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85375",
+            "ort": "Neufahrn bei Freising",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.3172152,
+          "laenge": 11.6681982
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "7000",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-28",
+      "aenderungsdatum": "2026-10-27T10:25:12.098",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "Dachser SE Head Office",
+      "arbeitgeberKundennummerHash": "OBOFlPPH3Zs83mB2QN31EAA2OSI8E4tCzdv9dJrIomc=",
+      "referenznummer": "15112-44405534-827-S",
+      "entfernung": 20,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Microsoft Dynamics 365 CE / Power Platform Developer (m/w/d)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Starnberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.005893071,
+          "laenge": 11.330665145
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 50,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-10-16T11:24:31.523",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Data-Warehouse-Analyst/in",
+      "alternativBeruf2": "Data-Consultant",
+      "firma": "Medion Personalvermittlung",
+      "arbeitgeberKundennummerHash": "Y8DICJz8P3B_Pi5WcRLkZr0xw4NWAEaz-bexOFxPfHQ=",
+      "referenznummer": "10001-1003866505-S",
+      "entfernung": 24,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in",
+        "Data-Consultant",
+        "Data Engineer"
+      ]
+    }
+  ]
+}

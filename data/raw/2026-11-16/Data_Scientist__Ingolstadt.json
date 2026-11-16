@@ -1,0 +1,104 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Scientist",
+  "city": "Ingolstadt",
+  "radius_km": 50,
+  "count": 2,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "A400M Maintenance Data Manager (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 68000.0,
+      "gehaltsspanneBis": 73000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85077",
+            "ort": "Manching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7124303,
+          "laenge": 11.5032827
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-11-06T11:21:41.757",
+      "hauptberuf": "Data-Analyst/in",
+      "alternativBeruf1": "Data-Warehouse-Analyst/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "fabplus GmbH",
+      "arbeitgeberKundennummerHash": "CGQS0jt5WJx7XROEOaWZYAV89g8WyCPk-9k7iaKdfOs=",
+      "referenznummer": "15339-1853-1802042-0-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Data Scientist",
+        "Data-Analyst/in",
+        "Data-Warehouse-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer Optronic Testing and Data Acquisition (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 55000.0,
+      "gehaltsspanneBis": 70000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "VA55-61712-A",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T07:45:44.260",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Physiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "FERCHAU GmbH Niederlassung Augsburg",
+      "arbeitgeberKundennummerHash": "L4oXxRWTUuz2EXhZk7NVVtRVcsWmeve2BFUqJjk6waU=",
+      "referenznummer": "12265-523804_JB5293548-S",
+      "entfernung": 24,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Physiker/in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "AI Engineer",
+  "city": "Würzburg",
+  "radius_km": 50,
+  "count": 7,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & AI Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97980",
+            "ort": "Bad Mergentheim",
+            "region": "BADEN_WUERTTEMBERG",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4494304,
+          "laenge": 9.7731837
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "4578",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-12T08:21:30.987",
+      "hauptberuf": "Data Engineer",
+      "firma": "Würth Industrie Service GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "UaXr2RxO6i954R8MniBruNrWe1Pj0S39oU443wte8Lk=",
+      "referenznummer": "18325-44564130-119-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Security Specialist (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-25"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97080",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.813252600001,
+          "laenge": 9.913860099
+        }
+      ],
+      "chiffrenummer": "89541",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-25"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-25",
+      "aenderungsdatum": "2026-10-24T07:01:19.134",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Uniper SE",
+      "arbeitgeberKundennummerHash": "3CffSQMdUZRGZl6ZJ3gbPH2EYfBRXq9CYnTnKAnOjWA=",
+      "referenznummer": "13064-44528927-1024-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer - AI Powered Development (m/w/d), Würzburg",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Schürerstraße 5b",
+            "plz": "97080",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.798053,
+          "laenge": 9.947241
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-17"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-17",
+      "aenderungsdatum": "2026-11-05T12:32:12.247",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Software-Engineer-Ai-Powered-Development-D-1301962?cp=BA",
+      "hauptberuf": "Fullstack-Entwickler/in",
+      "firma": "WSW Software GmbH",
+      "referenznummer": "12811-2315386-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Fullstack-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Mechatronik Engineer (m/w/d) - KI, Robotik & Recycling",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Leightonstr.",
+            "hausnummer": "3",
+            "plz": "97074",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.786857,
+          "laenge": 9.979668
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-04",
+      "aenderungsdatum": "2026-11-09T15:28:27.706",
+      "hauptberuf": "Ingenieur/in - Mechatronik",
+      "alternativBeruf1": "Ingenieur/in - Robotik, Autonome Systeme",
+      "alternativBeruf2": "Ingenieur/in - Elektrotechnik",
+      "firma": "WeSort.AI GmbH",
+      "arbeitgeberKundennummerHash": "sQPBO1PEQF5hWwp5adzNUFux8qIjVcYi6NPCHKZWzQk=",
+      "referenznummer": "10001-1002674982-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Ingenieur/in - Mechatronik",
+        "Ingenieur/in - Robotik, Autonome Systeme",
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.7835423,
+          "laenge": 9.9396923
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T14:44:07.775",
+      "hauptberuf": "DevOps Engineer",
+      "firma": "Administration Intelligence AG",
+      "arbeitgeberKundennummerHash": "gLeF1GA9z1n13-D1y-9UBVWjx-D7A_9lf-kFXiEWlWw=",
+      "referenznummer": "10000-1208451268-S",
+      "entfernung": 0,
+      "alleBerufe": [
+        "DevOps Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Linux Infrastructure Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97080",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.813252600001,
+          "laenge": 9.913860099
+        }
+      ],
+      "chiffrenummer": "JN -092026-81862",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T10:08:54.281",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-647033-7878-8348-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Specialist Automation & AI (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97204",
+            "ort": "Höchberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.7810918,
+          "laenge": 9.881918
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-19",
+      "aenderungsdatum": "2026-10-19T17:38:54.377",
+      "externeURL": "https://www.jobware.de/job/064686521?jw_chl_seg=ARBEITSAGENTUR",
+      "hauptberuf": "Application-Engineer/-Manager/in",
+      "firma": "TecTake GmbH",
+      "referenznummer": "12908-064686521-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Application-Engineer/-Manager/in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1671 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Engineer",
+  "city": "Augsburg",
+  "radius_km": 50,
+  "count": 41,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Platform Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86156",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.3889844,
+          "laenge": 10.8555652
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-28",
+      "aenderungsdatum": "2026-10-19T13:10:26.569",
+      "externeURL": "https://www.job.fish/heyrecruit/139497_19517_6ac9b84381bb7?utm_campaign=heyrecruit-multiposting&utm_source=bundesagentur&utm_medium=kostenloses-multiposting",
+      "hauptberuf": "Entwickler/in Digitale Medien",
+      "alternativBeruf1": "IT-Lösungsentwickler/in",
+      "alternativBeruf2": "IoT-Entwickler/in",
+      "firma": "ORDIX AG",
+      "referenznummer": "14922-139497-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Entwickler/in Digitale Medien",
+        "IT-Lösungsentwickler/in",
+        "IoT-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Datacenter Engineer (m/w/d) OSS",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 0.01,
+      "gehaltsspanneBis": 50000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86150",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.364849467,
+          "laenge": 10.892589211
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T16:17:24.175",
+      "hauptberuf": "Data Engineer",
+      "firma": "puro Personaldienstleistung GmbH",
+      "arbeitgeberKundennummerHash": "MPBvb1SpyZZ7M0jkMNBQ7L2i_1WAoTNpLVQ_jppPtsw=",
+      "referenznummer": "13669-LNCRJ8KU9EG8X3PS-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Technical Data Engineer (m/w/d) AIRBUS",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 56000.0,
+      "gehaltsspanneBis": 58000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T13:31:56.425",
+      "externeURL": "https://bewerbung.jobs/599ec634-b272-47a6-b728-927bfd42c333?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "alternativBeruf1": "Ingenieur/in - Systems Engineering",
+      "firma": "Orizon GmbH, Unit Aviation",
+      "referenznummer": "14751-417A25601-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering",
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer - Data Warehouse & Lakehouse (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86156",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.3889844,
+          "laenge": 10.8555652
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T13:05:32.161",
+      "externeURL": "https://www.job.fish/heyrecruit/146450_19826_6adf6b9be08cf?utm_campaign=heyrecruit-multiposting&utm_source=bundesagentur&utm_medium=kostenloses-multiposting",
+      "hauptberuf": "IT-Lösungsentwickler/in",
+      "alternativBeruf1": "Business-Analyst/in",
+      "alternativBeruf2": "Business-Intelligence-Consultant",
+      "firma": "ORDIX AG",
+      "referenznummer": "14922-146450-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "IT-Lösungsentwickler/in",
+        "Business-Analyst/in",
+        "Business-Intelligence-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Technical Data Engineer - Maintenance Manual (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 73000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-03-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-16",
+      "aenderungsdatum": "2026-10-21T12:24:56.854",
+      "hauptberuf": "Techniker/in - Luftfahrttechnik/Bachelor Professional in Technik",
+      "alternativBeruf1": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "fabplus GmbH",
+      "arbeitgeberKundennummerHash": "CGQS0jt5WJx7XROEOaWZYAV89g8WyCPk-9k7iaKdfOs=",
+      "referenznummer": "15339-1578-1760211-0-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Techniker/in - Luftfahrttechnik/Bachelor Professional in Technik",
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Team Leader Data Management (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82110",
+            "ort": "Germering, Oberbayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1289465,
+          "laenge": 11.3613231
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2883390",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T08:02:51.001",
+      "externeURL": "https://www.jobexport.de/job/5298547.html?exp=81&cid=1530edd0-b691-4fca-84e7-4bcc6d24ba76",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "DocuWare GmbH",
+      "referenznummer": "13635-1530edd0_JB5298547-S",
+      "entfernung": 43,
+      "alleBerufe": [
+        "Data Engineer",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer Optronic Testing and Data Acquisition (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 55000.0,
+      "gehaltsspanneBis": 70000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "VA55-61712-A",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T07:45:44.260",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Physiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "FERCHAU GmbH Niederlassung Augsburg",
+      "arbeitgeberKundennummerHash": "L4oXxRWTUuz2EXhZk7NVVtRVcsWmeve2BFUqJjk6waU=",
+      "referenznummer": "12265-523804_JB5293548-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Physiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer Optronic Testing & Data Acquisition (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-31"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-30T12:32:45.911",
+      "hauptberuf": "Ingenieur/in - Physik",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-507183-1799976-0-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Ingenieur/in - Physik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Industrial Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86161",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.347194456,
+          "laenge": 10.917397991
+        }
+      ],
+      "chiffrenummer": "JN -102026-83614",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T12:04:11.846",
+      "hauptberuf": "REFA-Ingenieur/in (Industrial Engineering)",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-646440-7878-9138-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "REFA-Ingenieur/in (Industrial Engineering)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Test Engineer Motorsteuerung (m/w/d) Elternzeitvertretung",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristetBis": "2028-10-18",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86153",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.376811016,
+          "laenge": 10.901208952
+        }
+      ],
+      "chiffrenummer": "JN -112026-84375",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T10:04:55.431",
+      "hauptberuf": "Techniker/in - Elektrotechnik (Automatisierungstechnik)/Bachelor Professional in Technik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-647092-7878-8135-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Techniker/in - Elektrotechnik (Automatisierungstechnik)/Bachelor Professional in Technik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "HUMS Technical Support Specialist (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10439712",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-25",
+      "aenderungsdatum": "2026-11-12T09:59:29.073",
+      "hauptberuf": "Data Engineer",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-973079992-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Industrial Engineer (m/w/d) - Modellierung-Simulation",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86161",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.347194456,
+          "laenge": 10.917397991
+        }
+      ],
+      "chiffrenummer": "JN -082026-81112",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T17:05:23.515",
+      "hauptberuf": "Techniker/in - Maschinentechnik (Fertigungstechnik)/Bachelor Professional in Technik",
+      "alternativBeruf1": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "alternativBeruf2": "Ingenieur/in - Maschinenbau",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-646392-7878-7491-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Techniker/in - Maschinentechnik (Fertigungstechnik)/Bachelor Professional in Technik",
+        "Ingenieur/in - Luft- und Raumfahrttechnik",
+        "Ingenieur/in - Maschinenbau"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "OT Network Engineer / Netzwerkadministrator (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86153",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.376811016,
+          "laenge": 10.901208952
+        }
+      ],
+      "chiffrenummer": "JN -092026-81974",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:14.537",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-645248-7878-9189-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT AI Infrastructure Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86159",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.344217463,
+          "laenge": 10.893331862
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-29",
+      "aenderungsdatum": "2026-10-26T07:32:38.746",
+      "hauptberuf": "Bachelor Professional - IT (IT-Beratung)",
+      "firma": "RENK GmbH",
+      "arbeitgeberKundennummerHash": "ZvsElG-X7EzJUr27bzk8CZZxl8VYLF8917KnIlvm6sQ=",
+      "referenznummer": "18121-0067758787-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Bachelor Professional - IT (IT-Beratung)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Konfigurationsmanager (m/w/d) im Bereich NH90",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-30",
+      "aenderungsdatum": "2026-11-12T13:04:05.285",
+      "hauptberuf": "Konfigurationsmanager/in",
+      "alternativBeruf1": "Data Engineer",
+      "firma": "fabplus GmbH",
+      "arbeitgeberKundennummerHash": "CGQS0jt5WJx7XROEOaWZYAV89g8WyCPk-9k7iaKdfOs=",
+      "referenznummer": "15339-1715-1787604-0-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Data Engineer",
+        "Konfigurationsmanager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Robotics Software Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82205",
+            "ort": "Gilching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.110556238,
+          "laenge": 11.281900684
+        }
+      ],
+      "chiffrenummer": "JN -112026-84319",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:27.032",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647072-7878-7929-S",
+      "entfernung": 40,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Platform Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Bodenseestraße 343",
+            "plz": "81249",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1410636,
+          "laenge": 11.4133225
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-11-04T08:04:12.837",
+      "hauptberuf": "Site Reliability Engineer",
+      "firma": "Hoffmann SE",
+      "arbeitgeberKundennummerHash": "t9rA2x_GnlKALQj9RcKItJndOIlKC8OJHHkG_6ne7Ls=",
+      "referenznummer": "20471-2358344-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "Site Reliability Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Industrial Engineer (m/w/d) Verfahrenstechniker",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86842",
+            "ort": "Türkheim, Wertach",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.061458603,
+          "laenge": 10.635797607
+        }
+      ],
+      "chiffrenummer": "JN -062026-77817",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T17:05:23.679",
+      "hauptberuf": "Ingenieur/in - Verfahrenstechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-646394-7878-7871-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Ingenieur/in - Verfahrenstechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Electronics Design Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82205",
+            "ort": "Gilching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.110556238,
+          "laenge": 11.281900684
+        }
+      ],
+      "chiffrenummer": "JN -102026-83846",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-04T12:05:35.126",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-646868-7878-9299-S",
+      "entfernung": 40,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Simulation Engineer Helicopter Systems (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -022026-73964",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-02T09:14:48.414",
+      "hauptberuf": "Ingenieur/in - Systems Engineering",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644867-7878-9697-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer Robotics / Mobile Manipulation (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82205",
+            "ort": "Gilching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.110556238,
+          "laenge": 11.281900684
+        }
+      ],
+      "chiffrenummer": "JN -112026-84322",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:26.947",
+      "hauptberuf": "Informatiker/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647071-7878-3853-S",
+      "entfernung": 40,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "OS Engineer - Embedded Linux / Robotics (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82205",
+            "ort": "Gilching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.110556238,
+          "laenge": 11.281900684
+        }
+      ],
+      "chiffrenummer": "JN -112026-84343",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:26.862",
+      "hauptberuf": "Informatiker/in (Weiterbildung)",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647069-7878-1260-S",
+      "entfernung": 40,
+      "alleBerufe": [
+        "Informatiker/in (Weiterbildung)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "EWIS Design Engineer (m/w/d) Luftfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -082026-81119",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-26",
+      "aenderungsdatum": "2026-10-26T09:17:14.102",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644586-7878-5785-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Safety & Reliability Engineer (m/w/d) Luftfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -092026-81958",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:14.450",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-645229-7878-8283-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "EWIS Design Engineer (m/w/d) Luftfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -082026-81119",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-10-22T10:07:05.637",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644586-7878-2214-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "SAP Basis Engineer (m/w/d) - SAP S/4HANA & Cloud",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-05"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81249",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.168236582,
+          "laenge": 11.409615299
+        }
+      ],
+      "chiffrenummer": "JN -072026-79161",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-05T09:07:53.592",
+      "hauptberuf": "Ingenieur/in - Systems Engineering",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "HDXun3ZqRZdj1czw-YYKbGLWNk3NAaP4gb1ieS9l-cI=",
+      "referenznummer": "12634-BB-646911-7878-8440-S",
+      "entfernung": 43,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Avionics Systems Engineer - Navigation (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82234",
+            "ort": "Weßling, Oberbayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.073547895001,
+          "laenge": 11.261188572
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-01"
+      },
+      "datumErsteVeroeffentlichung": "2026-04-01",
+      "aenderungsdatum": "2026-11-11T17:37:04.800",
+      "hauptberuf": "Einkäufer/in",
+      "firma": "Guldberg GmbH",
+      "arbeitgeberKundennummerHash": "QB5xIhISpsaFFgNK0-kY8dcoIeRgCFCOXdoNrdgORqQ=",
+      "referenznummer": "13410-k13572.15508-S",
+      "entfernung": 42,
+      "alleBerufe": [
+        "Einkäufer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Integration Test Engineer (m/w/d) - Luftfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -052026-77495",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-02T09:14:47.748",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644859-7878-1789-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Engineer – Analysis Testing (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-03"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82234",
+            "ort": "Weßling, Oberbayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.073547895001,
+          "laenge": 11.261188572
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-24",
+      "aenderungsdatum": "2026-11-02T17:35:37.226",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "Aviation Industry Personnel Services GmbH",
+      "arbeitgeberKundennummerHash": "gGjb0oHH0T7KZqwedqoLCLQfB5UMT_Y6t9gni-W4AP4=",
+      "referenznummer": "12564-k21840.14234-S",
+      "entfernung": 42,
+      "alleBerufe": [
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Logistics Systems Engineer (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10406772",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-16",
+      "aenderungsdatum": "2026-11-12T09:59:24.223",
+      "hauptberuf": "Betriebswirt/in (Fachschule) - Logistik/Bachelor Professional in Wirtschaft",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-971234925-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Betriebswirt/in (Fachschule) - Logistik/Bachelor Professional in Wirtschaft"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Projektmanager Digital Engineering & Automation (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Hauptstr.",
+            "hausnummer": "248-250",
+            "plz": "89343",
+            "ort": "Jettingen-Scheppach",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.411684,
+          "laenge": 10.4449005
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 20,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-17",
+      "aenderungsdatum": "2026-11-06T10:15:33.669",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Elektroniker/in - Automatisierungstechnik",
+      "alternativBeruf2": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "AL-KO Therm GmbH",
+      "arbeitgeberKundennummerHash": "aY0fuh5USEgqGpeiJGz-CtgqrlhZh83KpVAX1m3IevY=",
+      "referenznummer": "10001-1003725007-S",
+      "entfernung": 34,
+      "alleBerufe": [
+        "Data Engineer",
+        "Elektroniker/in - Automatisierungstechnik",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Systems Engineer (m/w/d) Architekturen militärischer Kommunikationssysteme",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "JN -102026-83044",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T09:07:46.600",
+      "hauptberuf": "Ingenieur/in - Systems Engineering",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-646033-7878-4950-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer (m/w/d) - Mission Management Systeme",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -062026-78886",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:14.032",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644421-7878-8580-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Electrical Integration Engineer (m/w/d) - Luft- und Raumfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "chiffrenummer": "JN -082026-81114",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-10-22T10:07:05.551",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644581-7878-9251-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) 2nd Level IT Support Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86916",
+            "ort": "Kaufering",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0898478,
+          "laenge": 10.863647662
+        }
+      ],
+      "chiffrenummer": "JN -122025-70545",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-02T09:14:48.686",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-645777-7878-8947-S",
+      "entfernung": 30,
+      "alleBerufe": [
+        "IT-Systemadministrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer (m/w/d) Software Military Communication Systems",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "JN -052026-77081",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T09:07:42.604",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-640902-7878-4143-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Embedded Software Engineer (m/w/d) - militärische NAS Systeme & Linux",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "JN -052026-77095",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T09:06:07.286",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "w_BcJ5GPkiB8bo5EWa83voO-uX7GAttuGRd5uG6S450=",
+      "referenznummer": "12634-BB-644672-7878-1928-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Integration Test Engineer (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-23"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 64.0,
+      "gehaltsspanneBis": 68.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.71861185,
+          "laenge": 10.769863458
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-28",
+      "aenderungsdatum": "2026-10-13T12:33:12.323",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-507062-1798047-0-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "#ET23A Mechanical System Installation Design Engineer (d/f/m)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10453651",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-12T10:00:06.702",
+      "hauptberuf": "Konstruktionsingenieur/in",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-981220735-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Konstruktionsingenieur/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "ME Process Engineer MCA H175 (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86663",
+            "ort": "Asbach-Bäumenheim",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.684618492,
+          "laenge": 10.81828033
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-11-05T12:34:32.254",
+      "hauptberuf": "Betriebsingenieur/in",
+      "alternativBeruf1": "Ingenieur/in - Maschinenbau",
+      "firma": "fabplus GmbH",
+      "arbeitgeberKundennummerHash": "CGQS0jt5WJx7XROEOaWZYAV89g8WyCPk-9k7iaKdfOs=",
+      "referenznummer": "15339-1555-1794016-0-S",
+      "entfernung": 37,
+      "alleBerufe": [
+        "Betriebsingenieur/in",
+        "Ingenieur/in - Maschinenbau"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwarearchitekt (m/w/d) AI & Machine Learning",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 90000,
+      "gehaltsspanneBis": 110000,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86150",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.364849467,
+          "laenge": 10.892589211
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T16:11:32.681",
+      "hauptberuf": "Software-Architect",
+      "alternativBeruf1": "KI-Engineer",
+      "alternativBeruf2": "KI-Manager/in",
+      "firma": "univativ GmbH München",
+      "arbeitgeberKundennummerHash": "HCgz0y2fL4zlli6Ea9Ny5uFaoC5HkzNtzPa_fVjttiE=",
+      "referenznummer": "10001-1003928568-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Software-Architect",
+        "KI-Manager/in"
+      ]
+    }
+  ]
+}

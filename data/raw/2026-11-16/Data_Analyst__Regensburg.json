@@ -1,0 +1,147 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Analyst",
+  "city": "Regensburg",
+  "radius_km": 50,
+  "count": 3,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Junior) Analyst Data & Customer Insights (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Industriepark Ponholz 1",
+            "adresszusatz": "Netto Niederlassung",
+            "plz": "93142",
+            "ort": "Maxhütte-Haidhof",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.160718,
+          "laenge": 12.1019445
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "d5086c5c692e8031c37a0edaa845c4",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-04-08"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-26",
+      "aenderungsdatum": "2026-10-30T07:51:07.746",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Netto Marken-Discount Stiftung & Co. KG",
+      "arbeitgeberKundennummerHash": "JX2iO_lrTqgumJH-ws5yqu4zLpjFFOdKlj9HHuQUJI4=",
+      "referenznummer": "18279-1206-4217-8a2bd-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Junior) Analyst Daten & Prozesse (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Industriepark Ponholz 1",
+            "adresszusatz": "Netto Niederlassung",
+            "plz": "93142",
+            "ort": "Maxhütte-Haidhof",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.160718,
+          "laenge": 12.1019445
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "26228948fdbacb38f6f5345b20f955",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-06T10:09:47.692",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Netto Marken-Discount Stiftung & Co. KG",
+      "arbeitgeberKundennummerHash": "JX2iO_lrTqgumJH-ws5yqu4zLpjFFOdKlj9HHuQUJI4=",
+      "referenznummer": "18279-1411-4217-26228-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Junior) Analyst Digitalisierung & Prozess Optimierung (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Industriepark Ponholz 1",
+            "adresszusatz": "Netto Niederlassung",
+            "plz": "93142",
+            "ort": "Maxhütte-Haidhof",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.160718,
+          "laenge": 12.1019445
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "866fa19c609384cb8659edfeff1282",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-06T12:07:43.194",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Netto Marken-Discount Stiftung & Co. KG",
+      "arbeitgeberKundennummerHash": "JX2iO_lrTqgumJH-ws5yqu4zLpjFFOdKlj9HHuQUJI4=",
+      "referenznummer": "18279-1415-4217-866fa-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    }
+  ]
+}

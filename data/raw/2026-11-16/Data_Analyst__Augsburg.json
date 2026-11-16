@@ -1,0 +1,262 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Analyst",
+  "city": "Augsburg",
+  "radius_km": 50,
+  "count": 6,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AIRBUS - Data Analyst Produktion (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "32400322",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T15:01:58.860",
+      "externeURL": "https://jobboard.compleet.com/?externalId=4997987045",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "DEKRA Arbeit GmbH",
+      "referenznummer": "11119-4997987045-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & AI Architect (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86159",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.344217463,
+          "laenge": 10.893331862
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-30",
+      "aenderungsdatum": "2026-10-16T07:45:56.314",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "RENK GmbH",
+      "arbeitgeberKundennummerHash": "ZvsElG-X7EzJUr27bzk8CZZxl8VYLF8917KnIlvm6sQ=",
+      "referenznummer": "18121-0066448093-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & Process Specialist Homologation (w/m/d) München",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80995",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.216813167,
+          "laenge": 11.51471651
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T17:05:11.353",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "experts I.K. Hofmann GmbH",
+      "arbeitgeberKundennummerHash": "-gMqRyXE94DoKrnfhqQn3rccR1PAHZ2tfviT6RDBE8c=",
+      "referenznummer": "11868-13902460-S",
+      "entfernung": 48,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Pricing Analyst (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Bodenseestraße 343",
+            "plz": "81249",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1410636,
+          "laenge": 11.4133225
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T07:38:55.851",
+      "hauptberuf": "Wertpapieranalyst/in",
+      "firma": "Hoffmann SE",
+      "arbeitgeberKundennummerHash": "t9rA2x_GnlKALQj9RcKItJndOIlKC8OJHHkG_6ne7Ls=",
+      "referenznummer": "20471-2361373-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "Wertpapieranalyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer - Data Warehouse & Lakehouse (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86156",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.3889844,
+          "laenge": 10.8555652
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T13:05:32.161",
+      "externeURL": "https://www.job.fish/heyrecruit/146450_19826_6adf6b9be08cf?utm_campaign=heyrecruit-multiposting&utm_source=bundesagentur&utm_medium=kostenloses-multiposting",
+      "hauptberuf": "IT-Lösungsentwickler/in",
+      "alternativBeruf1": "Business-Analyst/in",
+      "alternativBeruf2": "Business-Intelligence-Consultant",
+      "firma": "ORDIX AG",
+      "referenznummer": "14922-146450-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Business-Analyst/in",
+        "IT-Lösungsentwickler/in",
+        "Business-Intelligence-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Mitarbeiter/in im Order & Warehouse Management (m/w/d), OSI Food Solutions Germany GmbH",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Röntgenstraße 5",
+            "plz": "89312",
+            "ort": "Günzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.471876,
+          "laenge": 10.274094
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-10T07:04:48.679",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Mitarbeiter-In-Im-Order-Amp-Warehouse-Management-D-1311725?cp=BA",
+      "hauptberuf": "Data-Warehouse-Analyst/in",
+      "firma": "OSI Food Solutions Germany Günzburg",
+      "referenznummer": "12811-2369461-S",
+      "entfernung": 48,
+      "alleBerufe": [
+        "Data-Warehouse-Analyst/in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Machine Learning Engineer",
+  "city": "Augsburg",
+  "radius_km": 50,
+  "count": 5,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwarearchitekt (m/w/d) AI & Machine Learning",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 90000,
+      "gehaltsspanneBis": 110000,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86150",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.364849467,
+          "laenge": 10.892589211
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T16:11:32.681",
+      "hauptberuf": "Software-Architect",
+      "alternativBeruf1": "KI-Engineer",
+      "alternativBeruf2": "KI-Manager/in",
+      "firma": "univativ GmbH München",
+      "arbeitgeberKundennummerHash": "HCgz0y2fL4zlli6Ea9Ny5uFaoC5HkzNtzPa_fVjttiE=",
+      "referenznummer": "10001-1003928568-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Software-Architect",
+        "KI-Manager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "accompio GmbH: Senior AI Consultant - Quality Engineering (m/w/d) Dresden oder remote",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86157",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.361494,
+          "laenge": 10.8654704
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-11-13T07:17:27.768",
+      "externeURL": "https://www.empfehlungsbund.de/job/308570",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Software-Architect",
+      "alternativBeruf2": "Machine Learning Engineer",
+      "firma": "accompio GmbH",
+      "referenznummer": "11956-3085701793142000-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Machine Learning Engineer",
+        "KI-Engineer",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer Optronic Testing and Data Acquisition (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 55000.0,
+      "gehaltsspanneBis": 70000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "VA55-61712-A",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T07:45:44.260",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Physiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "FERCHAU GmbH Niederlassung Augsburg",
+      "arbeitgeberKundennummerHash": "L4oXxRWTUuz2EXhZk7NVVtRVcsWmeve2BFUqJjk6waU=",
+      "referenznummer": "12265-523804_JB5293548-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Physiker/in",
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer Optronic Testing & Data Acquisition (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-31"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-30T12:32:45.911",
+      "hauptberuf": "Ingenieur/in - Physik",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-507183-1799976-0-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Ingenieur/in - Physik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "HUMS Technical Support Specialist (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86609",
+            "ort": "Donauwörth",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.7186119,
+          "laenge": 10.7698635
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "JR10439712",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-25",
+      "aenderungsdatum": "2026-11-12T09:59:29.073",
+      "hauptberuf": "Data Engineer",
+      "firma": "Airbus Defence and Space GmbH",
+      "arbeitgeberKundennummerHash": "2rF9dc2HwgkKVzmjrNI8YzrosEXxFepAyvzG2Mf95kk=",
+      "referenznummer": "16947-973079992-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    }
+  ]
+}

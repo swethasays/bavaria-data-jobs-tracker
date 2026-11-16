@@ -1,0 +1,1975 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "AI Engineer",
+  "city": "Nürnberg",
+  "radius_km": 50,
+  "count": 46,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer (m/d/w)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-08"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90403",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4544993,
+          "laenge": 11.079176
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-11-08T07:12:23.181",
+      "externeURL": "https://gute-jobs.de/viewjob-nsx8n?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=ai-engineer-m-d-w",
+      "hauptberuf": "KI-Engineer",
+      "firma": "EXXETA AG",
+      "referenznummer": "12336-a26f1192j0456062-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer (m/w/d)",
+      "weitereBerufe": [
+        "KI Consultant"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Im Pinderpark",
+            "hausnummer": "5",
+            "plz": "90513",
+            "ort": "Zirndorf, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.439259,
+          "laenge": 10.948671
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-28",
+      "aenderungsdatum": "2026-11-13T08:31:17.976",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Data Scientist",
+      "alternativBeruf2": "Machine Learning Engineer",
+      "firma": "PureSolution GmbH EDV Dienstleistung und Software",
+      "arbeitgeberKundennummerHash": "S90V2KmeSpOAp7oQtDMFozYA79qi7bRXIrpdHhq8lQE=",
+      "referenznummer": "10001-1003455354-S",
+      "entfernung": 12,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Data Scientist",
+        "KI Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90429",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4562524,
+          "laenge": 11.0441458
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2768966",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-11-16T08:04:03.898",
+      "externeURL": "https://www.jobexport.de/job/5278175.html?exp=81&cid=bfc2c651-6f01-44a3-8c66-fccd2750c2b6",
+      "hauptberuf": "KI-Engineer",
+      "firma": "adorsys GmbH & Co. KG",
+      "referenznummer": "13635-bfc2c651_JB5278175-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "65511",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-19",
+      "aenderungsdatum": "2026-11-16T06:57:04.624",
+      "hauptberuf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-000021100c7004-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Fachinformatiker/in - Anwendungsentwicklung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-10-20T07:01:22.686",
+      "externeURL": "https://gute-jobs.de/viewjob-3n78v?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=senior-ai-engineer-w-m-d",
+      "hauptberuf": "Informatiker/in",
+      "firma": "BWI GmbH",
+      "referenznummer": "12336-a26f539j0436667-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) AI Security Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90478",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4393809,
+          "laenge": 11.1036858
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35058290",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:07:46.179",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jrbkl-b",
+      "hauptberuf": "IT-Sicherheitskoordinator/in",
+      "firma": "Diehl Stiftung & Co. KG",
+      "referenznummer": "12288-4996078999-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "IT-Sicherheitskoordinator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Generative AI Engineer (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-30"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.450846603,
+          "laenge": 11.089621301
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T17:34:54.080",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-507253-1801047-0-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI & Data Platform Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5880258,
+          "laenge": 11.0123432
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35206747",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:09:05.977",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jukwt-b",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Bertrandt AG",
+      "referenznummer": "12288-4996075561-S",
+      "entfernung": 18,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevSecOps Engineer (m/w/d) Schwerpunkt AI Platforms",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90429",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4562524,
+          "laenge": 11.0441458
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2883009",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T09:56:32.872",
+      "externeURL": "https://www.jobexport.de/job/5295715.html?exp=81&cid=8a123d91-6c1c-46b5-9c2c-28182514c1b9",
+      "hauptberuf": "Informatiker/in",
+      "firma": "adorsys GmbH & Co. KG",
+      "referenznummer": "13635-8a123d91_JB5295715-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Engineer - Agentic Software Development (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "70514",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-30",
+      "aenderungsdatum": "2026-10-01T11:38:15.124",
+      "hauptberuf": "Informatiker/in",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-0000211147e001-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI & Digital Solutions Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91083",
+            "ort": "Baiersdorf, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.6558211,
+          "laenge": 11.0414254
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T07:30:52.332",
+      "externeURL": "https://www.stellenanzeigen.de/job/detail/SDE-124545/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+      "hauptberuf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "alternativBeruf1": "EDV-Fachkraft",
+      "alternativBeruf2": "Sicherheitstechniker/in (IT)",
+      "firma": "FEAG Gruppe",
+      "referenznummer": "11858-SDE-124545-STA-S",
+      "entfernung": 25,
+      "alleBerufe": [
+        "Wirtschaftsinformatiker/in (Hochschule)",
+        "EDV-Fachkraft",
+        "Sicherheitstechniker/in (IT)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Solution Architect (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 80,
+      "chiffrenummer": "r18076",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-14",
+      "aenderungsdatum": "2026-11-13T07:40:53.956",
+      "hauptberuf": "KI-Engineer",
+      "firma": "virtual7 GmbH",
+      "arbeitgeberKundennummerHash": "zWBMPPB7sAPLABJNiAPvJFp0bYRzBGac3zGyqdYs-3Q=",
+      "referenznummer": "19718-r18076-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Microsoft M365 & AI Plattform Engineer (d/m/w)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Beuthener Str. 25",
+            "plz": "90471",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.429071,
+          "laenge": 11.130822
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-27T07:04:27.432",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "TeamBank AG",
+      "arbeitgeberKundennummerHash": "T9FJvkZ-en9hO09GULLyfxorIABO9MuhjOX4qzc_cfw=",
+      "referenznummer": "20431-2362886-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "IT-Systemadministrator/in",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior IT & Technology Engineer AI (mwd)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91286",
+            "ort": "Obertrubach",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.6988949,
+          "laenge": 11.3299179
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2758344",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T13:54:28.412",
+      "externeURL": "https://www.jobexport.de/job/5284591.html?exp=81&cid=93020cd4-eebd-4e45-a057-081ebfb680ff",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Schmetterling International GmbH u. Co. KG",
+      "referenznummer": "13635-93020cd4_JB5284591-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & AI Platform Expert w/m/d",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.434845143,
+          "laenge": 11.100904183
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "215783",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-21",
+      "aenderungsdatum": "2026-11-13T09:40:15.266",
+      "hauptberuf": "Data Engineer",
+      "firma": "Computacenter AG & Co. oHG",
+      "arbeitgeberKundennummerHash": "HJym_zLlKOpczjUd3YuIqcO4eQdrO4DM9YcVzXh-EtU=",
+      "referenznummer": "10001-1003417833-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI-Engineer Agentic Development and Enablement (all gender)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90443",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.439479,
+          "laenge": 11.0688731
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-10",
+      "aenderungsdatum": "2026-09-28T07:50:05.665",
+      "hauptberuf": "Informatiker/in",
+      "firma": "ALTEN GmbH München",
+      "arbeitgeberKundennummerHash": "wP6LM8tF1OM32TX3bjjQFKEiHMT0dPrQJuSFpGAq32I=",
+      "referenznummer": "10001-1003685421-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Scientist – Model Training  (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T07:03:23.582",
+      "externeURL": "https://gute-jobs.de/viewjob-98w2z?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=senior-ai-scientist-model-training-m-w-d",
+      "hauptberuf": "KI-Engineer",
+      "firma": "BWI GmbH",
+      "referenznummer": "12336-a26f539j0444668-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Business Intelligence & AI Specialist (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90762",
+            "ort": "Fürth, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4736059,
+          "laenge": 10.9960036
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T07:06:04.473",
+      "externeURL": "https://gute-jobs.de/viewjob-vrqak?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=business-intelligence-ai-specialist-m-w-d",
+      "hauptberuf": "KI-Engineer",
+      "firma": "UVEX WINTER HOLDING GmbH & Co. KG",
+      "referenznummer": "12336-a26f483j0457582-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Python Backend Engineer* (AI Focus)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 75000.0,
+      "gehaltsspanneBis": 90000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5823886,
+          "laenge": 10.9848618
+        }
+      ],
+      "chiffrenummer": "r14241",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-04-01",
+      "aenderungsdatum": "2026-11-02T07:23:00.324",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "inovex GmbH",
+      "arbeitgeberKundennummerHash": "9xPxVzI0AAN8g51FCj6infUxfay0yhdWR1aBH35sNw0=",
+      "referenznummer": "16752-r14241-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Agent Developer / KI-Agentenentwickler (m/w/d) – Microsoft Copilot & Data Engineering",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.434845203000066,
+          "laenge": 11.100904083000046
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T18:12:02.272",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "alternativBeruf2": "Data Engineer",
+      "firma": "WAITS Software- und Prozessberatungsgesellschaft mbH",
+      "arbeitgeberKundennummerHash": "_Ubs_ARU_2pqrvQq9pMRh83VEXWWefSSpozIMTDqGto=",
+      "referenznummer": "10001-1003942812-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Data Engineer",
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) Fullstack Software Engineer - Fokus AI (m/w/d) - Hybrid,München,Stuttgart,Nür...",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Rothenburger Str. 116",
+            "plz": "90439",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.44375,
+          "laenge": 11.0535345
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-03",
+      "aenderungsdatum": "2026-10-30T17:38:15.386",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Senior-Fullstack-Software-Engineer-Fokus-Ai-D-Hybr-1272842?cp=BA",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Web Developer",
+      "firma": "Randstad Digital",
+      "referenznummer": "12811-2271973-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Web Developer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -052026-77165",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T09:07:41.273",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Fachinformatiker/in - Anwendungsentwicklung",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646576-7878-1018-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Fachinformatiker/in - Anwendungsentwicklung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps & Cloud Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -032026-74907",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T10:08:54.640",
+      "hauptberuf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-647037-7878-3320-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Anwendungsentwicklung",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "526437",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-29",
+      "aenderungsdatum": "2026-10-15T15:03:09.906",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Capgemini Deutschland GmbH",
+      "arbeitgeberKundennummerHash": "oWT74Mpbdj5YwZ5RocquNMW_kXPfYT21lJCUoSyvOdA=",
+      "referenznummer": "17311-44470334-928-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Security Operations Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -062026-78603",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T09:07:41.066",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf2": "Fachinformatiker/in - Digitale Vernetzung",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646574-7878-2855-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "IT-Systemadministrator/in",
+        "Fachinformatiker/in - Systemintegration",
+        "Fachinformatiker/in - Digitale Vernetzung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Cloud Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-31"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Nordostpark 12-14",
+            "plz": "90411",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.485861,
+          "laenge": 11.122659
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-30T17:37:43.316",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in - IT-Systeme",
+      "alternativBeruf2": "IT-System-Kaufmann/-frau",
+      "firma": "KUMAVISION AG",
+      "arbeitgeberKundennummerHash": "3jAmxtt4FSumADhlqk8nAHS7Snq-A5hURSeLkdE0yhs=",
+      "referenznummer": "17195-k58839.1715-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "IT-Systemadministrator/in",
+        "Wirtschaftsinformatiker/in - IT-Systeme",
+        "IT-System-Kaufmann/-frau"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer Netzwerk (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -022026-73603",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T10:06:04.592",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf2": "Fachinformatiker/in - Digitale Vernetzung",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646513-7878-8792-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "IT-Systemadministrator/in",
+        "Fachinformatiker/in - Systemintegration",
+        "Fachinformatiker/in - Digitale Vernetzung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer (m/w/d) Linux",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -052026-76924",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T10:06:04.836",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646517-7878-8375-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Cloud & Infrastructure Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -062026-78176",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T09:08:23.894",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646682-7878-3311-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Windows Deployment Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -082026-81015",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:13.553",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646369-7878-2444-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Cloud Infrastructure Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-23"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -092026-82370",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T10:05:44.766",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646431-7878-9881-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Engineer Emerging Accelerators (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "70939",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T10:59:48.499",
+      "hauptberuf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-00002111633002-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps Engineer (m/w/d) - Kubernetes & Infrastructure",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -102026-83930",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T17:04:06.229",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "Informatiker/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646716-7878-1669-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer (m/w/d) - RACF / z/OS",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -042026-76466",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:13.326",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "IT-Systemadministrator/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646366-7878-8846-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "IT-Systemadministrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer* für Datenprojekte",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5823886,
+          "laenge": 10.9848618
+        }
+      ],
+      "chiffrenummer": "r5445",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-01-21"
+      },
+      "datumErsteVeroeffentlichung": "2025-05-22",
+      "aenderungsdatum": "2026-11-02T07:32:42.360",
+      "hauptberuf": "Data Engineer",
+      "firma": "inovex GmbH",
+      "arbeitgeberKundennummerHash": "9xPxVzI0AAN8g51FCj6infUxfay0yhdWR1aBH35sNw0=",
+      "referenznummer": "16752-r5445-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT Support Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91522",
+            "ort": "Ansbach, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.290772127,
+          "laenge": 10.561759328
+        }
+      ],
+      "chiffrenummer": "JN -112026-84348",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T15:05:06.692",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "Fachinformatiker/in - Digitale Vernetzung",
+      "alternativBeruf2": "IT-Administrator/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-647077-7878-4657-S",
+      "entfernung": 43,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "Fachinformatiker/in - Digitale Vernetzung",
+        "IT-Administrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT System Engineer (m/w/d) z/OS Netzwerk und Security",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -042026-76465",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T10:08:54.836",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "Informatiker/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-647039-7878-7799-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Professional System Engineer / IT System Administrator Test- & Plattformbetrieb (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -092026-82570",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T13:06:30.307",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf2": "Informatiker/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646703-7878-7145-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "IT-Systemadministrator/in",
+        "Fachinformatiker/in - Systemintegration",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist / Data Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Rettistraße 5",
+            "plz": "91522",
+            "ort": "Ansbach, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.313529,
+          "laenge": 10.570662
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-05-07",
+      "aenderungsdatum": "2026-11-04T07:45:42.358",
+      "hauptberuf": "Data Scientist",
+      "firma": "FEGA & Schmitt Elektrogroßhandel GmbH",
+      "arbeitgeberKundennummerHash": "B4MpSfpQTZRVP4OGrazT2GLFniPkEDAK54B2yadaYOE=",
+      "referenznummer": "16258-0064612468-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps Engineer (AWS) - Energy Infrastructure (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Norisstr.",
+            "hausnummer": "23",
+            "plz": "91154",
+            "ort": "Roth, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.2502021,
+          "laenge": 11.1181672
+        }
+      ],
+      "chiffrenummer": "Jobnummer 20405/ES",
+      "veroeffentlichungszeitraum": {
+        "von": "2025-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2025-09-03",
+      "aenderungsdatum": "2026-10-13T11:47:56.226",
+      "hauptberuf": "DevOps Engineer",
+      "alternativBeruf1": "Cloud-Architect",
+      "firma": "edison street GmbH",
+      "arbeitgeberKundennummerHash": "iOW5viOqQqzikOqkeTVg87qiREpIaalI7q_mU7lJ1NQ=",
+      "referenznummer": "10000-1203649421-S",
+      "entfernung": 21,
+      "alleBerufe": [
+        "DevOps Engineer",
+        "Cloud-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Python Backend Engineer / Senior Python-Entwickler / Backend-Entwickler KI (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.582388591,
+          "laenge": 10.984861843
+        }
+      ],
+      "chiffrenummer": "CR-305958",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-11-04T12:41:21.632",
+      "hauptberuf": "Backend-Entwickler/in",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "firma": "Brunel GmbH NL Nürnberg",
+      "arbeitgeberKundennummerHash": "aQPJjaP-P4re5vMyyxEiQ8yppfSDH4CkXtu0I6t4bOI=",
+      "referenznummer": "12362-CR305958_5293CS-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Backend-Entwickler/in",
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Team Lead (f/m/d) Agentic Shopfloor Bridge",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Mozartstr.",
+            "hausnummer": "31 C",
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5920099,
+          "laenge": 11.0129857
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T12:26:42.085",
+      "hauptberuf": "Data Engineer",
+      "firma": "SIEMENS AG",
+      "arbeitgeberKundennummerHash": "qbJA7Av3xavQmJRiVia1CAef1wx2jjzh1AMk86VarAc=",
+      "referenznummer": "10001-1004019221-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Supplier Quality Engineer (f/m/d) for Gas Turbine Auxiliaries, Electrical Systems",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.560917,
+          "laenge": 11.0076477
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "304648",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-11-11T13:03:17.768",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Siemens Energy Global GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "HmhVIE5IrRBnk8cbtySzmaFEZpUH0t-x_DBDeMHrPi8=",
+      "referenznummer": "15170-490539594-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Cost and Value Engineer (w/m/d) for Value Management in Product and Software Business",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5880258,
+          "laenge": 11.0123432
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "517328-en",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-07",
+      "aenderungsdatum": "2026-10-27T17:17:48.638",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Siemens AG",
+      "arbeitgeberKundennummerHash": "kMMXym6Me35oUXiBe4YhZNnhsbt6t_xzJPx6op9mbzw=",
+      "referenznummer": "12465-1629150-1-S",
+      "entfernung": 18,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Team Lead (f/m/d) Agent Foundry",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Mozartstr.",
+            "hausnummer": "31 C",
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.592007,
+          "laenge": 11.012985
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-16T09:12:27.466",
+      "hauptberuf": "Data Engineer",
+      "firma": "SIEMENS AG",
+      "arbeitgeberKundennummerHash": "qbJA7Av3xavQmJRiVia1CAef1wx2jjzh1AMk86VarAc=",
+      "referenznummer": "10001-1004015145-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AISolutionArchitect(m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Südwestpark 43",
+            "plz": "90449",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.428603,
+          "laenge": 11.0224755
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-13",
+      "aenderungsdatum": "2026-11-12T15:09:27.173",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "alternativBeruf2": "KI-Engineer",
+      "firma": "ITech Progress GmbH",
+      "arbeitgeberKundennummerHash": "yEZeOrcWL01r74zquH0pYL--Zi0oNkwyhDgZXaNhmoY=",
+      "referenznummer": "10000-1208208230-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Informatiker/in",
+        "Softwareentwickler/in"
+      ]
+    }
+  ]
+}

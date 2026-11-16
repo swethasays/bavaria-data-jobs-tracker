@@ -1,0 +1,5107 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "AI Engineer",
+  "city": "München",
+  "radius_km": 50,
+  "count": 117,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer (m/d/w)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-08"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81929",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1597981,
+          "laenge": 11.6619151
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-11-08T07:12:23.181",
+      "externeURL": "https://gute-jobs.de/viewjob-nsx8n?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=ai-engineer-m-d-w",
+      "hauptberuf": "KI-Engineer",
+      "firma": "EXXETA AG",
+      "referenznummer": "12336-a26f1192j0456062-S",
+      "entfernung": 7,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "65511",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-19",
+      "aenderungsdatum": "2026-11-16T06:57:04.624",
+      "hauptberuf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-000021100c7004-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Fachinformatiker/in - Anwendungsentwicklung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Support Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81667",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1311337,
+          "laenge": 11.5996045
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "33882571",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:29:52.157",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jhmhx-b",
+      "hauptberuf": "KI-Engineer",
+      "firma": "YER",
+      "referenznummer": "12288-4996079034-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Reasearch Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-05"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80809",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1794094,
+          "laenge": 11.5532293
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "DE_TKMS01830",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-12T08:44:12.237",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "TKMS ATLAS ELEKTRONIK GmbH",
+      "arbeitgeberKundennummerHash": "sv4n34gb2fKVPT0RfQu3ajt8dnEkY4fol-BDRul7vOw=",
+      "referenznummer": "16604-975525-008-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81929",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1597981,
+          "laenge": 11.6619151
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-10-20T07:01:22.686",
+      "externeURL": "https://gute-jobs.de/viewjob-3n78v?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=senior-ai-engineer-w-m-d",
+      "hauptberuf": "Informatiker/in",
+      "firma": "BWI GmbH",
+      "referenznummer": "12336-a26f539j0436667-S",
+      "entfernung": 7,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer (m/w/d), Pullach",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Georg-Kalb-Str. 6",
+            "plz": "82049",
+            "ort": "Pullach im Isartal",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.06864,
+          "laenge": 11.5362495
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T17:35:04.217",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Ai-Engineer-D-1329985?cp=BA",
+      "hauptberuf": "Application-Engineer/-Manager/in",
+      "firma": "HERMES Arzneimittel Holding GmbH",
+      "referenznummer": "12811-2363083-S",
+      "entfernung": 9,
+      "alleBerufe": [
+        "Application-Engineer/-Manager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Forward Deployed AI Engineer (m/d/w)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-08"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81929",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1597981,
+          "laenge": 11.6619151
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-11-08T07:12:23.549",
+      "externeURL": "https://gute-jobs.de/viewjob-z7fyg?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=forward-deployed-ai-engineer-m-d-w",
+      "hauptberuf": "KI-Engineer",
+      "firma": "EXXETA AG",
+      "referenznummer": "12336-a26f1192j0456073-S",
+      "entfernung": 7,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Generative AI Engineer (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-30"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.135582739,
+          "laenge": 11.573975803
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T17:34:54.080",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-507253-1801047-0-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software & DevOps Engineer - AI Automation (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35206642",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:01:36.669",
+      "externeURL": "https://www.persy.jobs/persy/l/job-juku4-b",
+      "hauptberuf": "DevOps Engineer",
+      "firma": "Bertrandt AG",
+      "referenznummer": "12288-4996073424-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "DevOps Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT Engineer Automation & AI (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81675",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1392024,
+          "laenge": 11.6024646
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2833767",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T14:12:38.680",
+      "externeURL": "https://www.jobexport.de/job/5296292.html?exp=81&cid=2937067c-24a3-4bf3-9333-3739257f422c",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "Denk Pharma GmbH & Co. KG",
+      "referenznummer": "13635-2937067c_JB5296292-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI & Machine Learning Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Säbener Platz 51",
+            "plz": "81545",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0900501,
+          "laenge": 11.5734506
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-11-12T11:05:37.632",
+      "externeURL": "https://www.heyjobs.co/de-de/jobs/6433d5a2-a1da-4695-9689-8188c9e0ff2e?utm_content=ad_link&utm_medium=sjm-pr&utm_source=jobboerse",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "MONTANA Energie-Handel GmbH & Co. KG",
+      "referenznummer": "12951-6433d5a2-a1da-4695--S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer / KI-Entwickler – LLM & RAG (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 55000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1521044,
+          "laenge": 11.5502024
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-10T07:00:44.677",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "PTA GmbH",
+      "arbeitgeberKundennummerHash": "3shgx7xsTBfp0o817c01KJwPa6wvxoXykmt6BcPNLM0=",
+      "referenznummer": "10001-1003987649-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Infrastructure Engineer (f/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80809",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1794094,
+          "laenge": 11.5532293
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "44385869",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-18",
+      "aenderungsdatum": "2026-11-11T12:55:07.473",
+      "hauptberuf": "Systeminformatiker/in",
+      "firma": "BMW AG",
+      "arbeitgeberKundennummerHash": "3Ifl8XV7wSH1BWHSmS_l6uQu2A0SnyaF8PTVphIxlNc=",
+      "referenznummer": "12462-1620216-1-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Systeminformatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Engineer, Software AI DevOps (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "STUNDENLOHN",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 30.0,
+      "gehaltsspanneBis": 46.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81379",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.10089,
+          "laenge": 11.5321426
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-07"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-07",
+      "aenderungsdatum": "2026-10-28T08:05:38.234",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "accu Personalservice GmbH",
+      "arbeitgeberKundennummerHash": "4c1PWdRY5SMklGzNe8v9KL7MD4jnsZEm6_16qJsCdiU=",
+      "referenznummer": "12825-350A147-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Innovation Engineer, Google Cloud",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-07-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80636",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1508084,
+          "laenge": 11.5441417
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-16",
+      "aenderungsdatum": "2026-07-06T11:48:24.628",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "Google Germany GmbH",
+      "arbeitgeberKundennummerHash": "Q8hQNnX5V5SGwfRvOnwp43xJ3yTjmR1GRE2y6W3EODk=",
+      "referenznummer": "17486-143476084111745734-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) AI Engineer - Kotlin, Java, TypeScript (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82031",
+            "ort": "Grünwald, Kreis München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0437296,
+          "laenge": 11.5369421
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35125932",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T18:04:56.973",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jst2h-b",
+      "hauptberuf": "KI-Engineer",
+      "firma": "KA Resources Recruitment SLU",
+      "referenznummer": "12288-4996071502-S",
+      "entfernung": 12,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps Engineer - Cloud, AI & Java (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80339",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1356245,
+          "laenge": 11.5391286
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-16T15:46:53.940",
+      "hauptberuf": "Cloud-Architect",
+      "firma": "SBK Siemens-Betriebskrankenkasse",
+      "referenznummer": "16727-1535271-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Cloud-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer / KI-Entwickler – LLM & RAG (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "313865",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T07:01:06.449",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p313865?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "PTA",
+      "referenznummer": "13644-313865-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Engineer / AI Architect (all gender)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1450237,
+          "laenge": 11.5540846
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-11",
+      "aenderungsdatum": "2026-11-04T17:22:23.630",
+      "hauptberuf": "Informatiker/in",
+      "firma": "ALTEN GmbH München",
+      "arbeitgeberKundennummerHash": "wP6LM8tF1OM32TX3bjjQFKEiHMT0dPrQJuSFpGAq32I=",
+      "referenznummer": "10001-1003690040-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Engineer - Agentic Software Development (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "70514",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-30",
+      "aenderungsdatum": "2026-10-01T11:38:15.124",
+      "hauptberuf": "Informatiker/in",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-0000211147e001-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer (w|m|d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80992",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1747661,
+          "laenge": 11.5171671
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2023-03-30"
+      },
+      "datumErsteVeroeffentlichung": "2023-03-30",
+      "aenderungsdatum": "2026-11-02T08:35:04.381",
+      "hauptberuf": "Data Scientist",
+      "firma": "BridgingIT GmbH",
+      "arbeitgeberKundennummerHash": "d3x5CdaZpg2SeEhql2l4PQOmbh-JMmg1t9lZqcoACOo=",
+      "referenznummer": "15835-000903004c9001-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI & ML Engineer / Architect (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80686",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1326487,
+          "laenge": 11.5106546
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2880823",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T08:02:51.308",
+      "externeURL": "https://www.jobexport.de/job/5298553.html?exp=81&cid=3d458d85-9e09-4add-9411-d525e085f573",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Data Scientist",
+      "firma": "Steadforce",
+      "referenznummer": "13635-3d458d85_JB5298553-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Quality Engineer mit Schwerpunkt AI & Risk Assessment (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80939",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.2051544,
+          "laenge": 11.6099662
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35235127",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T07:12:08.926",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jv71i-b",
+      "hauptberuf": "Qualitätsingenieur/in",
+      "firma": "Bertrandt AG",
+      "referenznummer": "12288-4995247968-S",
+      "entfernung": 7,
+      "alleBerufe": [
+        "Qualitätsingenieur/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Berater Snowflake Data Engineer - AI & Data (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80636",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1508084,
+          "laenge": 11.5441417
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "1727716",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-22",
+      "aenderungsdatum": "2026-11-06T07:51:26.151",
+      "hauptberuf": "Informatiker/in",
+      "firma": "EY Consulting GmbH",
+      "arbeitgeberKundennummerHash": "r7U4b7H_6Ks3Nb3PT8UCxt3Bl3sbHV0BN1hc9_Ngoso=",
+      "referenznummer": "15548-1601783-1-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior IT Engineer (w/m/d) API, AI, Infrastruktur",
+      "weitereBerufe": [
+        "IT-System Engineer"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 60000.0,
+      "gehaltsspanneBis": 110000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Straße",
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 80,
+      "chiffrenummer": "06604-0013525084",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-10-26T09:45:21.736",
+      "hauptberuf": "IT-Administrator/in",
+      "alternativBeruf1": "DevOps Engineer",
+      "alternativBeruf2": "Anwendungssystemadministrator/in",
+      "firma": "Robert Half Deutschland GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "DCEfEUZC5J6fmmUXxKl-HzK_ZQRIEBOLEE_dDOBzz8M=",
+      "referenznummer": "10001-1003887431-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "IT-System Engineer",
+        "DevOps Engineer",
+        "IT-Administrator/in",
+        "Anwendungssystemadministrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Process & Agent Solutions Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2713221",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T13:54:26.908",
+      "externeURL": "https://www.jobexport.de/job/5284569.html?exp=81&cid=483c8134-b07f-4b94-b4d2-db1c60630632",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Data Scientist",
+      "alternativBeruf2": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "C-P-S Group",
+      "referenznummer": "13635-483c8134_JB5284569-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Data Scientist",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Python Backend Engineer* (AI Focus)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 75000.0,
+      "gehaltsspanneBis": 90000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1521044,
+          "laenge": 11.5502024
+        }
+      ],
+      "chiffrenummer": "r14241",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-04-01",
+      "aenderungsdatum": "2026-11-02T07:23:00.324",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "inovex GmbH",
+      "arbeitgeberKundennummerHash": "9xPxVzI0AAN8g51FCj6infUxfay0yhdWR1aBH35sNw0=",
+      "referenznummer": "16752-r14241-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Native Developer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81679",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1479065,
+          "laenge": 11.6086808
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "34993473",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:31:12.429",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jpw97-b",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "TechMinds GmbH",
+      "referenznummer": "12288-4996063091-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Native Developer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81679",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1479065,
+          "laenge": 11.6086808
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "34993478",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:26:34.063",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jpw9c-b",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "TechMinds GmbH",
+      "referenznummer": "12288-4996063087-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) AI & Data Science Engineer (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81541",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1211839,
+          "laenge": 11.587321
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2882843",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T09:56:27.232",
+      "externeURL": "https://www.jobexport.de/job/5295634.html?exp=81&cid=57d5b4b4-73e7-443f-b2dc-7cc5b20e202b",
+      "hauptberuf": "Data Scientist",
+      "firma": "EnOcean",
+      "referenznummer": "13635-57d5b4b4_JB5295634-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Solutions Engineer (AI/NLP – Enterprise Software) Munich, Germany",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80992",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1747661,
+          "laenge": 11.5171671
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2608233",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T09:56:27.893",
+      "externeURL": "https://www.jobexport.de/job/5295640.html?exp=81&cid=4fc8b945-9a2f-411e-afba-49656657132f",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Data Engineer",
+      "firma": "drimco",
+      "referenznummer": "13635-4fc8b945_JB5295640-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Engineer",
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Lead Engineer - Applied AI & Data Products",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81671",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1223208,
+          "laenge": 11.6200817
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2716259",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-10-22T07:32:32.703",
+      "externeURL": "https://www.jobexport.de/job/5279596.html?exp=81&cid=391d994e-814c-4f36-b8e4-e72242526632",
+      "hauptberuf": "Leiter/in - Engineering",
+      "firma": "SQUER",
+      "referenznummer": "13635-391d994e_JB5279596-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Leiter/in - Engineering"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & AI Platform Expert w/m/d",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.152104426,
+          "laenge": 11.55020237
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "215783",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-21",
+      "aenderungsdatum": "2026-11-13T09:40:15.266",
+      "hauptberuf": "Data Engineer",
+      "firma": "Computacenter AG & Co. oHG",
+      "arbeitgeberKundennummerHash": "HJym_zLlKOpczjUd3YuIqcO4eQdrO4DM9YcVzXh-EtU=",
+      "referenznummer": "10001-1003417833-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Scientist – Model Training  (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T07:03:23.582",
+      "externeURL": "https://gute-jobs.de/viewjob-98w2z?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=senior-ai-scientist-model-training-m-w-d",
+      "hauptberuf": "KI-Engineer",
+      "firma": "BWI GmbH",
+      "referenznummer": "12336-a26f539j0444668-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Innovation Engineer, Deutsche Borse Group, Google Cloud",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-07-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80636",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1508084,
+          "laenge": 11.5441417
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-11",
+      "aenderungsdatum": "2026-07-06T11:43:12.995",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "Google Germany GmbH",
+      "arbeitgeberKundennummerHash": "Q8hQNnX5V5SGwfRvOnwp43xJ3yTjmR1GRE2y6W3EODk=",
+      "referenznummer": "17486-135193514559316678-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Quality & Risk Engineer – AI-gestützte Gesamtfahrzeugabsicherung (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 70000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80992",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1747661,
+          "laenge": 11.5171671
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35233782",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-16T16:02:30.972",
+      "externeURL": "https://jobboard.compleet.com/?externalId=4994948154",
+      "hauptberuf": "Risikomanager/in",
+      "firma": "Randstad Professional",
+      "referenznummer": "11119-4994948154-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Risikomanager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Infrastructure & Frontier Model Engineer (f/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80809",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1794094,
+          "laenge": 11.5532293
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "44424769",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-09",
+      "aenderungsdatum": "2026-11-11T12:55:22.416",
+      "hauptberuf": "Systeminformatiker/in",
+      "firma": "BMW AG",
+      "arbeitgeberKundennummerHash": "3Ifl8XV7wSH1BWHSmS_l6uQu2A0SnyaF8PTVphIxlNc=",
+      "referenznummer": "12462-1630724-1-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Systeminformatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Senior AI Engineer (w/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-15T07:49:54.658",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Machine Learning Engineer",
+      "alternativBeruf2": "Techniker/in - Informatik (KI und Robotik)/Bachelor Professional in Technik",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3074751793919601-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Techniker/in - Informatik (KI und Robotik)/Bachelor Professional in Technik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Lead Software Engineer (m/w/d) - Java, IDP & AI Platform",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81549",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0961489,
+          "laenge": 11.5997425
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-11-09T07:39:39.189",
+      "externeURL": "https://jobboard.onapply.de/listing/348054?source=arbeitsagentur",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "retarus GmbH",
+      "referenznummer": "13884-348054-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "accompio GmbH: Senior AI Engineer (m/w/d) - Dresden oder remote",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85630",
+            "ort": "Grasbrunn",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0785116,
+          "laenge": 11.7520225
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-15T07:04:00.198",
+      "externeURL": "https://www.empfehlungsbund.de/job/298815",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Machine Learning Engineer",
+      "alternativBeruf2": "Techniker/in - Informatik (KI und Robotik)/Bachelor Professional in Technik",
+      "firma": "accompio GmbH",
+      "referenznummer": "11956-2988151793574001-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Techniker/in - Informatik (KI und Robotik)/Bachelor Professional in Technik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Engineer Agentic AI & Intelligent Automation (all genders)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80538",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1453345,
+          "laenge": 11.5925182
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "J000134732",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-08"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-08",
+      "aenderungsdatum": "2026-10-21T08:19:15.000",
+      "hauptberuf": "Chatbot-Entwickler/in",
+      "firma": "Deutsche Lufthansa AG",
+      "arbeitgeberKundennummerHash": "37hFWDL1lP5boAK4kti7HR1F3FU3YBrT8uY410X4EN4=",
+      "referenznummer": "13348-1630490-1-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Chatbot-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Technical Gen AI Solutions Consultant (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81677",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1396927,
+          "laenge": 11.6286856
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "513691",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-23",
+      "aenderungsdatum": "2026-11-02T11:45:25.895",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Capgemini Deutschland GmbH",
+      "arbeitgeberKundennummerHash": "oWT74Mpbdj5YwZ5RocquNMW_kXPfYT21lJCUoSyvOdA=",
+      "referenznummer": "17311-44459230-922-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Devop (m/w/d) Syss AI Offensive Platform",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-05"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-05T13:14:58.378",
+      "externeURL": "https://www.stellenanzeigen.de/job/detail/SDE-124202/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "KI-Engineer",
+      "alternativBeruf2": "Software-Architect",
+      "firma": "SySS GmbH",
+      "referenznummer": "11858-SDE-124202-STA-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Softwareentwickler/in",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Agentic AI Principal (m/f/d)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.15210451100006,
+          "laenge": 11.550202335000051
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T15:38:32.709",
+      "hauptberuf": "KI-Manager/in",
+      "alternativBeruf1": "KI-Engineer",
+      "alternativBeruf2": "Berufsspezialist/in - Künstliche Intelligenz und Maschinelles Lernen",
+      "firma": "ThoughtWorks Deutschland GmbH Standort Hamburg",
+      "arbeitgeberKundennummerHash": "l5ZwJBQEordzCeRSP7Th7-dV5c55k6lVCzgfj-fKgHM=",
+      "referenznummer": "10001-1003893191-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "KI-Engineer",
+        "KI-Manager/in",
+        "Berufsspezialist/in - Künstliche Intelligenz und Maschinelles Lernen"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Qualitätsingenieur KI-Fokus / Quality Engineer (AI-augmented) (m/w/d) IT-Consulting",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 55000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1521044,
+          "laenge": 11.5502024
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-08",
+      "aenderungsdatum": "2026-10-30T09:34:36.848",
+      "hauptberuf": "IT-Tester/in",
+      "alternativBeruf1": "IT-Berater/in",
+      "firma": "PTA GmbH",
+      "arbeitgeberKundennummerHash": "3shgx7xsTBfp0o817c01KJwPa6wvxoXykmt6BcPNLM0=",
+      "referenznummer": "10001-1003349792-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "IT-Tester/in",
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwarearchitekt (m/w/d) AI & Machine Learning",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 90000,
+      "gehaltsspanneBis": 110000,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80687",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.140433435,
+          "laenge": 11.506015614
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T16:11:32.681",
+      "hauptberuf": "Software-Architect",
+      "alternativBeruf1": "KI-Engineer",
+      "alternativBeruf2": "KI-Manager/in",
+      "firma": "univativ GmbH München",
+      "arbeitgeberKundennummerHash": "HCgz0y2fL4zlli6Ea9Ny5uFaoC5HkzNtzPa_fVjttiE=",
+      "referenznummer": "10001-1003928568-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Software-Architect",
+        "KI-Manager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Forward Deployed Engineer (w/m/x) - AI & Enterprise Solutions",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-15T07:49:56.650",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Fintech-Entwickler/in",
+      "alternativBeruf2": "Machine Learning Engineer",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3085001794178801-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Fintech-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) Fullstack Software Engineer - Fokus AI (m/w/d) - Hybrid,München,Stuttgart,Nür...",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Schwanthalerstraße 10",
+            "plz": "80336",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.137535,
+          "laenge": 11.5629705
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-03",
+      "aenderungsdatum": "2026-10-30T17:38:15.386",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Senior-Fullstack-Software-Engineer-Fokus-Ai-D-Hybr-1272842?cp=BA",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Web Developer",
+      "firma": "Randstad Digital",
+      "referenznummer": "12811-2271973-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Web Developer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Forward Deployed Engineer (w/m/x) - AI & Enterprise Solutions 1 1",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1833287,
+          "laenge": 11.5853607
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-31"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-31",
+      "aenderungsdatum": "2026-11-15T07:50:07.061",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Software-Architect",
+      "alternativBeruf2": "Machine Learning Engineer",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3087851793401200-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Lead Forward Deployed Engineer (w/m/x) - AI & Enterprise Solutions",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-11-12T07:24:41.015",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Machine Learning Engineer",
+      "alternativBeruf2": "Software-Architect",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3085121793142000-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Agent Developer / KI-Agentenentwickler (m/w/d) – Microsoft Copilot & Data Engineering",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.15210451100006,
+          "laenge": 11.550202335000051
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T18:12:02.272",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "alternativBeruf2": "Data Engineer",
+      "firma": "WAITS Software- und Prozessberatungsgesellschaft mbH",
+      "arbeitgeberKundennummerHash": "_Ubs_ARU_2pqrvQq9pMRh83VEXWWefSSpozIMTDqGto=",
+      "referenznummer": "10001-1003942812-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Data Engineer",
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81677",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1396927,
+          "laenge": 11.6286856
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "542731",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-26",
+      "aenderungsdatum": "2026-11-12T09:16:59.218",
+      "hauptberuf": "DevOps Engineer",
+      "firma": "Capgemini Deutschland GmbH",
+      "arbeitgeberKundennummerHash": "oWT74Mpbdj5YwZ5RocquNMW_kXPfYT21lJCUoSyvOdA=",
+      "referenznummer": "17311-44464508-925-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "DevOps Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer* für Datenprojekte",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1521044,
+          "laenge": 11.5502024
+        }
+      ],
+      "chiffrenummer": "r5445",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-01-21"
+      },
+      "datumErsteVeroeffentlichung": "2025-05-22",
+      "aenderungsdatum": "2026-11-02T07:32:42.360",
+      "hauptberuf": "Data Engineer",
+      "firma": "inovex GmbH",
+      "arbeitgeberKundennummerHash": "9xPxVzI0AAN8g51FCj6infUxfay0yhdWR1aBH35sNw0=",
+      "referenznummer": "16752-r5445-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-16T07:47:46.305",
+      "hauptberuf": "Software-Architect",
+      "alternativBeruf1": "KI-Engineer",
+      "alternativBeruf2": "Machine Learning Engineer",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3070401793919601-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-16T07:47:51.358",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Machine Learning Engineer",
+      "alternativBeruf2": "Software-Architect",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3056331793919601-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Lead Consultant AI & Cloud Development (w/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-16T09:28:16.915",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Cloud-Architect",
+      "alternativBeruf2": "IT-Berater/in",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3000711794178801-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Cloud-Architect",
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data / Integration Platform Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1521044,
+          "laenge": 11.5502024
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T17:59:35.461",
+      "hauptberuf": "Informatiker/in",
+      "firma": "Bayerischer Rundfunk Anstalt des öffentlichen Rechts",
+      "arbeitgeberKundennummerHash": "GnaENjJCO3AdZQTwuk9411CFQT1Lb4uffYUvQmJpQeI=",
+      "referenznummer": "10000-1208635422-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81677",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1396927,
+          "laenge": 11.6286856
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "526437",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-29",
+      "aenderungsdatum": "2026-10-15T15:03:09.906",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Capgemini Deutschland GmbH",
+      "arbeitgeberKundennummerHash": "oWT74Mpbdj5YwZ5RocquNMW_kXPfYT21lJCUoSyvOdA=",
+      "referenznummer": "17311-44470334-928-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "SoftwareOne Deutschland GmbH: Senior AI Consulting Architect (gn)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81379",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.10089,
+          "laenge": 11.5321426
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-16T07:06:50.310",
+      "externeURL": "https://www.empfehlungsbund.de/job/308980",
+      "hauptberuf": "Software-Architect",
+      "alternativBeruf1": "KI-Engineer",
+      "alternativBeruf2": "IT-Compliance-Consultant",
+      "firma": "SoftwareOne Deutschland GmbH",
+      "referenznummer": "11956-3089801793833200-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Software-Architect",
+        "IT-Compliance-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior DevOps Engineer Schwerpunkt Design (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80992",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.174766053,
+          "laenge": 11.51716709
+        }
+      ],
+      "chiffrenummer": "JN -112026-84462",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T09:10:02.417",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647175-7878-8511-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Mechanical Engineer (m/w/d) - Sondermaschinenbau",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -112026-84418",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T17:03:28.848",
+      "hauptberuf": "Ingenieur/in - Maschinenbau",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647170-7878-5014-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Maschinenbau"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "SPS-Softwareentwickler / Automation Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -112026-84422",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T10:04:11.339",
+      "hauptberuf": "Ingenieur/in - Automatisierungstechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647147-7878-4413-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Automatisierungstechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Engineer Emerging Accelerators (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "70939",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T10:59:48.499",
+      "hauptberuf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-00002111633002-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior DevSecOps Engineer (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-07"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 60000.0,
+      "gehaltsspanneBis": 90000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Prinzregentenstr.",
+            "hausnummer": "161",
+            "plz": "81677",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.138516,
+          "laenge": 11.6225325
+        }
+      ],
+      "chiffrenummer": "27691",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-07"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-08",
+      "aenderungsdatum": "2026-11-06T08:22:05.255",
+      "hauptberuf": "DevOps Engineer",
+      "firma": "Giesecke+Devrient GmbH",
+      "arbeitgeberKundennummerHash": "NMWR3h0hOYbMgpRuAEYe06uYCQT0pZ-9fLoqKJp1Ry8=",
+      "referenznummer": "18281-44421712-97-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "DevOps Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Network Engineer Datacenter & Cloud (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80686",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.132648729,
+          "laenge": 11.510654556
+        }
+      ],
+      "chiffrenummer": "JN -092026-81740",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-04T10:02:44.010",
+      "hauptberuf": "Netzwerkadministrator/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-645561-7878-8385-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Netzwerkadministrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Machine Learning Innovation Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-04",
+      "aenderungsdatum": "2026-11-02T14:19:54.115",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "ARRK Engineering GmbH",
+      "arbeitgeberKundennummerHash": "ndhWcm9wf22IoUM-Ye3UqE_EE5Hl4Ue0qua2b3Marj4=",
+      "referenznummer": "14688-20266jf81388-000-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Robotics Software Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82205",
+            "ort": "Gilching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.110556238,
+          "laenge": 11.281900684
+        }
+      ],
+      "chiffrenummer": "JN -112026-84319",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:27.032",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647072-7878-7929-S",
+      "entfernung": 22,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Mechanical Project Engineer (m/w/d) - Direktvermittlung",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -112026-84419",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-13T14:04:06.689",
+      "hauptberuf": "Ingenieur/in - Maschinenbau",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647158-7878-2785-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Maschinenbau"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Analog Design Engineer (m/f/d) #200693399",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Karlstraße",
+            "hausnummer": "77",
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1458692,
+          "laenge": 11.556369
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-06T11:08:32.484",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Apple Technology Engineering B.V. & Co. KG",
+      "arbeitgeberKundennummerHash": "ZBygDddCOhBj-oN-Y0hc2Ng0nqQnF_L3HUNIRlJIjW0=",
+      "referenznummer": "10001-1003976119-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Lead Private AI Architect (w/m/x) - GenAI, LLM & Enterprise AI Platforms",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1833287,
+          "laenge": 11.5853607
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-31"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-31",
+      "aenderungsdatum": "2026-11-15T07:50:00.564",
+      "hauptberuf": "Software-Architect",
+      "alternativBeruf1": "KI-Engineer",
+      "alternativBeruf2": "Cloud-Architect",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3087731793401200-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Software-Architect",
+        "Cloud-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Senior AI Client Delivery Manager (w/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-16T07:47:49.051",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Bachelor Professional - IT (IT-Beratung)",
+      "alternativBeruf2": "IT-Service-Delivery-Manager/in",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3074991793919601-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Bachelor Professional - IT (IT-Beratung)",
+        "IT-Service-Delivery-Manager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Lead Engineer Mittelspannungsschaltanlagen (m/w/d) - Global Standards",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -112026-84340",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:26.782",
+      "hauptberuf": "Ingenieur/in - Energietechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647073-7878-4501-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Energietechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Standards Engineer (m/w/d) - Electrical Systems",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -112026-84341",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:26.704",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647070-7878-9299-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Optical Integration & Test Engineer (m/w/d) Raumfahrt",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -092026-81808",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T18:07:24.866",
+      "hauptberuf": "Ingenieur/in - Physik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647052-7878-3720-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Physik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Databricks Solution Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1521044,
+          "laenge": 11.5502024
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "50446",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-09",
+      "aenderungsdatum": "2026-11-16T11:59:22.156",
+      "hauptberuf": "Cloud-Consultant",
+      "firma": "Deloitte GmbH",
+      "arbeitgeberKundennummerHash": "eaaFufkKRouxkCTseyHPOrSt_VpqFYaFZ6GFcq-X0WQ=",
+      "referenznummer": "15794-471699_50446-1-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Cloud-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Snowflake Solution Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1521044,
+          "laenge": 11.5502024
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "50443",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-09",
+      "aenderungsdatum": "2026-11-16T12:00:09.048",
+      "hauptberuf": "Cloud-Consultant",
+      "firma": "Deloitte GmbH",
+      "arbeitgeberKundennummerHash": "eaaFufkKRouxkCTseyHPOrSt_VpqFYaFZ6GFcq-X0WQ=",
+      "referenznummer": "15794-471700_50443-1-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Cloud-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "accompio GmbH: Senior AI Consultant - Quality Engineering (m/w/d) Dresden oder remote",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85630",
+            "ort": "Grasbrunn",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0785116,
+          "laenge": 11.7520225
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-11-13T07:17:27.768",
+      "externeURL": "https://www.empfehlungsbund.de/job/308570",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Software-Architect",
+      "alternativBeruf2": "Machine Learning Engineer",
+      "firma": "accompio GmbH",
+      "referenznummer": "11956-3085701793142000-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Machine Learning Engineer Automatisiertes Fahren (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-04",
+      "aenderungsdatum": "2026-11-13T12:26:19.276",
+      "hauptberuf": "Machine Learning Engineer",
+      "firma": "ARRK Engineering GmbH",
+      "arbeitgeberKundennummerHash": "ndhWcm9wf22IoUM-Ye3UqE_EE5Hl4Ue0qua2b3Marj4=",
+      "referenznummer": "14688-2026cql4nofg-000-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Cloud & Platform Engineer (m/w/x)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-08"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Elsenheimerstr.",
+            "hausnummer": "49",
+            "plz": "80687",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.137364,
+          "laenge": 11.5230285
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-08"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-08",
+      "aenderungsdatum": "2026-09-08T15:52:57.889",
+      "hauptberuf": "DevOps Engineer",
+      "alternativBeruf1": "Cloud-Architect",
+      "alternativBeruf2": "Site Reliability Engineer",
+      "firma": "Ascent Digital Services DE GmbH",
+      "arbeitgeberKundennummerHash": "a-zZqLiQHw964m8HSMys7mzG-3U1mVJq-AO_YhnsuH4=",
+      "referenznummer": "10001-1003673523-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "DevOps Engineer",
+        "Site Reliability Engineer",
+        "Cloud-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Electrical Infrastructure Engineer (m/w/d) - Datacenter & Utility",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -112026-84342",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:26.617",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647068-7878-4152-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Engineer - Electrical Systems (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -102026-83757",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T09:07:41.750",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-646577-7878-5700-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Engineer - Digital Health Excellence Center (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80636",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1508084,
+          "laenge": 11.5441417
+        }
+      ],
+      "chiffrenummer": "1679076",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-01-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-01-26",
+      "aenderungsdatum": "2026-11-09T06:29:53.670",
+      "hauptberuf": "Data Engineer",
+      "firma": "EY Consulting GmbH",
+      "arbeitgeberKundennummerHash": "r7U4b7H_6Ks3Nb3PT8UCxt3Bl3sbHV0BN1hc9_Ngoso=",
+      "referenznummer": "15548-1530218-1-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Staff Engineer Verification (m/f/div)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-17"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85579",
+            "ort": "Neubiberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0771993,
+          "laenge": 11.6522801
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "HRC1874332",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T16:02:23.171",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Infineon Technologies AG",
+      "arbeitgeberKundennummerHash": "fpqITwiZKDv57gJeOS4Qa4opvmzW7ZxEqMtNnWjRfDQ=",
+      "referenznummer": "12874-1654325-1-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Analog IC Product Engineer (m/f/d) #200688192",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-23"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Karlstraße",
+            "hausnummer": "77",
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1458692,
+          "laenge": 11.556369
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T11:59:49.235",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Apple Technology Engineering B.V. & Co. KG",
+      "arbeitgeberKundennummerHash": "ZBygDddCOhBj-oN-Y0hc2Ng0nqQnF_L3HUNIRlJIjW0=",
+      "referenznummer": "10001-1003904903-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Software Engineer (m/w/d) Fullstack Mietwagen International",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Trappentreustraße 1-3",
+            "plz": "80339",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.139692139,
+          "laenge": 11.53500835
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-16T07:48:00.949",
+      "hauptberuf": "Fullstack-Entwickler/in",
+      "firma": "CHECK24 Services Personal GmbH",
+      "arbeitgeberKundennummerHash": "ATlvyTemXbegu9lQNQ29igPMUF9O2QuFjimoEWazx40=",
+      "referenznummer": "20208-8a22ea36e2f44c05acf-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fullstack-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Analog Layout Automation Engineer (m/f/d) #200687202",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-23"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Karlstraße",
+            "hausnummer": "77",
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1458692,
+          "laenge": 11.556369
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T11:55:16.326",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Apple Technology Engineering B.V. & Co. KG",
+      "arbeitgeberKundennummerHash": "ZBygDddCOhBj-oN-Y0hc2Ng0nqQnF_L3HUNIRlJIjW0=",
+      "referenznummer": "10001-1003904828-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "RF TX Silicon Validation Engineer (m/f/d) #200693152",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Karlstraße",
+            "hausnummer": "77",
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1458692,
+          "laenge": 11.556369
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-06T11:10:08.015",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Apple Technology Engineering B.V. & Co. KG",
+      "arbeitgeberKundennummerHash": "ZBygDddCOhBj-oN-Y0hc2Ng0nqQnF_L3HUNIRlJIjW0=",
+      "referenznummer": "10001-1003976141-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "SAP Basis Engineer (m/w/d) - SAP S/4HANA & Cloud",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-05"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81249",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.168236582,
+          "laenge": 11.409615299
+        }
+      ],
+      "chiffrenummer": "JN -072026-79161",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-05T09:07:53.592",
+      "hauptberuf": "Ingenieur/in - Systems Engineering",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "HDXun3ZqRZdj1czw-YYKbGLWNk3NAaP4gb1ieS9l-cI=",
+      "referenznummer": "12634-BB-646911-7878-8440-S",
+      "entfernung": 12,
+      "alleBerufe": [
+        "Ingenieur/in - Systems Engineering"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Electronics Design Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82205",
+            "ort": "Gilching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.110556238,
+          "laenge": 11.281900684
+        }
+      ],
+      "chiffrenummer": "JN -102026-83846",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-04T12:05:35.126",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-646868-7878-9299-S",
+      "entfernung": 22,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Automotive Security Engineer (f/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-31"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80809",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1794094,
+          "laenge": 11.5532293
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "44423211",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-08",
+      "aenderungsdatum": "2026-11-11T12:55:21.107",
+      "hauptberuf": "Ingenieur/in - Fahrzeugtechnik",
+      "firma": "BMW AG",
+      "arbeitgeberKundennummerHash": "3Ifl8XV7wSH1BWHSmS_l6uQu2A0SnyaF8PTVphIxlNc=",
+      "referenznummer": "12462-1630729-1-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Fahrzeugtechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Principal Engineer Verification (f/m/div) HRC1874104",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85579",
+            "ort": "Neubiberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0771993,
+          "laenge": 11.6522801
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "HRC1874104",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T19:43:13.602",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Infineon Technologies AG",
+      "arbeitgeberKundennummerHash": "fpqITwiZKDv57gJeOS4Qa4opvmzW7ZxEqMtNnWjRfDQ=",
+      "referenznummer": "12874-1652068-1-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Founding ML Engineer (Spectrum) (m/f/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-18"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Christoph-Rapparini-Bogen",
+            "hausnummer": "23",
+            "plz": "80639",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.145851,
+          "laenge": 11.50533
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-07"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-07",
+      "aenderungsdatum": "2026-09-18T13:21:24.208",
+      "hauptberuf": "Berufsspezialist/in - Softwareentwicklung",
+      "alternativBeruf1": "Software-Architect",
+      "firma": "JetBrains GmbH",
+      "arbeitgeberKundennummerHash": "WBy2dq1793NfyIndKqUbywqejG4d7VZeQPXXQqqRZiU=",
+      "referenznummer": "10001-1003340862-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Berufsspezialist/in - Softwareentwicklung",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Experienced Receiver RF Silicon Validation Engineer (m/f/d) #200693692",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Karlstraße",
+            "hausnummer": "77",
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1458692,
+          "laenge": 11.556369
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-06T11:05:08.311",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Apple Technology Engineering B.V. & Co. KG",
+      "arbeitgeberKundennummerHash": "ZBygDddCOhBj-oN-Y0hc2Ng0nqQnF_L3HUNIRlJIjW0=",
+      "referenznummer": "10001-1003976074-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer Robotics / Mobile Manipulation (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82205",
+            "ort": "Gilching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.110556238,
+          "laenge": 11.281900684
+        }
+      ],
+      "chiffrenummer": "JN -112026-84322",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:26.947",
+      "hauptberuf": "Informatiker/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647071-7878-3853-S",
+      "entfernung": 22,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "OS Engineer - Embedded Linux / Robotics (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82205",
+            "ort": "Gilching",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.110556238,
+          "laenge": 11.281900684
+        }
+      ],
+      "chiffrenummer": "JN -112026-84343",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T14:05:26.862",
+      "hauptberuf": "Informatiker/in (Weiterbildung)",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-647069-7878-1260-S",
+      "entfernung": 22,
+      "alleBerufe": [
+        "Informatiker/in (Weiterbildung)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Engineer Compliance Verification (CVE) - Primary Structures (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-23"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.184086314,
+          "laenge": 11.585884717
+        }
+      ],
+      "chiffrenummer": "JN -072026-80091",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-22",
+      "aenderungsdatum": "2026-10-22T16:09:29.943",
+      "hauptberuf": "Ingenieur/in - Luft- und Raumfahrttechnik",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "2OkOjKGINCO5ExjHWcoaDav4wtkEq-50jCIdKj-3kE0=",
+      "referenznummer": "12634-BB-646420-7878-9118-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Ingenieur/in - Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "RF PLL Silicon Validation Engineer (Early Careers) (m/f/d) #200693105",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Karlstraße",
+            "hausnummer": "77",
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1458692,
+          "laenge": 11.556369
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-06T11:11:48.933",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Apple Technology Engineering B.V. & Co. KG",
+      "arbeitgeberKundennummerHash": "ZBygDddCOhBj-oN-Y0hc2Ng0nqQnF_L3HUNIRlJIjW0=",
+      "referenznummer": "10001-1003976169-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Principal Engineer Functional Verification (f/m/div)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85579",
+            "ort": "Neubiberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0771993,
+          "laenge": 11.6522801
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "HRC1800331",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-15",
+      "aenderungsdatum": "2026-11-09T16:01:50.703",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Infineon Technologies AG",
+      "arbeitgeberKundennummerHash": "fpqITwiZKDv57gJeOS4Qa4opvmzW7ZxEqMtNnWjRfDQ=",
+      "referenznummer": "12874-1643447-1-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Customer Engineer, Platform, Software and Media, DACH (German)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80636",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1508084,
+          "laenge": 11.5441417
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-18"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-18",
+      "aenderungsdatum": "2026-10-21T11:12:06.106",
+      "hauptberuf": "Cloud-Architect",
+      "firma": "Google Germany GmbH",
+      "arbeitgeberKundennummerHash": "Q8hQNnX5V5SGwfRvOnwp43xJ3yTjmR1GRE2y6W3EODk=",
+      "referenznummer": "17486-89216124805096134-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Cloud-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Team Lead (f/m/d) Agentic Shopfloor Bridge",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Werner-von-Siemens-Str",
+            "hausnummer": "1",
+            "plz": "80333",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1442871,
+          "laenge": 11.5750267
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T12:26:42.085",
+      "hauptberuf": "Data Engineer",
+      "firma": "SIEMENS AG",
+      "arbeitgeberKundennummerHash": "qbJA7Av3xavQmJRiVia1CAef1wx2jjzh1AMk86VarAc=",
+      "referenznummer": "10001-1004019221-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Staff Engineer Design System (f/m/div) HRC1864286",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85579",
+            "ort": "Neubiberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0771993,
+          "laenge": 11.6522801
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "HRC1864286",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-04T00:29:49.482",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Infineon Technologies AG",
+      "arbeitgeberKundennummerHash": "fpqITwiZKDv57gJeOS4Qa4opvmzW7ZxEqMtNnWjRfDQ=",
+      "referenznummer": "12874-1649779-1-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Engineer - Analytics and Data Products (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85586",
+            "ort": "Poing bei München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.170092301,
+          "laenge": 11.803029073
+        }
+      ],
+      "chiffrenummer": "888818/1",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-07",
+      "aenderungsdatum": "2026-11-16T16:37:14.756",
+      "hauptberuf": "Data Scientist",
+      "firma": "Hays Professional Solutions GmbH",
+      "arbeitgeberKundennummerHash": "woSoz4U6kKdp8j3D_9CjfXWtvL4W7INA_WjHP-M8nus=",
+      "referenznummer": "13319-888818/1_625325LS-S",
+      "entfernung": 17,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Cost and Value Engineer (w/m/d) for Value Management in Product and Software Business",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80538",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1453345,
+          "laenge": 11.5925182
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "517328-en",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-07",
+      "aenderungsdatum": "2026-10-27T17:17:48.638",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Siemens AG",
+      "arbeitgeberKundennummerHash": "kMMXym6Me35oUXiBe4YhZNnhsbt6t_xzJPx6op9mbzw=",
+      "referenznummer": "12465-1629150-1-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer Process Automation / BPMN (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Carl-Jordan-Straße",
+            "hausnummer": "18a",
+            "plz": "83059",
+            "ort": "Kolbermoor",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 47.843568,
+          "laenge": 12.0637485
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-11-04T11:50:32.370",
+      "hauptberuf": "Software-Architect",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "alternativBeruf2": "Fachinformatiker/in - Systemintegration",
+      "firma": "Bayerische Funknetz GmbH",
+      "arbeitgeberKundennummerHash": "ciEloEejAnSwcivL8NPxtph16XXV1hXReFLj7LHujJ0=",
+      "referenznummer": "10001-1003926372-S",
+      "entfernung": 50,
+      "alleBerufe": [
+        "Software-Architect",
+        "Softwareentwickler/in",
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Principal Software Engineer (f/m/d) - Lab Automation",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82377",
+            "ort": "Penzberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 47.7613414,
+          "laenge": 11.3813761
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "202610-125781",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-03",
+      "aenderungsdatum": "2026-11-03T15:40:33.796",
+      "hauptberuf": "IT-Manager/in",
+      "firma": "Roche Diagnostics GmbH",
+      "arbeitgeberKundennummerHash": "GuPDF3v0PT67zXaltAnStTTS_hTpxbOmfhdDhnkLF1Y=",
+      "referenznummer": "13106-489716296-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "IT-Manager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Embedded Software Engineer (m/w/d) – C/C++, Embedded Linux",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Dieselstr.",
+            "hausnummer": "20",
+            "plz": "86556",
+            "ort": "Kühbach, Schwaben",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.494088,
+          "laenge": 11.1753
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-28",
+      "aenderungsdatum": "2026-11-11T10:20:13.095",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Embedded-Systems-Entwickler/in",
+      "firma": "AGRACOM GmbH",
+      "arbeitgeberKundennummerHash": "95CTHOT9t13a7reNqhso3sGBvttEdyOdpWI7d6ou1A4=",
+      "referenznummer": "10000-1207666625-S",
+      "entfernung": 48,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Embedded-Systems-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist, Chrome",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-07-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80636",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1508084,
+          "laenge": 11.5441417
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-16",
+      "aenderungsdatum": "2026-07-06T11:47:32.142",
+      "hauptberuf": "Data Engineer",
+      "firma": "Google Germany GmbH",
+      "arbeitgeberKundennummerHash": "Q8hQNnX5V5SGwfRvOnwp43xJ3yTjmR1GRE2y6W3EODk=",
+      "referenznummer": "17486-90398972757058246-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Produkt Owner (m|f|d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "FESTGEHALT",
+      "festgehalt": 0.01,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Am Münchner Tor",
+            "hausnummer": "1",
+            "plz": "80805",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.176244,
+          "laenge": 11.589093
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 40,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-04T17:38:44.849",
+      "hauptberuf": "Product Owner",
+      "alternativBeruf1": "Data Engineer",
+      "firma": "MEAG MUNICH ERGO AssetManagement GmbH",
+      "arbeitgeberKundennummerHash": "UbXefe4YgiFZVHTS8415PX9RNkUafnz2VtAfdgX9olE=",
+      "referenznummer": "10001-1003945941-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data Engineer",
+        "Product Owner"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Datenmanager (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Uhlandstr.",
+            "hausnummer": "7",
+            "plz": "80336",
+            "ort": "München",
+            "ortsteil": "Ludwigsvorstadt-Isarvorstadt",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1338,
+          "laenge": 11.554164
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-26",
+      "aenderungsdatum": "2026-11-10T13:27:23.290",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Data-Analyst/in",
+      "alternativBeruf2": "Data Engineer",
+      "firma": "Kraftfahrer-Schutz e.V.",
+      "arbeitgeberKundennummerHash": "RLe62nT7cWxJs97tHK65SyVGAUB91ecJrINLuOUHxfk=",
+      "referenznummer": "10001-1003602665-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer",
+        "Data Scientist",
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior KI Consultant (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Marsplatz 4",
+            "plz": "80335",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.146634,
+          "laenge": 11.548377
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-17",
+      "aenderungsdatum": "2026-11-12T11:05:55.623",
+      "hauptberuf": "KI-Manager/in",
+      "alternativBeruf1": "IT-Berater/in",
+      "alternativBeruf2": "KI-Engineer",
+      "firma": "Deutsche Telekom MMS GmbH",
+      "arbeitgeberKundennummerHash": "NAbvHfKtsbsMRNMocT-MSRtaRqU_LkHqj6BtqDpwBz4=",
+      "referenznummer": "20478-2204033-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "KI-Engineer",
+        "KI-Manager/in",
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Senior Consultant (m/w/x) - Crypto Center of Excellence (CryptoCoE) / PKI",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-15T07:49:58.514",
+      "hauptberuf": "IT-Compliance-Consultant",
+      "alternativBeruf1": "Leiter/in - Informations-/Cybersicherheit",
+      "alternativBeruf2": "Cyber-Security-Consultant",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-2819231794178801-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "IT-Compliance-Consultant",
+        "Leiter/in - Informations-/Cybersicherheit",
+        "Cyber-Security-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: (Managing) Lead Technical Consultant (w/m/x) Cybersecurity Defense",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-15T07:50:13.014",
+      "hauptberuf": "Leiter/in - Informations-/Cybersicherheit",
+      "alternativBeruf1": "Bachelor Professional - IT (Informationssicherheit)",
+      "alternativBeruf2": "Cyber-Security-Consultant",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-3082281793833201-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Leiter/in - Informations-/Cybersicherheit",
+        "Bachelor Professional - IT (Informationssicherheit)",
+        "Cyber-Security-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Senior Digital Forensics and Incident Response Consultant (w/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 100,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-16T07:47:54.142",
+      "hauptberuf": "IT-Forensiker/in",
+      "alternativBeruf1": "Cyber-Security-Consultant",
+      "alternativBeruf2": "Leiter/in - Informations-/Cybersicherheit",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-2796261793919601-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "IT-Forensiker/in",
+        "Cyber-Security-Consultant",
+        "Leiter/in - Informations-/Cybersicherheit"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "NTT DATA Deutschland SE: Consultant DevSecOps/Application Security (w/m/x)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-06"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-06",
+      "aenderungsdatum": "2026-11-16T07:47:52.088",
+      "hauptberuf": "DevOps Engineer",
+      "alternativBeruf1": "Cyber-Security-Consultant",
+      "alternativBeruf2": "IT-Compliance-Consultant",
+      "firma": "NTT DATA Deutschland SE",
+      "arbeitgeberKundennummerHash": "Fmzbu287DGPag4m7l5qpUPWlreoCn-TaOg46UzV7K8g=",
+      "referenznummer": "19913-2809811793919601-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "DevOps Engineer",
+        "Cyber-Security-Consultant",
+        "IT-Compliance-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Cloud Software Engineer mit KI-Fokus (m/w/d)",
+      "weitereBerufe": [
+        "Cloud Software Engineer mit KI-Fokus"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Landsberger Str.",
+            "hausnummer": "98",
+            "plz": "80339",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.140082,
+          "laenge": 11.5373385
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-02",
+      "aenderungsdatum": "2026-10-22T11:16:42.957",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Software-Architect",
+      "alternativBeruf2": "Leiter/in - Softwareentwicklung",
+      "firma": "TekkMinds AG",
+      "arbeitgeberKundennummerHash": "wldYkOhLEKTQIeTTbvzCkyhOTQ52Hj5U15P3hvB5UEM=",
+      "referenznummer": "10001-1003640332-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Cloud Software Engineer mit KI-Fokus",
+        "Softwareentwickler/in",
+        "Software-Architect",
+        "Leiter/in - Softwareentwicklung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Staff Engineer Field Application Engineering (f/m/div)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-03"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85579",
+            "ort": "Neubiberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.0771993,
+          "laenge": 11.6522801
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "HRC1767273",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-09",
+      "aenderungsdatum": "2026-11-02T16:01:37.838",
+      "hauptberuf": "Application-Engineer/-Manager/in",
+      "firma": "Infineon Technologies AG",
+      "arbeitgeberKundennummerHash": "fpqITwiZKDv57gJeOS4Qa4opvmzW7ZxEqMtNnWjRfDQ=",
+      "referenznummer": "12874-1641648-1-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Application-Engineer/-Manager/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Entwickler KI-Plattformen, Daten und Automatisierung (m/w/d) in Chemnitz oder München",
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Christoph-Rapparini-Bogen",
+            "hausnummer": "27",
+            "plz": "80639",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.146004,
+          "laenge": 11.504124
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-10-14T13:03:34.735",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Techniker/in - Informatik (KI und Robotik)/Bachelor Professional in Technik",
+      "alternativBeruf2": "Techniker/in - Künstliche Intelligenz/Bachelor Professional in Technik",
+      "firma": "ECOVIS Bayla Union GmbH",
+      "arbeitgeberKundennummerHash": "0FMXBIyR3dGNGIO0YdPFvhgUJibw4IBAjXvzI36vNoA=",
+      "referenznummer": "10001-1003855789-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Techniker/in - Informatik (KI und Robotik)/Bachelor Professional in Technik",
+        "Techniker/in - Künstliche Intelligenz/Bachelor Professional in Technik"
+      ]
+    }
+  ]
+}

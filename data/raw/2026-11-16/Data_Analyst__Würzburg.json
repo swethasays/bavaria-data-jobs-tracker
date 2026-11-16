@@ -1,0 +1,147 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Analyst",
+  "city": "Würzburg",
+  "radius_km": 50,
+  "count": 3,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Analysten / Data Analystinnen (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97421",
+            "ort": "Schweinfurt",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.0469114,
+          "laenge": 10.2218516
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-04T11:14:16.789",
+      "externeURL": "https://www.stellenanzeigen.de/job/detail/SDE-131802/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Data Scientist",
+      "alternativBeruf2": "Data-Analyst/in",
+      "firma": "Bayerisches Landesamt für Statistik",
+      "referenznummer": "11858-SDE-131802-STA-S",
+      "entfernung": 36,
+      "alleBerufe": [
+        "Data-Analyst/in",
+        "Data Scientist",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior SAP Data & Document Archiving Consultant (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97074",
+            "ort": "Würzburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.7822835,
+          "laenge": 9.9610939
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2710039",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T10:00:42.167",
+      "externeURL": "https://www.jobexport.de/job/5294325.html?exp=81&cid=0d9c3188-5c53-408d-b23e-812d5a5e56eb",
+      "hauptberuf": "Data-Consultant",
+      "alternativBeruf1": "Data-Analyst/in",
+      "firma": "Fink IT-Solutions GmbH & Co. KG",
+      "referenznummer": "13635-0d9c3188_JB5294325-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data-Analyst/in",
+        "Data-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Produktionsanalyst (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "97877",
+            "ort": "Wertheim am Main",
+            "region": "BADEN_WUERTTEMBERG",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.7456163,
+          "laenge": 9.5233535
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "R_00107871",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-11-02T08:38:57.679",
+      "hauptberuf": "Data-Analyst/in",
+      "firma": "Freudenberg & Co. KG",
+      "arbeitgeberKundennummerHash": "qY5FBwJkBP5ZOqC8p-ap9lJnwMpDU8P1rSzQ9fWGHmQ=",
+      "referenznummer": "13892-3149648_4094467-S",
+      "entfernung": 31,
+      "alleBerufe": [
+        "Data-Analyst/in"
+      ]
+    }
+  ]
+}

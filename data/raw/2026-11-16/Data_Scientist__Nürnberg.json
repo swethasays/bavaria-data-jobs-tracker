@@ -1,0 +1,524 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Scientist",
+  "city": "Nürnberg",
+  "radius_km": 50,
+  "count": 12,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist People Analytics (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-08-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.450846603,
+          "laenge": 11.089621301
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-20",
+      "aenderungsdatum": "2026-08-20T12:32:21.403",
+      "hauptberuf": "Data Scientist",
+      "firma": "LZ Informatik",
+      "arbeitgeberKundennummerHash": "Y2sqCMC2iw5p6lCs9lxoZxVJYqy8iR0q4jTGHZbYSE8=",
+      "referenznummer": "12601-12053-1791416-0-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist / Data Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Rettistraße 5",
+            "plz": "91522",
+            "ort": "Ansbach, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.313529,
+          "laenge": 10.570662
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-05-07",
+      "aenderungsdatum": "2026-11-04T07:45:42.358",
+      "hauptberuf": "Data Scientist",
+      "firma": "FEGA & Schmitt Elektrogroßhandel GmbH",
+      "arbeitgeberKundennummerHash": "B4MpSfpQTZRVP4OGrazT2GLFniPkEDAK54B2yadaYOE=",
+      "referenznummer": "16258-0064612468-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Scientist (m/w/d) – Fokus Business Analytics",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2836358",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T14:04:56.637",
+      "externeURL": "https://www.jobexport.de/job/5285329.html?exp=81&cid=80530ff2-23f5-4a17-b0a4-8096055de75f",
+      "hauptberuf": "Data Scientist",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-80530ff2_JB5285329-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": " Data Scientist (m/w/d) People Analytics",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90431",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.447343052,
+          "laenge": 11.023885804
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-11T12:05:39.325",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Informatiker/in (Weiterbildung)",
+      "firma": "berg-it projektdienstleistungen GmbH",
+      "arbeitgeberKundennummerHash": "9xC1VhFKp_Fadgjha9gke52I0sNg7RzoMAykxoUbtQY=",
+      "referenznummer": "13372-13922252-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "Data Engineer",
+        "Informatiker/in",
+        "Informatiker/in (Weiterbildung)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist für People Analytics (m/w/d) Ref:.Nr. S0260706",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 18,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.434845143,
+          "laenge": 11.100904183
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "S0260706",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-21",
+      "aenderungsdatum": "2026-11-13T08:21:32.744",
+      "hauptberuf": "Data-Analyst/in",
+      "alternativBeruf1": "Data Scientist",
+      "firma": "set - software engineering gmbh",
+      "arbeitgeberKundennummerHash": "Df--YqNbpaRp893aja-YqPufqoMzyELt_A_s4Vq6Z-Q=",
+      "referenznummer": "10001-1003416191-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Scientist",
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Migration Lead (f/m/d) - SAP",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90461",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4315288,
+          "laenge": 11.0903177
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "306176",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-11T13:03:35.345",
+      "hauptberuf": "Data Scientist",
+      "firma": "Siemens Energy Global GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "HmhVIE5IrRBnk8cbtySzmaFEZpUH0t-x_DBDeMHrPi8=",
+      "referenznummer": "15170-495644344-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Professional Data-Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90429",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4562524,
+          "laenge": 11.0441458
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "1335032",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-11-16T08:04:04.541",
+      "externeURL": "https://www.jobexport.de/job/5278182.html?exp=81&cid=0822a73c-286e-46fd-92c3-6ce83aa5d7b5",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Informatiker/in",
+      "firma": "adorsys GmbH & Co. KG",
+      "referenznummer": "13635-0822a73c_JB5278182-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Strategy & Data Governance Consultant (w|m|d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 79000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90461",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.431528768,
+          "laenge": 11.09031768
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2025-03-28",
+      "aenderungsdatum": "2026-10-29T07:18:53.672",
+      "hauptberuf": "Data Scientist",
+      "firma": "BridgingIT GmbH",
+      "arbeitgeberKundennummerHash": "d3x5CdaZpg2SeEhql2l4PQOmbh-JMmg1t9lZqcoACOo=",
+      "referenznummer": "15835-0009030024f002-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Lead Consultant Data & AI Solutions (w|m|d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90461",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4315288,
+          "laenge": 11.0903177
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2022-12-28"
+      },
+      "datumErsteVeroeffentlichung": "2022-12-28",
+      "aenderungsdatum": "2026-10-29T07:18:53.862",
+      "hauptberuf": "Data Scientist",
+      "firma": "BridgingIT GmbH",
+      "arbeitgeberKundennummerHash": "d3x5CdaZpg2SeEhql2l4PQOmbh-JMmg1t9lZqcoACOo=",
+      "referenznummer": "15835-00090300256002-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Scientist (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "67142",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T10:57:13.885",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-00002110742002-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Postdoctoral Researcher – LLMs for Research Data Management in Physics (Physics-LLM)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-05"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.560917,
+          "laenge": 11.0076477
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-05T07:02:41.128",
+      "externeURL": "https://gute-jobs.de/viewjob-xczvt?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=postdoctoral-researcher-llms-for-research-data-management-in-physics-physics-llm",
+      "hauptberuf": "Data Scientist",
+      "firma": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "referenznummer": "12336-a26f1105j0457307-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer (m/w/d)",
+      "weitereBerufe": [
+        "KI Consultant"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Im Pinderpark",
+            "hausnummer": "5",
+            "plz": "90513",
+            "ort": "Zirndorf, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.439259,
+          "laenge": 10.948671
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-28",
+      "aenderungsdatum": "2026-11-13T08:31:17.976",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Data Scientist",
+      "alternativBeruf2": "Machine Learning Engineer",
+      "firma": "PureSolution GmbH EDV Dienstleistung und Software",
+      "arbeitgeberKundennummerHash": "S90V2KmeSpOAp7oQtDMFozYA79qi7bRXIrpdHhq8lQE=",
+      "referenznummer": "10001-1003455354-S",
+      "entfernung": 12,
+      "alleBerufe": [
+        "Data Scientist",
+        "KI-Engineer",
+        "Machine Learning Engineer",
+        "KI Consultant"
+      ]
+    }
+  ]
+}

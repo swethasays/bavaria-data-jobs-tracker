@@ -1,0 +1,365 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Engineer",
+  "city": "Regensburg",
+  "radius_km": 50,
+  "count": 8,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Principal Data Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "84051",
+            "ort": "Essenbach, Niederbayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.6213179,
+          "laenge": 12.2195633
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "1632703",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-26",
+      "aenderungsdatum": "2026-10-26T17:13:44.057",
+      "externeURL": "https://www.jobexport.de/job/5283017.html?exp=81&cid=fa2f5bda-b0d9-4dfc-8950-3f22cb89a30e",
+      "hauptberuf": "Data Engineer",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-fa2f5bda_JB5283017-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "84051",
+            "ort": "Essenbach, Niederbayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.6213179,
+          "laenge": 12.2195633
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "249711",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-26",
+      "aenderungsdatum": "2026-10-26T14:14:14.657",
+      "externeURL": "https://www.jobexport.de/job/5282732.html?exp=81&cid=b9645f9d-fff3-4fb8-bb53-4f1d0934f98c",
+      "hauptberuf": "Data Engineer",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-b9645f9d_JB5282732-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT Solution Engineer - Data Center Networking (m/w/d),Nürnberg,Regensburg,Hauzenberg",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Im Gewerbepark D 75",
+            "plz": "93059",
+            "ort": "Regensburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.031991,
+          "laenge": 12.129075
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-05",
+      "aenderungsdatum": "2026-11-05T12:32:14.515",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/It-Solution-Engineer-Data-Center-Networking-D-1322684?cp=BA",
+      "hauptberuf": "IT-Lösungsentwickler/in",
+      "alternativBeruf1": "Data Engineer",
+      "alternativBeruf2": "Data-Consultant",
+      "firma": "ACP IT Solutions AG (Hauzenberg/Regensburg/Nürnberg)",
+      "referenznummer": "12811-2350623-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer",
+        "Data-Consultant",
+        "IT-Lösungsentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT Solution Engineer - Data Center Networking (m/w/d) - Gestalte mit uns IT-Landschaften",
+      "weitereBerufe": [
+        "IT Solution Engineer - Data Center Networking (m/w/d)"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Im Gewerbepark",
+            "hausnummer": "D 75",
+            "plz": "93059",
+            "ort": "Regensburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.031991,
+          "laenge": 12.129075
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-07"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-07",
+      "aenderungsdatum": "2026-10-09T09:37:35.050",
+      "hauptberuf": "IT-Administrator/in",
+      "alternativBeruf1": "IT-Kundenbetreuer/in",
+      "alternativBeruf2": "IT-Berater/in",
+      "firma": "ACP IT Solutions AG",
+      "arbeitgeberKundennummerHash": "fVDBz-jeqJ6IFLaQT4NBXZgEyulQyTvvJHVI8a7YQAE=",
+      "referenznummer": "10001-1003816594-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "IT Solution Engineer - Data Center Networking (m/w/d)",
+        "IT-Administrator/in",
+        "IT-Kundenbetreuer/in",
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Database Administrator (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Josef-Mühlbauer-Platz 1",
+            "plz": "93426",
+            "ort": "Roding, Regen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.216689,
+          "laenge": 12.502395
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-03"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-28",
+      "aenderungsdatum": "2026-11-09T08:37:30.031",
+      "hauptberuf": "Data Engineer",
+      "firma": "Mühlbauer Group",
+      "arbeitgeberKundennummerHash": "x1xyRabeb3es29RpXn0re_UjAK9ixeJFYRzsr8ILtw8=",
+      "referenznummer": "17960-0061150117-S",
+      "entfernung": 36,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Lead Principal Engineer Device Development RF-GaN (w/m/div)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-03-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "93049",
+            "ort": "Regensburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.0173183,
+          "laenge": 12.0607433
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "HRC1756735",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-18",
+      "aenderungsdatum": "2026-11-09T16:01:51.794",
+      "hauptberuf": "Ingenieur/in - Mikroelektronik",
+      "firma": "Infineon Technologies AG",
+      "arbeitgeberKundennummerHash": "X6Sb94BmLvtJEp_8p6XoEX_WqHnL7jtdOJ1TYFcHzFk=",
+      "referenznummer": "12874-1634380-1-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Ingenieur/in - Mikroelektronik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Security Specialist (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-25"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "93049",
+            "ort": "Regensburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.017318331,
+          "laenge": 12.060743281
+        }
+      ],
+      "chiffrenummer": "89541",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-25"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-25",
+      "aenderungsdatum": "2026-10-24T07:01:19.134",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Uniper SE",
+      "arbeitgeberKundennummerHash": "3CffSQMdUZRGZl6ZJ3gbPH2EYfBRXq9CYnTnKAnOjWA=",
+      "referenznummer": "13064-44528927-1024-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Informatiker / KI-Entwickler (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Kleemannstr.",
+            "hausnummer": "14",
+            "plz": "93413",
+            "ort": "Cham, Oberpfalz",
+            "ortsteil": "Cham",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.223331,
+          "laenge": 12.6664515
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-12",
+      "aenderungsdatum": "2026-10-11T17:29:34.594",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "KI-Engineer",
+      "firma": "Consultor Unternehmens- beratungsgesellschaft mbH",
+      "arbeitgeberKundennummerHash": "QfE3q59z5i-4VWgOUUUBCCb4SqVJQvdnbdX8GCpJT1s=",
+      "referenznummer": "10001-1003218078-S",
+      "entfernung": 47,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Informatiker/in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1662 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Scientist",
+  "city": "München",
+  "radius_km": 50,
+  "count": 37,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2025-09-24"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1524256,
+          "laenge": 11.5489197
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2025-09-24"
+      },
+      "datumErsteVeroeffentlichung": "2021-08-27",
+      "aenderungsdatum": "2025-09-24T14:20:25.310",
+      "hauptberuf": "Data Scientist",
+      "firma": "Lantenhammer Consulting Silvia Lantenhammer",
+      "arbeitgeberKundennummerHash": "UnHZL9dTc4K1OkcAoXIa-9ufSpeCodNoCYwIKZNmYAI=",
+      "referenznummer": "10000-1185445644-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist (w/m/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Westendstr.",
+            "hausnummer": "199",
+            "plz": "80686",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.132891,
+          "laenge": 11.5210575
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "7641",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-21",
+      "aenderungsdatum": "2026-10-27T09:11:47.586",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Statistiker/in",
+      "firma": "TÜV SÜD AG",
+      "arbeitgeberKundennummerHash": "tEzj6nQqNr_Z-6qnqvrOYHx0bKaz-2PWUSdz-5nyTMw=",
+      "referenznummer": "10001-1003739384-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Statistiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Scientist (w/m/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Westendstr.",
+            "hausnummer": "199",
+            "plz": "80686",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.132891,
+          "laenge": 11.5210575
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "7819",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-28",
+      "aenderungsdatum": "2026-09-30T16:38:48.371",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Statistiker/in",
+      "firma": "TÜV SÜD AG",
+      "arbeitgeberKundennummerHash": "tEzj6nQqNr_Z-6qnqvrOYHx0bKaz-2PWUSdz-5nyTMw=",
+      "referenznummer": "10001-1003776316-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Statistiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist, Chrome",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-07-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80636",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1508084,
+          "laenge": 11.5441417
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-16",
+      "aenderungsdatum": "2026-07-06T11:47:32.142",
+      "hauptberuf": "Data Engineer",
+      "firma": "Google Germany GmbH",
+      "arbeitgeberKundennummerHash": "Q8hQNnX5V5SGwfRvOnwp43xJ3yTjmR1GRE2y6W3EODk=",
+      "referenznummer": "17486-90398972757058246-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Scientist (m/w/d) – Fokus Business Analytics",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80637",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1607027,
+          "laenge": 11.5380108
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2836358",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T14:04:56.637",
+      "externeURL": "https://www.jobexport.de/job/5285329.html?exp=81&cid=80530ff2-23f5-4a17-b0a4-8096055de75f",
+      "hauptberuf": "Data Scientist",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-80530ff2_JB5285329-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Trappentreustraße 1-3",
+            "plz": "80339",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.139692139,
+          "laenge": 11.53500835
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-22",
+      "aenderungsdatum": "2026-11-16T07:48:04.891",
+      "hauptberuf": "Data Scientist",
+      "firma": "CHECK24 Services Personal GmbH",
+      "arbeitgeberKundennummerHash": "ATlvyTemXbegu9lQNQ29igPMUF9O2QuFjimoEWazx40=",
+      "referenznummer": "20208-50e689aec5ea4bd2a6d-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Modelling Scientist (f/m/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fraunhoferstr.",
+            "hausnummer": "18b",
+            "plz": "82152",
+            "ort": "Planegg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.111084,
+          "laenge": 11.4497055
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-11-13T08:41:49.402",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Biomathematiker/in",
+      "alternativBeruf2": "Pharmazeut/in",
+      "firma": "Coriolis Pharma Research GmbH",
+      "arbeitgeberKundennummerHash": "SEvobAznPYalbV9nmJKVtjfvUHsdsRGAc0FpqwIxeBI=",
+      "referenznummer": "10001-1003870214-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Data Scientist",
+        "Biomathematiker/in",
+        "Pharmazeut/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data / AI Consultant - Hybrid",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 90000.0,
+      "gehaltsspanneBis": 120000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "TBD",
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "17338-1eeaedde07ff5474-S",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-04T10:31:26.462",
+      "externeURL": "https://germantechjobs.de/jobs/Rockstar-Recruiting-AG-Senior-Data--AI-Consultant?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "hauptberuf": "Data Scientist",
+      "firma": "Rockstar Recruiting AG",
+      "referenznummer": "17338-3b1eeaedde07ff5474-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) AI & Data Science Engineer (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "81541",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1211839,
+          "laenge": 11.587321
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2882843",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T09:56:27.232",
+      "externeURL": "https://www.jobexport.de/job/5295634.html?exp=81&cid=57d5b4b4-73e7-443f-b2dc-7cc5b20e202b",
+      "hauptberuf": "Data Scientist",
+      "firma": "EnOcean",
+      "referenznummer": "13635-57d5b4b4_JB5295634-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Architect Strategy & Management (w/m/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Westendstr.",
+            "hausnummer": "199",
+            "plz": "80686",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.132891,
+          "laenge": 11.5210575
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "8249",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-11-13T08:44:57.207",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "TÜV SÜD AG",
+      "arbeitgeberKundennummerHash": "tEzj6nQqNr_Z-6qnqvrOYHx0bKaz-2PWUSdz-5nyTMw=",
+      "referenznummer": "10001-1003930080-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Clinical Data Curator m/w/d - Roche Penzberg",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-10"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 40000.0,
+      "gehaltsspanneBis": 70000.0,
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 18,
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "82377",
+            "ort": "Penzberg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 47.761341415,
+          "laenge": 11.381376145
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T11:50:49.019",
+      "hauptberuf": "Data Scientist",
+      "firma": "Franz & Wach Personalservice GmbH",
+      "arbeitgeberKundennummerHash": "f8LwVntPdi8hrUOh2z1f1qEKT4MUb-LB3nDRKvnpSSI=",
+      "referenznummer": "11864-6WQF9MC56HGN8ITN-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data & AI Consultant (m/w/d) – Automotive",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80637",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1607027,
+          "laenge": 11.5380108
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2879134",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T09:03:08.971",
+      "externeURL": "https://www.jobexport.de/job/5293078.html?exp=81&cid=31e8a64c-3dd9-4f6b-bfab-c6bb0dd77bff",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Data Scientist",
+      "alternativBeruf2": "Mathematiker/in",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-31e8a64c_JB5293078-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Mathematiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Strategy & Data Governance Consultant (w|m|d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 79000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80992",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.174766053,
+          "laenge": 11.51716709
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2025-03-28",
+      "aenderungsdatum": "2026-10-29T07:18:53.672",
+      "hauptberuf": "Data Scientist",
+      "firma": "BridgingIT GmbH",
+      "arbeitgeberKundennummerHash": "d3x5CdaZpg2SeEhql2l4PQOmbh-JMmg1t9lZqcoACOo=",
+      "referenznummer": "15835-0009030024f002-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Engineer - Analytics and Data Products (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85586",
+            "ort": "Poing bei München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.170092301,
+          "laenge": 11.803029073
+        }
+      ],
+      "chiffrenummer": "888818/1",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-07",
+      "aenderungsdatum": "2026-11-16T16:37:14.756",
+      "hauptberuf": "Data Scientist",
+      "firma": "Hays Professional Solutions GmbH",
+      "arbeitgeberKundennummerHash": "woSoz4U6kKdp8j3D_9CjfXWtvL4W7INA_WjHP-M8nus=",
+      "referenznummer": "13319-888818/1_625325LS-S",
+      "entfernung": 17,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Lead Consultant Data & AI Solutions (w|m|d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80992",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1747661,
+          "laenge": 11.5171671
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2022-12-28"
+      },
+      "datumErsteVeroeffentlichung": "2022-12-28",
+      "aenderungsdatum": "2026-10-29T07:18:53.862",
+      "hauptberuf": "Data Scientist",
+      "firma": "BridgingIT GmbH",
+      "arbeitgeberKundennummerHash": "d3x5CdaZpg2SeEhql2l4PQOmbh-JMmg1t9lZqcoACOo=",
+      "referenznummer": "15835-00090300256002-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI Scientist (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "67142",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T10:57:13.885",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-00002110742002-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer (w|m|d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80992",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1747661,
+          "laenge": 11.5171671
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2023-03-30"
+      },
+      "datumErsteVeroeffentlichung": "2023-03-30",
+      "aenderungsdatum": "2026-11-02T08:35:04.381",
+      "hauptberuf": "Data Scientist",
+      "firma": "BridgingIT GmbH",
+      "arbeitgeberKundennummerHash": "d3x5CdaZpg2SeEhql2l4PQOmbh-JMmg1t9lZqcoACOo=",
+      "referenznummer": "15835-000903004c9001-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Expert Database Management (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "85774",
+            "ort": "Unterföhring",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1892138,
+          "laenge": 11.6548397
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "276918",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-30",
+      "aenderungsdatum": "2026-10-21T11:24:24.924",
+      "hauptberuf": "Data Scientist",
+      "firma": "Vodafone GmbH",
+      "arbeitgeberKundennummerHash": "pPZlw8EZ65ppyiZl59cg2n3kg_MWuoy7ZxZwy2eAqT0=",
+      "referenznummer": "17102-44473185-929-S",
+      "entfernung": 8,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Datenmanager (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Uhlandstr.",
+            "hausnummer": "7",
+            "plz": "80336",
+            "ort": "München",
+            "ortsteil": "Ludwigsvorstadt-Isarvorstadt",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1338,
+          "laenge": 11.554164
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-26",
+      "aenderungsdatum": "2026-11-10T13:27:23.290",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Data-Analyst/in",
+      "alternativBeruf2": "Data Engineer",
+      "firma": "Kraftfahrer-Schutz e.V.",
+      "arbeitgeberKundennummerHash": "RLe62nT7cWxJs97tHK65SyVGAUB91ecJrINLuOUHxfk=",
+      "referenznummer": "10001-1003602665-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist",
+        "Data Engineer",
+        "Data-Analyst/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior AI & ML Engineer / Architect (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80686",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1326487,
+          "laenge": 11.5106546
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2880823",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T08:02:51.308",
+      "externeURL": "https://www.jobexport.de/job/5298553.html?exp=81&cid=3d458d85-9e09-4add-9411-d525e085f573",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Data Scientist",
+      "firma": "Steadforce",
+      "referenznummer": "13635-3d458d85_JB5298553-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "F&E Scientist Oxidationskatalyse (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 60000.0,
+      "gehaltsspanneBis": 90000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "83052",
+            "ort": "Bruckmühl, Mangfall",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 47.890336963,
+          "laenge": 11.932990888
+        }
+      ],
+      "chiffrenummer": "VA36-75723-RH",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T07:41:01.177",
+      "hauptberuf": "Ingenieur/in - Chemietechnik",
+      "firma": "FERCHAU GmbH Niederlassung Rosenheim",
+      "arbeitgeberKundennummerHash": "zfq5KJr-wHxluxN17M6AXNFAgB-djaTuJWrtFozj5ho=",
+      "referenznummer": "12265-517684_JB5295017-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Ingenieur/in - Chemietechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Solutions Engineer (AI/NLP – Enterprise Software) Munich, Germany",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80992",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1747661,
+          "laenge": 11.5171671
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2608233",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T09:56:27.893",
+      "externeURL": "https://www.jobexport.de/job/5295640.html?exp=81&cid=4fc8b945-9a2f-411e-afba-49656657132f",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Data Engineer",
+      "firma": "drimco",
+      "referenznummer": "13635-4fc8b945_JB5295640-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Scientist",
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Aktuar/in Risiko Manager - KI (m/w/d)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1524256,
+          "laenge": 11.5489197
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T11:53:41.861",
+      "hauptberuf": "Aktuar/in",
+      "alternativBeruf1": "Wirtschaftsmathematiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "Lantenhammer Consulting Silvia Lantenhammer",
+      "arbeitgeberKundennummerHash": "UnHZL9dTc4K1OkcAoXIa-9ufSpeCodNoCYwIKZNmYAI=",
+      "referenznummer": "10001-1003939997-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist",
+        "Aktuar/in",
+        "Wirtschaftsmathematiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Aktuar/in Risiko Manager - KI (m/w/d)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1524256,
+          "laenge": 11.5489197
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T11:49:39.993",
+      "hauptberuf": "Aktuar/in",
+      "alternativBeruf1": "Wirtschaftsmathematiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "Lantenhammer Consulting Silvia Lantenhammer",
+      "arbeitgeberKundennummerHash": "UnHZL9dTc4K1OkcAoXIa-9ufSpeCodNoCYwIKZNmYAI=",
+      "referenznummer": "10001-1003939926-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Scientist",
+        "Aktuar/in",
+        "Wirtschaftsmathematiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Field Application Scientist – qPCR (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-03"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80333",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1453175,
+          "laenge": 11.5687857
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "R-01371837",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-11-03T14:45:14.055",
+      "hauptberuf": "Wissenschaftliche/r Mitarbeiter/in",
+      "firma": "Thermo Fisher Scientific GmbH",
+      "arbeitgeberKundennummerHash": "R5WHrOr3gcXcHXaIWUPYa-ucxJXTfAzgB_MOqLIU8s4=",
+      "referenznummer": "15120-1648707-1-S",
+      "entfernung": 0,
+      "alleBerufe": [
+        "Wissenschaftliche/r Mitarbeiter/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Financial Services - Consulting Lead (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80331",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1355827,
+          "laenge": 11.5739758
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2595667",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T13:54:28.672",
+      "externeURL": "https://www.jobexport.de/job/5284594.html?exp=81&cid=86906d53-1458-45e2-bbca-5a42d5f98ad1",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Data Scientist",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-86906d53_JB5284594-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Scientist",
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Aktuar/in Risiko Manager - KI (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2025-09-24"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Titurelstr.",
+            "hausnummer": "6",
+            "plz": "81925",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.159513,
+          "laenge": 11.6189623
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2025-09-24"
+      },
+      "datumErsteVeroeffentlichung": "2024-03-05",
+      "aenderungsdatum": "2025-09-24T14:11:58.754",
+      "hauptberuf": "Aktuar/in",
+      "alternativBeruf1": "Wirtschaftsmathematiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "Lantenhammer Consulting Silvia Lantenhammer",
+      "arbeitgeberKundennummerHash": "UnHZL9dTc4K1OkcAoXIa-9ufSpeCodNoCYwIKZNmYAI=",
+      "referenznummer": "10000-1198211709-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data Scientist",
+        "Aktuar/in",
+        "Wirtschaftsmathematiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Principal Scientist (w/m/d) - In Silico Research & Modeling",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 90000.0,
+      "gehaltsspanneBis": 110000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fraunhoferstr.",
+            "hausnummer": "18b",
+            "plz": "82152",
+            "ort": "Planegg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.111084,
+          "laenge": 11.4497055
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-10-22T14:00:01.063",
+      "hauptberuf": "Ingenieur/in - Biotechnologie",
+      "alternativBeruf1": "Biophysiker/in",
+      "alternativBeruf2": "Pharmazeut/in",
+      "firma": "Coriolis Pharma Research GmbH",
+      "arbeitgeberKundennummerHash": "SEvobAznPYalbV9nmJKVtjfvUHsdsRGAc0FpqwIxeBI=",
+      "referenznummer": "10001-1003871298-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Ingenieur/in - Biotechnologie",
+        "Biophysiker/in",
+        "Pharmazeut/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Process & Agent Solutions Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "80807",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.1840863,
+          "laenge": 11.5858847
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2713221",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T13:54:26.908",
+      "externeURL": "https://www.jobexport.de/job/5284569.html?exp=81&cid=483c8134-b07f-4b94-b4d2-db1c60630632",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Data Scientist",
+      "alternativBeruf2": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "C-P-S Group",
+      "referenznummer": "13635-483c8134_JB5284569-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Bioinformatician / Computational Scientist (m/f/d) – Cancer Neuroscience",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-23"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 36,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Ismaninger Str.",
+            "hausnummer": "22",
+            "plz": "81675",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.137004,
+          "laenge": 11.5988355
+        }
+      ],
+      "chiffrenummer": "26_10_019",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-23T08:52:50.431",
+      "hauptberuf": "Bioinformatiker/in",
+      "firma": "Klinikum der Technischen Universität München (TUM Klinikum) AöR",
+      "arbeitgeberKundennummerHash": "tTuKeMcQP9G301kiFqP-43ulbscap9HhsZsZ3Q0SPG0=",
+      "referenznummer": "10001-1003892294-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Bioinformatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Scientist (f/m/d) - Capillary Electrophoresis",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 90000.0,
+      "gehaltsspanneBis": 110000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fraunhoferstr.",
+            "hausnummer": "18b",
+            "plz": "82152",
+            "ort": "Planegg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.111084,
+          "laenge": 11.4497055
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-10-22T13:44:44.680",
+      "hauptberuf": "Chemiker/in",
+      "alternativBeruf1": "Pharmazeut/in",
+      "alternativBeruf2": "Biochemiker/in",
+      "firma": "Coriolis Pharma Research GmbH",
+      "arbeitgeberKundennummerHash": "SEvobAznPYalbV9nmJKVtjfvUHsdsRGAc0FpqwIxeBI=",
+      "referenznummer": "10001-1003871407-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Chemiker/in",
+        "Pharmazeut/in",
+        "Biochemiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Scientist (f/m/d) - Capillary Electrophoresis",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fraunhoferstr.",
+            "hausnummer": "18b",
+            "plz": "82152",
+            "ort": "Planegg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.111084,
+          "laenge": 11.4497055
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2025-11-24"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-24",
+      "aenderungsdatum": "2026-10-15T15:33:56.183",
+      "hauptberuf": "Biowissenschaftler/in",
+      "firma": "Coriolis Pharma Research GmbH",
+      "arbeitgeberKundennummerHash": "SEvobAznPYalbV9nmJKVtjfvUHsdsRGAc0FpqwIxeBI=",
+      "referenznummer": "10001-1002196434-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Biowissenschaftler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Governance Manager (w/m/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Westendstr.",
+            "hausnummer": "199",
+            "plz": "80686",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.132891,
+          "laenge": 11.5210575
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "6829",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-19",
+      "aenderungsdatum": "2026-10-26T10:59:13.089",
+      "hauptberuf": "Wirtschaftsinformatiker/in (Fachschule)/Bachelor Professional in Wirtschaft",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "TÜV SÜD AG",
+      "arbeitgeberKundennummerHash": "tEzj6nQqNr_Z-6qnqvrOYHx0bKaz-2PWUSdz-5nyTMw=",
+      "referenznummer": "10001-1003876418-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Data Scientist",
+        "Wirtschaftsinformatiker/in (Fachschule)/Bachelor Professional in Wirtschaft",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Postdoctoral Researcher (m/f/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 24,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Ismaninger Str.",
+            "hausnummer": "22",
+            "plz": "81675",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.137004,
+          "laenge": 11.5988355
+        }
+      ],
+      "chiffrenummer": "26_09_046",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-07"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-07",
+      "aenderungsdatum": "2026-11-09T13:32:46.473",
+      "hauptberuf": "Biologe/Biologin",
+      "firma": "Klinikum der Technischen Universität München (TUM Klinikum) AöR",
+      "arbeitgeberKundennummerHash": "tTuKeMcQP9G301kiFqP-43ulbscap9HhsZsZ3Q0SPG0=",
+      "referenznummer": "10001-1003815325-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Biologe/Biologin"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Postdoctoral Researcher (m/f/d) – Experimental Cancer Neuroscience",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 36,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Ismaninger Str.",
+            "hausnummer": "22",
+            "plz": "81675",
+            "ort": "München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.137004,
+          "laenge": 11.5988355
+        }
+      ],
+      "chiffrenummer": "26_09_031",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-11-09T13:33:14.380",
+      "hauptberuf": "Biologe/Biologin",
+      "firma": "Klinikum der Technischen Universität München (TUM Klinikum) AöR",
+      "arbeitgeberKundennummerHash": "tTuKeMcQP9G301kiFqP-43ulbscap9HhsZsZ3Q0SPG0=",
+      "referenznummer": "10001-1003843158-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Biologe/Biologin"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Postdoc (Physics) – Novel magnetic materials for spintronics a...",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Lichtenbergstr. 1",
+            "plz": "85748",
+            "ort": "Garching bei München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.266037,
+          "laenge": 11.675889
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T10:01:10.582",
+      "hauptberuf": "Physiker/in",
+      "firma": "Forschungszentrum Jülich GmbH P-VA Personalabrechnung",
+      "arbeitgeberKundennummerHash": "9ZIjxBSRdratGkaCdgswPwI19L2Iem-mpUWZ_-gYBMk=",
+      "referenznummer": "19380-ka2lgqwyx5-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Physiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Postdoc (Physics) – Hydrocarbon Membranes for Sustainable Ener...",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Lichtenbergstr. 1",
+            "plz": "85748",
+            "ort": "Garching bei München",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.266037,
+          "laenge": 11.675889
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T10:01:10.333",
+      "hauptberuf": "Physiker/in",
+      "firma": "Forschungszentrum Jülich GmbH P-VA Personalabrechnung",
+      "arbeitgeberKundennummerHash": "9ZIjxBSRdratGkaCdgswPwI19L2Iem-mpUWZ_-gYBMk=",
+      "referenznummer": "19380-asu9rb0ag9-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Physiker/in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2258 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Engineer",
+  "city": "Nürnberg",
+  "radius_km": 50,
+  "count": 53,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Principal Data Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "1632703",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-26",
+      "aenderungsdatum": "2026-10-26T17:13:44.057",
+      "externeURL": "https://www.jobexport.de/job/5283017.html?exp=81&cid=fa2f5bda-b0d9-4dfc-8950-3f22cb89a30e",
+      "hauptberuf": "Data Engineer",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-fa2f5bda_JB5283017-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-26"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "249711",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-26"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-26",
+      "aenderungsdatum": "2026-10-26T14:14:14.657",
+      "externeURL": "https://www.jobexport.de/job/5282732.html?exp=81&cid=b9645f9d-fff3-4fb8-bb53-4f1d0934f98c",
+      "hauptberuf": "Data Engineer",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-b9645f9d_JB5282732-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5880258,
+          "laenge": 11.0123432
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35115880",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:05:55.451",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jskzo-b",
+      "hauptberuf": "Data Engineer",
+      "firma": "Bertrandt Services GmbH",
+      "referenznummer": "12288-4996074284-S",
+      "entfernung": 18,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Engineer Celonis (all genders)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-07"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90403",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4544993,
+          "laenge": 11.079176
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-13",
+      "aenderungsdatum": "2026-11-07T07:05:55.817",
+      "externeURL": "https://gute-jobs.de/viewjob-sms6t?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=data-engineer-celonis-all-genders",
+      "hauptberuf": "Data Engineer",
+      "firma": "EXXETA AG",
+      "referenznummer": "12336-a26f1192j0456072-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer* / Machine Learning Engineer*",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 70000.0,
+      "gehaltsspanneBis": 85000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5823886,
+          "laenge": 10.9848618
+        }
+      ],
+      "chiffrenummer": "r5333",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-01-21"
+      },
+      "datumErsteVeroeffentlichung": "2025-05-22",
+      "aenderungsdatum": "2026-11-02T07:34:15.521",
+      "hauptberuf": "Data Engineer",
+      "firma": "inovex GmbH",
+      "arbeitgeberKundennummerHash": "9xPxVzI0AAN8g51FCj6infUxfay0yhdWR1aBH35sNw0=",
+      "referenznummer": "16752-r5333-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Professional Data-Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90429",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4562524,
+          "laenge": 11.0441458
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "1335032",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-11-16T08:04:04.541",
+      "externeURL": "https://www.jobexport.de/job/5278182.html?exp=81&cid=0822a73c-286e-46fd-92c3-6ce83aa5d7b5",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Informatiker/in",
+      "firma": "adorsys GmbH & Co. KG",
+      "referenznummer": "13635-0822a73c_JB5278182-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Scientist / Data Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Rettistraße 5",
+            "plz": "91522",
+            "ort": "Ansbach, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.313529,
+          "laenge": 10.570662
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-05-07",
+      "aenderungsdatum": "2026-11-04T07:45:42.358",
+      "hauptberuf": "Data Scientist",
+      "firma": "FEGA & Schmitt Elektrogroßhandel GmbH",
+      "arbeitgeberKundennummerHash": "B4MpSfpQTZRVP4OGrazT2GLFniPkEDAK54B2yadaYOE=",
+      "referenznummer": "16258-0064612468-S",
+      "entfernung": 41,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior BI & Data Solution Engineer (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-23"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Ytterbium",
+            "hausnummer": "4",
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.544091,
+          "laenge": 10.9877805
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-23T17:59:12.924",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Datenbankentwickler/in",
+      "alternativBeruf2": "ERP-Organisator/in",
+      "firma": "REHAU Industries SE & Co. KG",
+      "arbeitgeberKundennummerHash": "QwnQtM9QFKTBxAXy4xME6L9mmq1yzMu3wg9Yy37nCOQ=",
+      "referenznummer": "10001-1003844389-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Data Engineer",
+        "Datenbankentwickler/in",
+        "ERP-Organisator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Management Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91074",
+            "ort": "Herzogenaurach",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.568684314001,
+          "laenge": 10.87746745
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-06-29",
+      "aenderungsdatum": "2026-11-09T17:32:43.719",
+      "hauptberuf": "Datenbankadministrator/in",
+      "firma": "Guldberg GmbH",
+      "arbeitgeberKundennummerHash": "QB5xIhISpsaFFgNK0-kY8dcoIeRgCFCOXdoNrdgORqQ=",
+      "referenznummer": "13410-k13572.15799-S",
+      "entfernung": 22,
+      "alleBerufe": [
+        "Datenbankadministrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Platform Engineer - Snowflake & dbt (m/f/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5880258,
+          "laenge": 11.0123432
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35126179",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T18:04:49.791",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jst8x-b",
+      "hauptberuf": "Data Engineer",
+      "firma": "Bertrandt Services GmbH",
+      "referenznummer": "12288-4996071409-S",
+      "entfernung": 18,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI & Data Platform Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5880258,
+          "laenge": 11.0123432
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "35206747",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T07:09:05.977",
+      "externeURL": "https://www.persy.jobs/persy/l/job-jukwt-b",
+      "hauptberuf": "KI-Engineer",
+      "firma": "Bertrandt AG",
+      "referenznummer": "12288-4996075561-S",
+      "entfernung": 18,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Platform Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90449",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4262273,
+          "laenge": 11.0148448
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-28",
+      "aenderungsdatum": "2026-10-19T13:10:26.569",
+      "externeURL": "https://www.job.fish/heyrecruit/139497_19517_6ac9b84381bb7?utm_campaign=heyrecruit-multiposting&utm_source=bundesagentur&utm_medium=kostenloses-multiposting",
+      "hauptberuf": "Entwickler/in Digitale Medien",
+      "alternativBeruf1": "IT-Lösungsentwickler/in",
+      "alternativBeruf2": "IoT-Entwickler/in",
+      "firma": "ORDIX AG",
+      "referenznummer": "14922-139497-S",
+      "entfernung": 7,
+      "alleBerufe": [
+        "Entwickler/in Digitale Medien",
+        "IT-Lösungsentwickler/in",
+        "IoT-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "BI Engineer (m/w/d) – Data Engineering & KI-Infrastruktur",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-05"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91623",
+            "ort": "Sachsen bei Ansbach",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.2859323,
+          "laenge": 10.6523549
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2810464",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-05",
+      "aenderungsdatum": "2026-11-05T14:13:37.278",
+      "externeURL": "https://www.jobexport.de/job/5291517.html?exp=81&cid=a74a8156-5412-4999-92fa-d61a625af031",
+      "hauptberuf": "Data Engineer",
+      "firma": "zollsoft GmbH",
+      "referenznummer": "13635-a74a8156_JB5291517-S",
+      "entfernung": 37,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data & AI Platform Expert w/m/d",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.434845143,
+          "laenge": 11.100904183
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "215783",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-21",
+      "aenderungsdatum": "2026-11-13T09:40:15.266",
+      "hauptberuf": "Data Engineer",
+      "firma": "Computacenter AG & Co. oHG",
+      "arbeitgeberKundennummerHash": "HJym_zLlKOpczjUd3YuIqcO4eQdrO4DM9YcVzXh-EtU=",
+      "referenznummer": "10001-1003417833-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Azure Data Factory & Spark Data Engineer (w|m|d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 79000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90461",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.431213407,
+          "laenge": 11.09074854
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-20"
+      },
+      "datumErsteVeroeffentlichung": "2025-05-12",
+      "aenderungsdatum": "2026-11-15T07:39:16.540",
+      "hauptberuf": "Data Engineer",
+      "firma": "BridgingIT GmbH",
+      "arbeitgeberKundennummerHash": "d3x5CdaZpg2SeEhql2l4PQOmbh-JMmg1t9lZqcoACOo=",
+      "referenznummer": "15835-00090300248003-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer SAP & Snowflake (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.560916966,
+          "laenge": 11.007647684
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-18",
+      "aenderungsdatum": "2026-09-29T17:38:20.561",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Data-Consultant",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-506999-1796824-0-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "Data Engineer",
+        "Data-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Engineer - Data Warehouse & Lakehouse (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90449",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4262273,
+          "laenge": 11.0148448
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T13:05:32.161",
+      "externeURL": "https://www.job.fish/heyrecruit/146450_19826_6adf6b9be08cf?utm_campaign=heyrecruit-multiposting&utm_source=bundesagentur&utm_medium=kostenloses-multiposting",
+      "hauptberuf": "IT-Lösungsentwickler/in",
+      "alternativBeruf1": "Business-Analyst/in",
+      "alternativBeruf2": "Business-Intelligence-Consultant",
+      "firma": "ORDIX AG",
+      "referenznummer": "14922-146450-S",
+      "entfernung": 7,
+      "alleBerufe": [
+        "IT-Lösungsentwickler/in",
+        "Business-Analyst/in",
+        "Business-Intelligence-Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Engineer* für Datenprojekte",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5823886,
+          "laenge": 10.9848618
+        }
+      ],
+      "chiffrenummer": "r5445",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-01-21"
+      },
+      "datumErsteVeroeffentlichung": "2025-05-22",
+      "aenderungsdatum": "2026-11-02T07:32:42.360",
+      "hauptberuf": "Data Engineer",
+      "firma": "inovex GmbH",
+      "arbeitgeberKundennummerHash": "9xPxVzI0AAN8g51FCj6infUxfay0yhdWR1aBH35sNw0=",
+      "referenznummer": "16752-r5445-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Finance Master Data Advisor (f/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.560917,
+          "laenge": 11.0076477
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "306799",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-12T17:23:55.175",
+      "hauptberuf": "Data Engineer",
+      "firma": "Siemens Energy Global GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "HmhVIE5IrRBnk8cbtySzmaFEZpUH0t-x_DBDeMHrPi8=",
+      "referenznummer": "15170-496118402-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": " Data Scientist (m/w/d) People Analytics",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90431",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.447343052,
+          "laenge": 11.023885804
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-11T12:05:39.325",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Informatiker/in (Weiterbildung)",
+      "firma": "berg-it projektdienstleistungen GmbH",
+      "arbeitgeberKundennummerHash": "9xC1VhFKp_Fadgjha9gke52I0sNg7RzoMAykxoUbtQY=",
+      "referenznummer": "13372-13922252-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "Data Engineer",
+        "Informatiker/in",
+        "Informatiker/in (Weiterbildung)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT Solution Engineer - Data Center Networking (m/w/d),Nürnberg,Regensburg,Hauzenberg",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Nordostpark 16",
+            "plz": "90411",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.485681,
+          "laenge": 11.123478
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-05",
+      "aenderungsdatum": "2026-11-05T12:32:14.515",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/It-Solution-Engineer-Data-Center-Networking-D-1322684?cp=BA",
+      "hauptberuf": "IT-Lösungsentwickler/in",
+      "alternativBeruf1": "Data Engineer",
+      "alternativBeruf2": "Data-Consultant",
+      "firma": "ACP IT Solutions AG (Hauzenberg/Regensburg/Nürnberg)",
+      "referenznummer": "12811-2350623-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "Data Engineer",
+        "Data-Consultant",
+        "IT-Lösungsentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Data Engineers, Analysts & Scientists (w|m|d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90461",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.431213407,
+          "laenge": 11.09074854
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-20"
+      },
+      "datumErsteVeroeffentlichung": "2025-05-12",
+      "aenderungsdatum": "2026-11-15T07:39:19.468",
+      "hauptberuf": "Data Engineer",
+      "firma": "BridgingIT GmbH",
+      "arbeitgeberKundennummerHash": "d3x5CdaZpg2SeEhql2l4PQOmbh-JMmg1t9lZqcoACOo=",
+      "referenznummer": "15835-000903005a4001-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Engineer (m/w/d)",
+      "weitereBerufe": [
+        "KI Consultant"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Im Pinderpark",
+            "hausnummer": "5",
+            "plz": "90513",
+            "ort": "Zirndorf, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.439259,
+          "laenge": 10.948671
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-28",
+      "aenderungsdatum": "2026-11-13T08:31:17.976",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Data Scientist",
+      "alternativBeruf2": "Machine Learning Engineer",
+      "firma": "PureSolution GmbH EDV Dienstleistung und Software",
+      "arbeitgeberKundennummerHash": "S90V2KmeSpOAp7oQtDMFozYA79qi7bRXIrpdHhq8lQE=",
+      "referenznummer": "10001-1003455354-S",
+      "entfernung": 12,
+      "alleBerufe": [
+        "KI-Engineer",
+        "Data Scientist",
+        "Machine Learning Engineer",
+        "KI Consultant"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Architect (m/w/d) mit Schwerpunkt Data Mesh und Semantic Technologies",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90429",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4562524,
+          "laenge": 11.0441458
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "1335011",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-11-16T08:04:04.407",
+      "externeURL": "https://www.jobexport.de/job/5278181.html?exp=81&cid=f78a82f7-a6d6-4fc4-b09b-e8dced87536f",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "Software-Architect",
+      "firma": "adorsys GmbH & Co. KG",
+      "referenznummer": "13635-f78a82f7_JB5278181-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "Data Engineer",
+        "Software-Architect"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT Solution Engineer - Data Center Networking (m/w/d) - Gestalte mit uns IT-Landschaften",
+      "weitereBerufe": [
+        "IT Solution Engineer - Data Center Networking (m/w/d)"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-09"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Nordostpark",
+            "hausnummer": "16",
+            "plz": "90411",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.485681,
+          "laenge": 11.123478
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-07"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-07",
+      "aenderungsdatum": "2026-10-09T09:37:35.050",
+      "hauptberuf": "IT-Administrator/in",
+      "alternativBeruf1": "IT-Kundenbetreuer/in",
+      "alternativBeruf2": "IT-Berater/in",
+      "firma": "ACP IT Solutions AG",
+      "arbeitgeberKundennummerHash": "fVDBz-jeqJ6IFLaQT4NBXZgEyulQyTvvJHVI8a7YQAE=",
+      "referenznummer": "10001-1003816594-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "IT Solution Engineer - Data Center Networking (m/w/d)",
+        "IT-Administrator/in",
+        "IT-Kundenbetreuer/in",
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "BIM Data Specialist (m/w/d) OpenBIM, IFC & IDS",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.560916966,
+          "laenge": 11.007647684
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-08"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-08",
+      "aenderungsdatum": "2026-10-19T12:06:57.513",
+      "hauptberuf": "Data Engineer",
+      "alternativBeruf1": "IT-Systemadministrator/in",
+      "alternativBeruf2": "Netzwerkadministrator/in",
+      "firma": "iSK GmbH Personaldienstleistungen",
+      "arbeitgeberKundennummerHash": "0d7c8ScUMb0XDZTEhhkjPVZ9dGpBLrVHhiRS0WE4SeU=",
+      "referenznummer": "12262-13891542-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "Data Engineer",
+        "IT-Systemadministrator/in",
+        "Netzwerkadministrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Agent Developer / KI-Agentenentwickler (m/w/d) – Microsoft Copilot & Data Engineering",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.434845203000066,
+          "laenge": 11.100904083000046
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T18:12:02.272",
+      "hauptberuf": "KI-Engineer",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "alternativBeruf2": "Data Engineer",
+      "firma": "WAITS Software- und Prozessberatungsgesellschaft mbH",
+      "arbeitgeberKundennummerHash": "_Ubs_ARU_2pqrvQq9pMRh83VEXWWefSSpozIMTDqGto=",
+      "referenznummer": "10001-1003942812-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Engineer",
+        "KI-Engineer",
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Platform Engineer (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "70330",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-13T11:55:59.637",
+      "hauptberuf": "Informatiker/in",
+      "firma": "BWI GmbH",
+      "arbeitgeberKundennummerHash": "YllzIWAR0MdjVsi5dNGOXHuiLy55xF0e_EGmKFbGKr4=",
+      "referenznummer": "13509-000021113ca002-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Team Lead (f/m/d) Agentic Shopfloor Bridge",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Mozartstr.",
+            "hausnummer": "31 C",
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5920099,
+          "laenge": 11.0129857
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-16",
+      "aenderungsdatum": "2026-11-16T12:26:42.085",
+      "hauptberuf": "Data Engineer",
+      "firma": "SIEMENS AG",
+      "arbeitgeberKundennummerHash": "qbJA7Av3xavQmJRiVia1CAef1wx2jjzh1AMk86VarAc=",
+      "referenznummer": "10001-1004019221-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -052026-77165",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T09:07:41.273",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Fachinformatiker/in - Anwendungsentwicklung",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646576-7878-1018-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Fachinformatiker/in - Anwendungsentwicklung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Team Lead (f/m/d) Agent Foundry",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Mozartstr.",
+            "hausnummer": "31 C",
+            "plz": "91052",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.592007,
+          "laenge": 11.012985
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-13",
+      "aenderungsdatum": "2026-11-16T09:12:27.466",
+      "hauptberuf": "Data Engineer",
+      "firma": "SIEMENS AG",
+      "arbeitgeberKundennummerHash": "qbJA7Av3xavQmJRiVia1CAef1wx2jjzh1AMk86VarAc=",
+      "referenznummer": "10001-1004015145-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": " Requirements Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90431",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.447343052,
+          "laenge": 11.023885804
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-04",
+      "aenderungsdatum": "2026-11-04T17:05:15.348",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "Requirement-Manager/in",
+      "alternativBeruf2": "Wirtschaftsinformatiker/in - IT-Systeme",
+      "firma": "berg-it projektdienstleistungen GmbH",
+      "arbeitgeberKundennummerHash": "9xC1VhFKp_Fadgjha9gke52I0sNg7RzoMAykxoUbtQY=",
+      "referenznummer": "13372-13918322-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "Requirement-Manager/in",
+        "Wirtschaftsinformatiker/in - IT-Systeme"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps & Cloud Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -032026-74907",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T10:08:54.640",
+      "hauptberuf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-647037-7878-3320-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Anwendungsentwicklung",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Security Operations Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -062026-78603",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-28",
+      "aenderungsdatum": "2026-10-28T09:07:41.066",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf2": "Fachinformatiker/in - Digitale Vernetzung",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646574-7878-2855-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "IT-Systemadministrator/in",
+        "Fachinformatiker/in - Systemintegration",
+        "Fachinformatiker/in - Digitale Vernetzung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Dokumenten- und Datenmanager (m/w/d) Hochbau,Hamburg,Frankfurt am ...",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Schieräckerstraße 40",
+            "plz": "90431",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.456314,
+          "laenge": 11.010969
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-18"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-18",
+      "aenderungsdatum": "2026-11-11T12:32:08.696",
+      "externeURL": "https://www.finest-jobs.com/stellenanzeige/Dokumenten-Und-Datenmanager-D-Hochbau-1302556?cp=BA",
+      "hauptberuf": "Data Engineer",
+      "firma": "Max Bögl Bauservice GmbH und Co. KG",
+      "referenznummer": "12811-2316170-S",
+      "entfernung": 8,
+      "alleBerufe": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer Netzwerk (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -022026-73603",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T10:06:04.592",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf2": "Fachinformatiker/in - Digitale Vernetzung",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646513-7878-8792-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "IT-Systemadministrator/in",
+        "Fachinformatiker/in - Systemintegration",
+        "Fachinformatiker/in - Digitale Vernetzung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer (m/w/d) Linux",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -052026-76924",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-27"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-27",
+      "aenderungsdatum": "2026-10-27T10:06:04.836",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646517-7878-8375-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Cloud & Infrastructure Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -062026-78176",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T09:08:23.894",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646682-7878-3311-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Windows Deployment Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -082026-81015",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:13.553",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646369-7878-2444-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Cloud Infrastructure Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-23"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -092026-82370",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T10:05:44.766",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646431-7878-9881-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "DevOps Engineer (m/w/d) - Kubernetes & Infrastructure",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -102026-83930",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T17:04:06.229",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "Informatiker/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646716-7878-1669-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT Security Engineer (m/w/d)",
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90552",
+            "ort": "Röthenbach an der Pegnitz",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.47426853400003,
+          "laenge": 11.265190970000049
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-02"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-02",
+      "aenderungsdatum": "2026-11-02T14:51:25.098",
+      "hauptberuf": "IT-Sicherheitskoordinator/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "firma": "Neumüller Personalberatung Regina Neumüller e.K.",
+      "arbeitgeberKundennummerHash": "YXJFHwdHkPMPG5q0ffQdfp8Wg7o6d4uedtTvpb7_X9A=",
+      "referenznummer": "10001-1003949297-S",
+      "entfernung": 12,
+      "alleBerufe": [
+        "IT-Sicherheitskoordinator/in",
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer (m/w/d) - RACF / z/OS",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-21"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -042026-76466",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-21",
+      "aenderungsdatum": "2026-10-21T10:05:13.326",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "IT-Systemadministrator/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646366-7878-8846-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "IT-Systemadministrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT Support Engineer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91522",
+            "ort": "Ansbach, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.290772127,
+          "laenge": 10.561759328
+        }
+      ],
+      "chiffrenummer": "JN -112026-84348",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-11",
+      "aenderungsdatum": "2026-11-11T15:05:06.692",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "Fachinformatiker/in - Digitale Vernetzung",
+      "alternativBeruf2": "IT-Administrator/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-647077-7878-4657-S",
+      "entfernung": 43,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "Fachinformatiker/in - Digitale Vernetzung",
+        "IT-Administrator/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Generative AI Engineer (all gender)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-30"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.450846603,
+          "laenge": 11.089621301
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-23",
+      "aenderungsdatum": "2026-10-23T17:34:54.080",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "ALTEN Consulting Services GmbH",
+      "arbeitgeberKundennummerHash": "YElyxefANYAMNaISGkkg8bKO-qTwwMlsnJhtDyZRWIo=",
+      "referenznummer": "13185-507253-1801047-0-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT System Engineer (m/w/d) z/OS Netzwerk und Security",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -042026-76465",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-10",
+      "aenderungsdatum": "2026-11-10T10:08:54.836",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf1": "Informatiker/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-647039-7878-7799-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Systems Engineer Windows Server Support (m/w/d)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Emmericher Str.",
+            "hausnummer": "13",
+            "plz": "90411",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.48703610000007,
+          "laenge": 11.101513284000077
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-04"
+      },
+      "datumErsteVeroeffentlichung": "2025-08-06",
+      "aenderungsdatum": "2026-11-04T09:39:38.418",
+      "hauptberuf": "Fachinformatiker/in - Systemintegration",
+      "firma": "MR Datentechnik Vertriebs- und Service GmbH",
+      "arbeitgeberKundennummerHash": "7bvz-JuW2NcqIsa3nvG8XKWn5B9fYVcA4vkH2tk7fk8=",
+      "referenznummer": "10001-1001659141-S",
+      "entfernung": 6,
+      "alleBerufe": [
+        "Fachinformatiker/in - Systemintegration"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Professional System Engineer / IT System Administrator Test- & Plattformbetrieb (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90489",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.458193429,
+          "laenge": 11.098426766
+        }
+      ],
+      "chiffrenummer": "JN -092026-82570",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-30",
+      "aenderungsdatum": "2026-10-30T13:06:30.307",
+      "hauptberuf": "IT-Systemadministrator/in",
+      "alternativBeruf1": "Fachinformatiker/in - Systemintegration",
+      "alternativBeruf2": "Informatiker/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "Ks4zP0qZnV2Fp0oFaFieYngy2QHudD1Z9uwKOlHVGbs=",
+      "referenznummer": "12634-BB-646703-7878-7145-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "IT-Systemadministrator/in",
+        "Fachinformatiker/in - Systemintegration",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Supplier Quality Engineer (f/m/d) - Piping",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.560917,
+          "laenge": 11.0076477
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "304962",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-11-11T13:03:28.712",
+      "hauptberuf": "Ingenieur/in - Mechanik",
+      "firma": "Siemens Energy Global GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "HmhVIE5IrRBnk8cbtySzmaFEZpUH0t-x_DBDeMHrPi8=",
+      "referenznummer": "15170-493378550-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "Ingenieur/in - Mechanik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Power Systems and Controls Engineer (f/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-02-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "91058",
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.560917,
+          "laenge": 11.0076477
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "306334",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-12",
+      "aenderungsdatum": "2026-11-12T17:23:55.648",
+      "hauptberuf": "Ingenieur/in - Energietechnik",
+      "firma": "Siemens Energy Global GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "HmhVIE5IrRBnk8cbtySzmaFEZpUH0t-x_DBDeMHrPi8=",
+      "referenznummer": "15170-495637648-S",
+      "entfernung": 16,
+      "alleBerufe": [
+        "Ingenieur/in - Energietechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT System Engineer - Modern Datacenter/Hybrid Cloud Plattform (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-05-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Bechtle Platz",
+            "hausnummer": "1",
+            "plz": "90429",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4562524,
+          "laenge": 11.0441458
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "81763",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-02-14",
+      "aenderungsdatum": "2026-11-11T12:51:01.034",
+      "hauptberuf": "IT-Berater/in",
+      "firma": "Bechtle AG",
+      "arbeitgeberKundennummerHash": "EJiA5e5WtbxLv88mkzJRHL_DgiNrKSJ6r1oaRKtlSIU=",
+      "referenznummer": "15086-43971689-213-S",
+      "entfernung": 5,
+      "alleBerufe": [
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Python Backend Engineer* (AI Focus)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-02"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 75000.0,
+      "gehaltsspanneBis": 90000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Erlangen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.5823886,
+          "laenge": 10.9848618
+        }
+      ],
+      "chiffrenummer": "r14241",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-04-01",
+      "aenderungsdatum": "2026-11-02T07:23:00.324",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "inovex GmbH",
+      "arbeitgeberKundennummerHash": "9xPxVzI0AAN8g51FCj6infUxfay0yhdWR1aBH35sNw0=",
+      "referenznummer": "16752-r14241-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "AI Solution Architect (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "90402",
+            "ort": "Nürnberg, Mittelfranken",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.4508466,
+          "laenge": 11.0896213
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 80,
+      "chiffrenummer": "r18076",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-14",
+      "aenderungsdatum": "2026-11-13T07:40:53.956",
+      "hauptberuf": "KI-Engineer",
+      "firma": "virtual7 GmbH",
+      "arbeitgeberKundennummerHash": "zWBMPPB7sAPLABJNiAPvJFp0bYRzBGac3zGyqdYs-3Q=",
+      "referenznummer": "19718-r18076-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "KI-Engineer"
+      ]
+    }
+  ]
+}

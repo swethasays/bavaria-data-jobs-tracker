@@ -1,0 +1,97 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Scientist",
+  "city": "Regensburg",
+  "radius_km": 50,
+  "count": 2,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Data Scientist (m/w/d) – Fokus Business Analytics",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "84051",
+            "ort": "Essenbach, Niederbayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.6213179,
+          "laenge": 12.2195633
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2836358",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-29",
+      "aenderungsdatum": "2026-10-29T14:04:56.637",
+      "externeURL": "https://www.jobexport.de/job/5285329.html?exp=81&cid=80530ff2-23f5-4a17-b0a4-8096055de75f",
+      "hauptberuf": "Data Scientist",
+      "firma": "Alexander Thamm GmbH",
+      "referenznummer": "13635-80530ff2_JB5285329-S",
+      "entfernung": 45,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Project Manager AI and Data Science",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "93049",
+            "ort": "Regensburg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 49.0173183,
+          "laenge": 12.0607433
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "HRC1636571",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-15",
+      "aenderungsdatum": "2026-11-09T17:41:52.112",
+      "hauptberuf": "Data Scientist",
+      "firma": "Infineon Technologies AG",
+      "arbeitgeberKundennummerHash": "X6Sb94BmLvtJEp_8p6XoEX_WqHnL7jtdOJ1TYFcHzFk=",
+      "referenznummer": "12874-1643452-1-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    }
+  ]
+}

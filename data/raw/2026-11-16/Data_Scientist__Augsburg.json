@@ -1,0 +1,318 @@
+{
+  "fetched_at": "2026-11-16",
+  "search_term": "Data Scientist",
+  "city": "Augsburg",
+  "radius_km": 50,
+  "count": 7,
+  "postings": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Modelling Scientist (f/m/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-13"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fraunhoferstr.",
+            "hausnummer": "18b",
+            "plz": "82152",
+            "ort": "Planegg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.111084,
+          "laenge": 11.4497055
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-11-13T08:41:49.402",
+      "hauptberuf": "Data Scientist",
+      "alternativBeruf1": "Biomathematiker/in",
+      "alternativBeruf2": "Pharmazeut/in",
+      "firma": "Coriolis Pharma Research GmbH",
+      "arbeitgeberKundennummerHash": "SEvobAznPYalbV9nmJKVtjfvUHsdsRGAc0FpqwIxeBI=",
+      "referenznummer": "10001-1003870214-S",
+      "entfernung": 49,
+      "alleBerufe": [
+        "Data Scientist",
+        "Biomathematiker/in",
+        "Pharmazeut/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Produktmanager (m/w/d) AI & Data Science Mietwagen",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Viktoriastraße 7",
+            "plz": "86150",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.367202975,
+          "laenge": 10.886053159
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-06",
+      "aenderungsdatum": "2026-11-16T07:48:06.801",
+      "hauptberuf": "Data Scientist",
+      "firma": "CHECK24 Services Personal GmbH",
+      "arbeitgeberKundennummerHash": "ATlvyTemXbegu9lQNQ29igPMUF9O2QuFjimoEWazx40=",
+      "referenznummer": "20208-c59f264a5c954d0188c-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "2027 : Dualer Student (m/w/d) Data Science und Künstliche Intelligenz- Start 2027",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-05"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86152",
+            "ort": "Augsburg, Bayern",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.371255355,
+          "laenge": 10.893524672
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-20",
+      "aenderungsdatum": "2026-11-05T07:32:04.793",
+      "hauptberuf": "Data Scientist",
+      "firma": "Stadtwerke Augsburg Holding GmbH",
+      "arbeitgeberKundennummerHash": "wnUzlKq-IKn8pcaenMr48mCnKFALLm9-5w55Nr0XLsU=",
+      "referenznummer": "18624-0066865795-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Data Scientist"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Development Engineer Optronic Testing and Data Acquisition (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-09"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 55000.0,
+      "gehaltsspanneBis": 70000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "86529",
+            "ort": "Schrobenhausen",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.574031013,
+          "laenge": 11.238474019
+        }
+      ],
+      "chiffrenummer": "VA55-61712-A",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-11-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-11-09",
+      "aenderungsdatum": "2026-11-09T07:45:44.260",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Physiker/in",
+      "alternativBeruf2": "Data Scientist",
+      "firma": "FERCHAU GmbH Niederlassung Augsburg",
+      "arbeitgeberKundennummerHash": "L4oXxRWTUuz2EXhZk7NVVtRVcsWmeve2BFUqJjk6waU=",
+      "referenznummer": "12265-523804_JB5293548-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Data Scientist",
+        "Informatiker/in",
+        "Physiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Principal Scientist (w/m/d) - In Silico Research & Modeling",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 90000.0,
+      "gehaltsspanneBis": 110000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fraunhoferstr.",
+            "hausnummer": "18b",
+            "plz": "82152",
+            "ort": "Planegg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.111084,
+          "laenge": 11.4497055
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-10-22T14:00:01.063",
+      "hauptberuf": "Ingenieur/in - Biotechnologie",
+      "alternativBeruf1": "Biophysiker/in",
+      "alternativBeruf2": "Pharmazeut/in",
+      "firma": "Coriolis Pharma Research GmbH",
+      "arbeitgeberKundennummerHash": "SEvobAznPYalbV9nmJKVtjfvUHsdsRGAc0FpqwIxeBI=",
+      "referenznummer": "10001-1003871298-S",
+      "entfernung": 49,
+      "alleBerufe": [
+        "Ingenieur/in - Biotechnologie",
+        "Biophysiker/in",
+        "Pharmazeut/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Scientist (f/m/d) - Capillary Electrophoresis",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-22"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 90000.0,
+      "gehaltsspanneBis": 110000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fraunhoferstr.",
+            "hausnummer": "18b",
+            "plz": "82152",
+            "ort": "Planegg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.111084,
+          "laenge": 11.4497055
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-10-22T13:44:44.680",
+      "hauptberuf": "Chemiker/in",
+      "alternativBeruf1": "Pharmazeut/in",
+      "alternativBeruf2": "Biochemiker/in",
+      "firma": "Coriolis Pharma Research GmbH",
+      "arbeitgeberKundennummerHash": "SEvobAznPYalbV9nmJKVtjfvUHsdsRGAc0FpqwIxeBI=",
+      "referenznummer": "10001-1003871407-S",
+      "entfernung": 49,
+      "alleBerufe": [
+        "Chemiker/in",
+        "Pharmazeut/in",
+        "Biochemiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Scientist (f/m/d) - Capillary Electrophoresis",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fraunhoferstr.",
+            "hausnummer": "18b",
+            "plz": "82152",
+            "ort": "Planegg",
+            "region": "BAYERN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 48.111084,
+          "laenge": 11.4497055
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2025-11-24"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-24",
+      "aenderungsdatum": "2026-10-15T15:33:56.183",
+      "hauptberuf": "Biowissenschaftler/in",
+      "firma": "Coriolis Pharma Research GmbH",
+      "arbeitgeberKundennummerHash": "SEvobAznPYalbV9nmJKVtjfvUHsdsRGAc0FpqwIxeBI=",
+      "referenznummer": "10001-1002196434-S",
+      "entfernung": 49,
+      "alleBerufe": [
+        "Biowissenschaftler/in"
+      ]
+    }
+  ]
+}
